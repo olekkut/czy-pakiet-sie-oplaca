@@ -120,24 +120,30 @@ def city_report(client: DiagClient, city: str, refresh: bool) -> Optional[Dict[s
     return report
 
 
-def city_summary(report: Dict[str, Any]) -> Dict[str, Any]:
-    """Jak bardzo w danym mieście opłacają się pakiety z co najmniej dwoma badaniami."""
+def package_stats(report: Dict[str, Any]) -> Dict[str, Any]:
+    """Jak bardzo w danym cenniku opłacają się pakiety z co najmniej dwoma badaniami."""
     multi = [
         row for row in report["pakiety"]
         if row["oszczednosc_proc"] is not None and row["liczba_badan"] > 1
     ]
     cheaper = sum(row["werdykt"] == OPLACALNY for row in multi)
-    latitude, longitude = CITIES[report["miasto"]]
     return {
-        "miasto": report["miasto"],
-        "punkt": report["punkt"],
-        "id_punktu": report["id_punktu"],
         "pakiety_2plus": len(multi),
         "tansze_2plus": cheaper,
         "tansze_2plus_proc": round(cheaper / len(multi) * 100.0, 1) if multi else None,
         "mediana_oszczednosci_2plus_proc": (
             round(statistics.median(row["oszczednosc_proc"] for row in multi), 1) if multi else None
         ),
+    }
+
+
+def city_summary(report: Dict[str, Any]) -> Dict[str, Any]:
+    latitude, longitude = CITIES[report["miasto"]]
+    return {
+        "miasto": report["miasto"],
+        "punkt": report["punkt"],
+        "id_punktu": report["id_punktu"],
+        **package_stats(report),
         "szerokosc_geogr": latitude,
         "dlugosc_geogr": longitude,
     }

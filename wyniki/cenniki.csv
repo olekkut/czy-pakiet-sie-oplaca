@@ -1,0 +1,51 @@
+cennik,punkty,miasta,glowne_miasta,wojewodztwa,indeks_cen_badan,tansze_2plus_proc,mediana_oszczednosci_2plus_proc
+leszno,126,58,"Poznań, Gniezno, Leszno, Ostrów Wielkopolski, Piła","kujawsko-pomorskie, wielkopolskie",95.70,93.60,32.80
+jelenia_gora,115,49,"Wrocław, Kalisz, Legnica, Wałbrzych, Lubin","dolnośląskie, opolskie, wielkopolskie, łódzkie",100.50,92.40,25.70
+bydgoszcz,95,35,"Bydgoszcz, Toruń, Grudziądz, Inowrocław, Złotów","kujawsko-pomorskie, wielkopolskie",96.60,93.60,26.00
+warszawa,80,24,"Warszawa, Grodzisk Mazowiecki, Mińsk Mazowiecki, Piastów, Żyrardów",mazowieckie,94.90,95.00,37.60
+katowice,78,33,"Katowice, Jastrzębie-Zdrój, Tychy, Tarnowskie Góry, Gliwice","małopolskie, śląskie",101.00,88.60,15.10
+konin,76,33,"Łódź, Konin, Kutno, Tomaszów Mazowiecki, Łowicz","wielkopolskie, łódzkie",98.70,94.50,29.40
+koszalin,76,24,"Szczecin, Stargard, Koszalin, Kołobrzeg, Gryfino",zachodniopomorskie,101.00,94.00,30.70
+kielce,58,19,"Kielce, Mielec, Ostrowiec Świętokrzyski, Busko-Zdrój, Skarżysko-Kamienna","podkarpackie, śląskie, świętokrzyskie",97.70,90.90,17.30
+gdansk,51,19,"Gdańsk, Gdynia, Wejherowo, Rumia, Kartuzy",pomorskie,100.10,94.10,30.60
+krakow,48,16,"Kraków, Nowy Targ, Mszana Dolna, Myślenice, Miechów",małopolskie,97.60,93.30,24.30
+bialystok,46,23,"Białystok, Suwałki, Ełk, Łomża, Augustów","mazowieckie, podlaskie, warmińsko-mazurskie",96.00,92.60,22.90
+biala_podlaska,42,20,"Lublin, Zamość, Puławy, Biała Podlaska, Ryki",lubelskie,96.10,88.90,12.00
+gorzow_wielkopolski,41,26,"Gorzów Wielkopolski, Zielona Góra, Świebodzin, Nowa Sól, Słubice","lubuskie, wielkopolskie, zachodniopomorskie",100.50,91.80,25.90
+bielsko_biala,32,16,"Bielsko-Biała, Oświęcim, Andrychów, Cieszyn, Czechowice-Dziedzice","małopolskie, śląskie",101.20,89.00,14.60
+ciechanow,28,20,"Radom, Siedlce, Grójec, Płock, Siemiatycze","mazowieckie, podlaskie",94.90,94.10,32.40
+opole,28,20,"Opole, Krapkowice, Namysłów, Kędzierzyn-Koźle, Głubczyce","opolskie, śląskie",99.10,90.00,14.90
+czestochowa,23,7,"Częstochowa, Radomsko, Blachownia, Poraj, Wręczyca Wielka","łódzkie, śląskie",97.40,90.00,15.40
+slupsk,21,10,"Słupsk, Chojnice, Lębork, Tczew, Bytów","pomorskie, zachodniopomorskie",99.90,94.10,25.20
+elblag,18,7,"Elbląg, Braniewo, Malbork, Dzierzgoń, Stegna","pomorskie, warmińsko-mazurskie",93.80,93.60,29.70
+pajeczno,16,12,"Pajęczno, Kup, Wodzisław Śląski, Łódź, Mysłowice","małopolskie, opolskie, łódzkie, śląskie",106.60,,
+ilawa,15,8,"Iława, Kwidzyn, Prabuty, Lubawa, Nowe Miasto Lubawskie","pomorskie, warmińsko-mazurskie",93.70,92.70,24.70
+olsztyn,15,8,"Olsztyn, Bartoszyce, Szczytno, Nidzica, Biskupiec",warmińsko-mazurskie,93.80,93.60,29.20
+przemysl,13,12,"Jarosław, Przemyśl, Sanok, Łańcut, Nowa Sarzyna",podkarpackie,98.20,88.80,13.30
+krosno,11,7,"Tarnów, Dębica, Tuchów, Jasło, Dąbrowa Tarnowska","małopolskie, podkarpackie",100.90,68.40,4.70
+rzeszow,11,1,Rzeszów,podkarpackie,98.20,88.60,15.40
+nowy_sacz,10,5,"Nowy Sącz, Gorlice, Grybów, Biecz, Krynica-Zdrój",małopolskie,97.40,90.00,18.90
+wloclawek,10,4,"Włocławek, Lipno, Rypin, Sierpc","kujawsko-pomorskie, mazowieckie",96.70,93.60,28.30
+gdansk_452,6,1,Gdańsk,pomorskie,100.10,94.10,30.50
+morag,6,4,"Morąg, Ostróda, Lidzbark Warmiński, Górowo Iławeckie",warmińsko-mazurskie,93.70,93.20,25.20
+szczecinek,4,1,Szczecinek,zachodniopomorskie,100.70,91.50,22.60
+tarnowskie_gory,4,4,"Tarnowskie Góry, Wolbrom, Chorzów, Orzesze","małopolskie, śląskie",107.20,89.10,15.30
+lwowek_slaski,3,2,"Lwówek Śląski, Bolesławiec",dolnośląskie,99.50,,
+wielun,3,1,Wieluń,łódzkie,106.60,,
+wroclaw_1706,3,2,"Wrocław, Kościelna Wieś","dolnośląskie, wielkopolskie",103.70,92.00,22.10
+brzeszcze,2,2,"Brzeszcze, Skoczów","małopolskie, śląskie",107.40,89.10,14.60
+kalwaria_zebrzydowska,2,2,"Kalwaria Zebrzydowska, Skawina",małopolskie,95.90,91.80,21.70
+klobuck,2,2,"Kłobuck, Krzepice",śląskie,102.40,,
+namyslow,2,1,Namysłów,opolskie,102.70,,
+sztum,2,1,Sztum,pomorskie,99.90,93.20,24.80
+biala,1,1,Biała,opolskie,104.30,85.70,13.20
+krakow_1702,1,1,Kraków,małopolskie,98.00,92.30,21.60
+krzepice,1,1,Krzepice,śląskie,102.20,84.10,12.00
+limanowa,1,1,Limanowa,małopolskie,96.00,89.10,15.50
+lodz_1703,1,1,Łódź,łódzkie,102.70,93.90,27.50
+lubsko,1,1,Lubsko,lubuskie,106.70,92.30,25.80
+mlawa,1,1,Mława,mazowieckie,101.10,94.10,31.50
+opole_779,1,1,Opole,opolskie,100.20,,
+ozarow_mazowiecki,1,1,Ożarów Mazowiecki,mazowieckie,101.10,95.00,37.30
+plewiska,1,1,Plewiska,wielkopolskie,102.00,94.10,32.90
+rzeszow_1717,1,1,Rzeszów,podkarpackie,103.10,88.20,10.90

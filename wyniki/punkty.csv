@@ -1,0 +1,1236 @@
+id,punkt,miasto,wojewodztwo,typ,szerokosc_geogr,dlugosc_geogr,cennik,indeks_cen_badan,tansze_2plus_proc,mediana_oszczednosci_2plus_proc
+1,"Wieruszów, ul. Fabryczna 6",Wieruszów,łódzkie,1. Punkt pobrań,51.30,18.16,jelenia_gora,100.50,92.40,25.70
+2,"Łowicz, ul. Świętojańska 1/3b",Łowicz,łódzkie,1. Punkt pobrań,52.11,19.93,konin,98.70,94.50,29.40
+3,"Aleksandrów Łódzki, ul. Warszawska 13/13a",Aleksandrów Łódzki,łódzkie,1. Punkt pobrań,51.82,19.31,konin,98.70,94.50,29.40
+4,"Bartoszyce, ul. Warmińska 26",Bartoszyce,warmińsko-mazurskie,1. Punkt pobrań,54.25,20.82,olsztyn,93.80,93.60,29.20
+6,"Biała Podlaska, ul. Janowska 76",Biała Podlaska,lubelskie,1. Punkt pobrań,52.05,23.12,biala_podlaska,96.10,88.90,12.00
+9,"Białystok, ul. Antoniukowska 11",Białystok,podlaskie,1. Punkt pobrań,53.14,23.14,bialystok,96.00,92.60,22.90
+10,"Białystok, ul. Legionowa 3/4",Białystok,podlaskie,1. Punkt pobrań,53.13,23.16,bialystok,96.00,92.60,22.90
+11,"Białystok, ul. Żeromskiego 1b/12a",Białystok,podlaskie,1. Punkt pobrań,53.11,23.13,bialystok,96.00,92.60,22.90
+13,"Białystok, ul. Witosa 15b",Białystok,podlaskie,1. Punkt pobrań,53.13,23.11,bialystok,96.00,92.60,22.90
+14,"Biecz, ul. Tysiąclecia 3",Biecz,małopolskie,1. Punkt pobrań,49.73,21.25,nowy_sacz,97.40,90.00,18.90
+15,"Bielawa, ul. Rotmistrza Witolda Pileckiego 10b",Bielawa,dolnośląskie,1. Punkt pobrań,50.68,16.61,jelenia_gora,100.50,92.40,25.70
+16,"Bielsko-Biała, ul. Żywiecka 71",Bielsko-Biała,śląskie,1. Punkt pobrań,49.81,19.06,bielsko_biala,101.20,89.00,14.60
+17,"Bielsko-Biała, ul. Piłsudskiego 7",Bielsko-Biała,śląskie,1. Punkt pobrań,49.83,19.05,bielsko_biala,101.20,89.00,14.60
+18,"Bielsko-Biała, ul. Kresowa 3",Bielsko-Biała,śląskie,1. Punkt pobrań,49.83,19.04,bielsko_biala,101.20,89.00,14.60
+20,"Borówiec, ul. Szkolna 1c",Borówiec,wielkopolskie,1. Punkt pobrań,52.28,17.04,leszno,95.70,93.60,32.80
+21,"Brodnica, ul. Korczaka 2",Brodnica,kujawsko-pomorskie,1. Punkt pobrań,53.25,19.42,bydgoszcz,96.60,93.60,26.00
+22,"Brzeziny, ul. M. Skłodowskiej-Curie 6",Brzeziny,łódzkie,1. Punkt pobrań,51.81,19.75,konin,98.70,94.50,29.40
+23,"Buk, ul. Kościuszki 2b",Buk,wielkopolskie,1. Punkt pobrań,52.35,16.52,leszno,95.70,93.60,32.80
+24,"Busko-Zdrój, ul. Stefana Batorego 10",Busko-Zdrój,świętokrzyskie,1. Punkt pobrań,50.47,20.72,kielce,97.70,90.90,17.30
+25,"Busko-Zdrój, ul. Bohaterów Warszawy 106",Busko-Zdrój,świętokrzyskie,1. Punkt pobrań,50.47,20.71,kielce,97.70,90.90,17.30
+26,"Bydgoszcz, ul. Gen. A. E. Fieldorfa Nila 4a",Bydgoszcz,kujawsko-pomorskie,1. Punkt pobrań,53.15,18.13,bydgoszcz,96.60,93.60,26.00
+27,"Bydgoszcz, ul. Ks. Ryszarda Markwarta 4-6",Bydgoszcz,kujawsko-pomorskie,1. Punkt pobrań,53.13,18.01,bydgoszcz,96.60,93.60,26.00
+28,"Bytom, pl. Stefana Żeromskiego 1",Bytom,śląskie,1. Punkt pobrań,50.39,18.88,katowice,101.00,88.60,15.10
+29,"Bytom, ul. Stefana Batorego 16",Bytom,śląskie,1. Punkt pobrań,50.35,18.91,katowice,101.00,88.60,15.10
+30,"Chorzów, ul. Zjednoczenia 3",Chorzów,śląskie,1. Punkt pobrań,50.29,18.95,katowice,101.00,88.60,15.10
+31,"Cieszyn, ul. Bielska 37",Cieszyn,śląskie,1. Punkt pobrań,49.75,18.64,bielsko_biala,101.20,89.00,14.60
+32,"Cieszyn, ul. Michejdy 40",Cieszyn,śląskie,1. Punkt pobrań,49.75,18.63,bielsko_biala,101.20,89.00,14.60
+33,"Czechowice-Dziedzice, ul. Krótka 4",Czechowice-Dziedzice,śląskie,1. Punkt pobrań,49.91,19.00,bielsko_biala,101.20,89.00,14.60
+35,"Częstochowa, ul. Mickiewicza 12",Częstochowa,śląskie,1. Punkt pobrań,50.80,19.12,czestochowa,97.40,90.00,15.40
+36,"Częstochowa, al. Pokoju 44",Częstochowa,śląskie,1. Punkt pobrań,50.79,19.17,czestochowa,97.40,90.00,15.40
+37,"Częstochowa, al. Wolności 46",Częstochowa,śląskie,1. Punkt pobrań,50.80,19.12,czestochowa,97.40,90.00,15.40
+38,"Częstochowa, ul. Mirowska 15",Częstochowa,śląskie,1. Punkt pobrań,50.81,19.13,czestochowa,97.40,90.00,15.40
+39,"Częstochowa, ul. Bony 1/3",Częstochowa,śląskie,1. Punkt pobrań,50.81,19.10,czestochowa,97.40,90.00,15.40
+40,"Częstochowa, ul. Czecha 21",Częstochowa,śląskie,1. Punkt pobrań,50.84,19.13,czestochowa,97.40,90.00,15.40
+41,"Częstochowa, ul. Michałowskiego 6",Częstochowa,śląskie,1. Punkt pobrań,50.84,19.12,czestochowa,97.40,90.00,15.40
+43,"Częstochowa, ul. Wały Dwernickiego 43/45",Częstochowa,śląskie,1. Punkt pobrań,50.82,19.12,czestochowa,97.40,90.00,15.40
+44,"Częstochowa, ul. Sułkowskiego 17",Częstochowa,śląskie,1. Punkt pobrań,50.82,19.12,czestochowa,97.40,90.00,15.40
+45,"Częstochowa, ul. Kilińskiego 166",Częstochowa,śląskie,1. Punkt pobrań,50.83,19.11,czestochowa,97.40,90.00,15.40
+46,"Dąbrowa Górnicza, al. Piłsudskiego 92",Dąbrowa Górnicza,śląskie,1. Punkt pobrań,50.34,19.27,katowice,101.00,88.60,15.10
+47,"Dąbrowa Górnicza, ul. Szpitalna 13",Dąbrowa Górnicza,śląskie,1. Punkt pobrań,50.32,19.18,katowice,101.00,88.60,15.10
+49,"Dęblin, ul. Stężycka 11",Dęblin,lubelskie,1. Punkt pobrań,51.57,21.83,biala_podlaska,96.10,88.90,12.00
+51,"Dopiewo, ul. Łąkowa 2",Dopiewo,wielkopolskie,1. Punkt pobrań,52.36,16.68,leszno,95.70,93.60,32.80
+52,"Elbląg, ul. Gdyńska 51",Elbląg,warmińsko-mazurskie,1. Punkt pobrań,54.18,19.42,elblag,93.80,93.60,29.70
+53,"Ełk, ul. Gdańska 17",Ełk,warmińsko-mazurskie,1. Punkt pobrań,53.83,22.35,bialystok,96.00,92.60,22.90
+54,"Gdańsk, ul. Kołobrzeska 63f",Gdańsk,pomorskie,1. Punkt pobrań,54.41,18.60,gdansk,100.10,94.10,30.60
+55,"Gdańsk, ul. Polanki 117",Gdańsk,pomorskie,1. Punkt pobrań,54.39,18.57,gdansk,100.10,94.10,30.60
+56,"Gdańsk, ul. Cieszyńskiego 38/6",Gdańsk,pomorskie,1. Punkt pobrań,54.34,18.61,gdansk,100.10,94.10,30.60
+57,"Gdów, ul. Krakowska 4",Gdów,małopolskie,1. Punkt pobrań,49.91,20.20,krakow,97.60,93.30,24.30
+59,"Gdynia, ul. Gen. Marii Wittekówny 2",Gdynia,pomorskie,4. Punkt Kontrahenta,54.55,18.52,gdansk,100.10,94.10,30.60
+60,"Gdynia, ul. Wielkopolska 44",Gdynia,pomorskie,1. Punkt pobrań,54.48,18.54,gdansk,100.10,94.10,30.60
+61,"Głogów, ul. Słodowa 40",Głogów,dolnośląskie,1. Punkt pobrań,51.66,16.09,jelenia_gora,100.50,92.40,25.70
+62,"Głubczyce, ul. Sienkiewicza 1",Głubczyce,opolskie,1. Punkt pobrań,50.20,17.83,opole,99.10,90.00,14.90
+63,"Gniezno, ul. Jeziorna 13a",Gniezno,wielkopolskie,1. Punkt pobrań,52.53,17.59,leszno,95.70,93.60,32.80
+64,"Gniezno, os. Kazimierza Wielkiego 7",Gniezno,wielkopolskie,1. Punkt pobrań,52.55,17.60,leszno,95.70,93.60,32.80
+65,"Gorlice, ul. Sienkiewicza 36",Gorlice,małopolskie,1. Punkt pobrań,49.65,21.17,nowy_sacz,97.40,90.00,18.90
+66,"Gorzów Wielkopolski, ul. Warszawska 6/208",Gorzów Wielkopolski,lubuskie,1. Punkt pobrań,52.73,15.25,gorzow_wielkopolski,100.50,91.80,25.90
+67,"Gorzów Wielkopolski, ul. Piłsudskiego 15",Gorzów Wielkopolski,lubuskie,1. Punkt pobrań,52.74,15.24,gorzow_wielkopolski,100.50,91.80,25.90
+72,"Grajewo, os. Południe 9",Grajewo,podlaskie,1. Punkt pobrań,53.65,22.47,bialystok,96.00,92.60,22.90
+74,"Grodzisk Mazowiecki, ul. 11 Listopada 1",Grodzisk Mazowiecki,mazowieckie,1. Punkt pobrań,52.11,20.62,warszawa,94.90,95.00,37.60
+75,"Grodzisk Wielkopolski, ul. Mossego 23",Grodzisk Wielkopolski,wielkopolskie,1. Punkt pobrań,52.23,16.37,leszno,95.70,93.60,32.80
+77,"Grójec, ul. Piotra Skargi 10",Grójec,mazowieckie,1. Punkt pobrań,51.87,20.87,ciechanow,94.90,94.10,32.40
+78,"Grudziądz, ul. Starorynkowa 6/8",Grudziądz,kujawsko-pomorskie,1. Punkt pobrań,53.49,18.75,bydgoszcz,96.60,93.60,26.00
+79,"Grybów, ul. Kościuszki 17",Grybów,małopolskie,1. Punkt pobrań,49.62,20.95,nowy_sacz,97.40,90.00,18.90
+80,"Gryfino, ul. Niepodległości 39",Gryfino,zachodniopomorskie,1. Punkt pobrań,53.25,14.49,koszalin,101.00,94.00,30.70
+81,"Gryfino, ul. 11 Listopada 12a",Gryfino,zachodniopomorskie,1. Punkt pobrań,53.26,14.50,koszalin,101.00,94.00,30.70
+82,"Iława, ul. Mierosławskiego 12",Iława,warmińsko-mazurskie,1. Punkt pobrań,53.60,19.56,ilawa,93.70,92.70,24.70
+83,"Iława, ul. Okulickiego 1a",Iława,warmińsko-mazurskie,1. Punkt pobrań,53.59,19.55,ilawa,93.70,92.70,24.70
+84,"Iława, ul. Kościuszki 1",Iława,warmińsko-mazurskie,1. Punkt pobrań,53.60,19.57,ilawa,93.70,92.70,24.70
+85,"Jarosław, ul. Grunwaldzka 1",Jarosław,podkarpackie,1. Punkt pobrań,50.02,22.68,przemysl,98.20,88.80,13.30
+86,"Jastrzębie-Zdrój, ul. Aleja Jana Pawła II 7",Jastrzębie-Zdrój,śląskie,1. Punkt pobrań,49.95,18.58,katowice,101.00,88.60,15.10
+87,"Jastrzębie-Zdrój, ul. Wrocławska 20",Jastrzębie-Zdrój,śląskie,1. Punkt pobrań,49.95,18.59,katowice,101.00,88.60,15.10
+88,"Jastrzębie-Zdrój, ul. Dworcowa 1d",Jastrzębie-Zdrój,śląskie,1. Punkt pobrań,49.95,18.58,katowice,101.00,88.60,15.10
+89,"Jastrzębie-Zdrój, ul. Harcerska 9",Jastrzębie-Zdrój,śląskie,1. Punkt pobrań,49.95,18.61,katowice,101.00,88.60,15.10
+90,"Jastrzębie-Zdrój, ul. Tadeusza Kościuszki 1",Jastrzębie-Zdrój,śląskie,1. Punkt pobrań,49.95,18.57,katowice,101.00,88.60,15.10
+91,"Jelenia Góra, ul. Bankowa 5/7",Jelenia Góra,dolnośląskie,1. Punkt pobrań,50.90,15.74,jelenia_gora,100.50,92.40,25.70
+92,"Jędrzejów, pl. Kościuszki 15",Jędrzejów,świętokrzyskie,1. Punkt pobrań,50.64,20.30,kielce,97.70,90.90,17.30
+93,"Jędrzejów, ul. 3-Go Maja 59",Jędrzejów,świętokrzyskie,1. Punkt pobrań,50.64,20.30,kielce,97.70,90.90,17.30
+94,"Kalisz, ul. Polna 29",Kalisz,wielkopolskie,1. Punkt pobrań,51.75,18.08,jelenia_gora,100.50,92.40,25.70
+95,"Kalisz, ul. Prymasa Stefana Wyszyńskiego 1a",Kalisz,wielkopolskie,1. Punkt pobrań,51.75,18.06,jelenia_gora,100.50,92.40,25.70
+96,"Kalisz, ul. Majkowska 13a",Kalisz,wielkopolskie,1. Punkt pobrań,51.77,18.08,jelenia_gora,100.50,92.40,25.70
+97,"Kalwaria Zebrzydowska, ul. M. Konopnickiej 18",Kalwaria Zebrzydowska,małopolskie,1. Punkt pobrań,49.87,19.68,kalwaria_zebrzydowska,95.90,91.80,21.70
+98,"Katowice, ul. Tysiąclecia 90",Katowice,śląskie,1. Punkt pobrań,50.28,18.97,katowice,101.00,88.60,15.10
+99,"Katowice, ul. Miła 7b",Katowice,śląskie,1. Punkt pobrań,50.22,19.07,katowice,101.00,88.60,15.10
+100,"Katowice, pl. Wolności 1/1",Katowice,śląskie,1. Punkt pobrań,50.26,19.01,katowice,101.00,88.60,15.10
+101,"Katowice, ul. Mikołowska 53a",Katowice,śląskie,1. Punkt pobrań,50.25,19.01,katowice,101.00,88.60,15.10
+102,"Kęty, ul. Kościuszki 66a",Kęty,małopolskie,1. Punkt pobrań,49.87,19.22,bielsko_biala,101.20,89.00,14.60
+103,"Kielce, ul. Warszawska 151",Kielce,świętokrzyskie,1. Punkt pobrań,50.89,20.65,kielce,97.70,90.90,17.30
+104,"Kielce, ul. Jagiellońska 74",Kielce,świętokrzyskie,1. Punkt pobrań,50.87,20.60,kielce,97.70,90.90,17.30
+105,"Kielce, ul. Warszawska 218e",Kielce,świętokrzyskie,1. Punkt pobrań,50.90,20.66,kielce,97.70,90.90,17.30
+106,"Kielce, ul. Paska 6",Kielce,świętokrzyskie,1. Punkt pobrań,50.85,20.63,kielce,97.70,90.90,17.30
+107,"Kielce, ul. Pocieszka 11",Kielce,świętokrzyskie,1. Punkt pobrań,50.88,20.63,kielce,97.70,90.90,17.30
+108,"Kielce, ul. Szajnowicza-Iwanowa 13f",Kielce,świętokrzyskie,1. Punkt pobrań,50.88,20.58,kielce,97.70,90.90,17.30
+109,"Kielce, ul. Starodomaszowska 17",Kielce,świętokrzyskie,1. Punkt pobrań,50.87,20.64,kielce,97.70,90.90,17.30
+110,"Kielce, ul. Kazimierza Kaznowskiego 5/7u",Kielce,świętokrzyskie,1. Punkt pobrań,50.88,20.58,kielce,97.70,90.90,17.30
+111,"Kielce, ul. Jagiellońska 13",Kielce,świętokrzyskie,1. Punkt pobrań,50.88,20.62,kielce,97.70,90.90,17.30
+112,"Kobierzyce, ul. Witosa 5",Kobierzyce,dolnośląskie,1. Punkt pobrań,50.97,16.93,jelenia_gora,100.50,92.40,25.70
+113,"Kolno, ul. Wojska Polskiego 38i",Kolno,podlaskie,1. Punkt pobrań,53.41,21.93,bialystok,96.00,92.60,22.90
+115,"Koło, ul. Blizna 31",Koło,wielkopolskie,1. Punkt pobrań,52.21,18.64,konin,98.70,94.50,29.40
+116,"Komorniki, ul. Stawna 7/11",Komorniki,wielkopolskie,1. Punkt pobrań,52.33,16.81,leszno,95.70,93.60,32.80
+117,"Konin, ul. Wojska Polskiego 33b",Konin,wielkopolskie,1. Punkt pobrań,52.22,18.25,konin,98.70,94.50,29.40
+118,"Końskie, ul. Spółdzielcza 8b",Końskie,świętokrzyskie,1. Punkt pobrań,51.19,20.41,kielce,97.70,90.90,17.30
+120,"Koszalin, ul. Jana Pawła II 7",Koszalin,zachodniopomorskie,1. Punkt pobrań,54.20,16.19,koszalin,101.00,94.00,30.70
+121,"Koszalin, ul. Lelewela 7",Koszalin,zachodniopomorskie,1. Punkt pobrań,54.21,16.20,koszalin,101.00,94.00,30.70
+122,"Koźmin Wielkopolski, ul. Mikołaja Kopernika 14",Koźmin Wielkopolski,wielkopolskie,1. Punkt pobrań,51.83,17.45,leszno,95.70,93.60,32.80
+123,"Kraków, ul. Olszańska 5",Kraków,małopolskie,1. Punkt pobrań,50.07,19.96,krakow,97.60,93.30,24.30
+124,"Kraków, ul. Prof. M. Życzkowskiego 16",Kraków,małopolskie,1. Punkt pobrań,50.08,19.99,krakow,97.60,93.30,24.30
+125,"Kraków, al. Pokoju 4",Kraków,małopolskie,1. Punkt pobrań,50.06,19.96,krakow,97.60,93.30,24.30
+126,"Kraków, ul. Kronikarza Galla 25",Kraków,małopolskie,1. Punkt pobrań,50.07,19.91,krakow,97.60,93.30,24.30
+127,"Kraków, ul. Komorowskiego 12",Kraków,małopolskie,1. Punkt pobrań,50.05,19.92,krakow,97.60,93.30,24.30
+128,"Kraków, pl. Szczepański 3",Kraków,małopolskie,1. Punkt pobrań,50.06,19.93,krakow,97.60,93.30,24.30
+129,"Kraków, os. Kolorowe 21",Kraków,małopolskie,1. Punkt pobrań,50.07,20.02,krakow,97.60,93.30,24.30
+130,"Kraków, ul. Rusznikarska 17",Kraków,małopolskie,1. Punkt pobrań,50.09,19.93,krakow,97.60,93.30,24.30
+131,"Kraków, ul. Wolska 1",Kraków,małopolskie,1. Punkt pobrań,50.02,19.98,krakow,97.60,93.30,24.30
+132,"Kraków, ul. Miłkowskiego 23",Kraków,małopolskie,1. Punkt pobrań,50.03,19.92,krakow,97.60,93.30,24.30
+133,"Kraków, al. Kijowska 12",Kraków,małopolskie,1. Punkt pobrań,50.07,19.91,krakow,97.60,93.30,24.30
+134,"Kraków, al. Modrzewiowa 22",Kraków,małopolskie,1. Punkt pobrań,50.06,19.87,krakow,97.60,93.30,24.30
+135,"Kraków, ul. Stojałowskiego 6",Kraków,małopolskie,1. Punkt pobrań,50.01,19.95,krakow,97.60,93.30,24.30
+136,"Kraków, al. 29-Go Listopada 178",Kraków,małopolskie,1. Punkt pobrań,50.10,19.96,krakow,97.60,93.30,24.30
+137,"Kraków, al. Daszyńskiego 12",Kraków,małopolskie,1. Punkt pobrań,50.06,19.95,krakow,97.60,93.30,24.30
+138,"Krynica-Zdrój, ul. Cicha 2",Krynica-Zdrój,małopolskie,1. Punkt pobrań,49.42,20.96,nowy_sacz,97.40,90.00,18.90
+139,"Kutno, ul. Kościuszki 52",Kutno,łódzkie,1. Punkt pobrań,52.24,19.37,konin,98.70,94.50,29.40
+141,"Legnica, ul. Biegunowa 2",Legnica,dolnośląskie,1. Punkt pobrań,51.20,16.19,jelenia_gora,100.50,92.40,25.70
+142,"Legnica, ul. Okrzei 10",Legnica,dolnośląskie,1. Punkt pobrań,51.20,16.15,jelenia_gora,100.50,92.40,25.70
+143,"Leszno, al. 21 Października 23",Leszno,wielkopolskie,1. Punkt pobrań,51.84,16.59,leszno,95.70,93.60,32.80
+145,"Lębork, al. Wolności 40a",Lębork,pomorskie,1. Punkt pobrań,54.54,17.75,slupsk,99.90,94.10,25.20
+146,"Lubin, ul. Kilińskiego 27",Lubin,dolnośląskie,1. Punkt pobrań,51.40,16.21,jelenia_gora,100.50,92.40,25.70
+147,"Lubin, ul. Marii Skłodowskiej-Curie 70",Lubin,dolnośląskie,1. Punkt pobrań,51.41,16.19,jelenia_gora,100.50,92.40,25.70
+148,"Lublin, ul. Topolowa 7",Lublin,lubelskie,1. Punkt pobrań,51.23,22.59,biala_podlaska,96.10,88.90,12.00
+149,"Lublin, ul. Głowackiego 35",Lublin,lubelskie,1. Punkt pobrań,51.25,22.54,biala_podlaska,96.10,88.90,12.00
+150,"Lublin, ul. Willowa 29",Lublin,lubelskie,1. Punkt pobrań,51.26,22.52,biala_podlaska,96.10,88.90,12.00
+151,"Lublin, ul. Onyksowa 12",Lublin,lubelskie,1. Punkt pobrań,51.22,22.50,biala_podlaska,96.10,88.90,12.00
+152,"Lublin, ul. Wigilijna 12/3-4",Lublin,lubelskie,1. Punkt pobrań,51.23,22.54,biala_podlaska,96.10,88.90,12.00
+154,"Luboń, ul. Żeromskiego 1",Luboń,wielkopolskie,1. Punkt pobrań,52.34,16.88,leszno,95.70,93.60,32.80
+156,"Łódź, ul. Pługowa 51/53",Łódź,łódzkie,1. Punkt pobrań,51.78,19.39,konin,98.70,94.50,29.40
+157,"Łódź, ul. Tuszyńska 19",Łódź,łódzkie,1. Punkt pobrań,51.73,19.47,konin,98.70,94.50,29.40
+158,"Łódź, ul. Kusocińskiego 61",Łódź,łódzkie,1. Punkt pobrań,51.75,19.40,konin,98.70,94.50,29.40
+159,"Łódź, ul. Zielona 29",Łódź,łódzkie,1. Punkt pobrań,51.77,19.45,konin,98.70,94.50,29.40
+161,"Łódź, ul. Brzechwy 7a",Łódź,łódzkie,1. Punkt pobrań,51.75,19.50,konin,98.70,94.50,29.40
+162,"Mielec, ul. Staszica 28",Mielec,podkarpackie,1. Punkt pobrań,50.29,21.42,kielce,97.70,90.90,17.30
+163,"Mielec, ul. Piotra Skargi 7/60",Mielec,podkarpackie,1. Punkt pobrań,50.30,21.43,kielce,97.70,90.90,17.30
+165,"Mińsk Mazowiecki, ul. 3 Maja 12",Mińsk Mazowiecki,mazowieckie,1. Punkt pobrań,52.18,21.56,warszawa,94.90,95.00,37.60
+166,"Mosina, ul. Konopnickiej 33",Mosina,wielkopolskie,1. Punkt pobrań,52.25,16.84,leszno,95.70,93.60,32.80
+167,"Mszana Dolna, ul. Kolbego 38",Mszana Dolna,małopolskie,1. Punkt pobrań,49.67,20.07,krakow,97.60,93.30,24.30
+168,"Mysłowice, ul. Gen. Jerzego Ziętka 74c",Mysłowice,śląskie,1. Punkt pobrań,50.22,19.16,katowice,101.00,88.60,15.10
+169,"Myślenice, ul. Drogowców 5",Myślenice,małopolskie,1. Punkt pobrań,49.83,19.96,krakow,97.60,93.30,24.30
+170,"Myślenice, ul. Jagiellońska 11",Myślenice,małopolskie,1. Punkt pobrań,49.83,19.95,krakow,97.60,93.30,24.30
+171,"Nakło Nad Notecią, ul. Mickiewicza 7",Nakło nad Notecią,kujawsko-pomorskie,1. Punkt pobrań,53.14,17.59,bydgoszcz,96.60,93.60,26.00
+172,"Niechlów, ul. Krótka 5",Niechlów,dolnośląskie,1. Punkt pobrań,51.69,16.37,jelenia_gora,100.50,92.40,25.70
+173,"Nowa Dęba, ul. Krasickiego 21",Nowa Dęba,podkarpackie,1. Punkt pobrań,50.41,21.75,kielce,97.70,90.90,17.30
+174,"Nowa Sól, ul. Aleksandra Fredry 2",Nowa Sól,lubuskie,1. Punkt pobrań,51.81,15.70,gorzow_wielkopolski,100.50,91.80,25.90
+177,"Nowy Sącz, ul. Żółkiewskiego 11",Nowy Sącz,małopolskie,1. Punkt pobrań,49.61,20.70,nowy_sacz,97.40,90.00,18.90
+179,"Nowy Sącz, ul. Śniadeckich 8",Nowy Sącz,małopolskie,1. Punkt pobrań,49.62,20.70,nowy_sacz,97.40,90.00,18.90
+180,"Nowy Sącz, ul. Nawojowska 3",Nowy Sącz,małopolskie,1. Punkt pobrań,49.61,20.70,nowy_sacz,97.40,90.00,18.90
+182,"Oborniki ŚLĄSKIE, ul. Dworcowa 36g",Oborniki Śląskie,dolnośląskie,1. Punkt pobrań,51.30,16.91,jelenia_gora,100.50,92.40,25.70
+183,"Olkusz, ul. K.K. Wielkiego 28",Olkusz,małopolskie,1. Punkt pobrań,50.28,19.57,katowice,101.00,88.60,15.10
+184,"Olkusz, al. 1000-Lecia 13",Olkusz,małopolskie,1. Punkt pobrań,50.27,19.57,katowice,101.00,88.60,15.10
+185,"Olsztyn, ul. Kopernika 30",Olsztyn,warmińsko-mazurskie,1. Punkt pobrań,53.78,20.49,olsztyn,93.80,93.60,29.20
+186,"Olsztyn, ul. Janowicza 1",Olsztyn,warmińsko-mazurskie,1. Punkt pobrań,53.74,20.50,olsztyn,93.80,93.60,29.20
+188,"Olsztyn, al. Sybiraków 36",Olsztyn,warmińsko-mazurskie,1. Punkt pobrań,53.80,20.49,olsztyn,93.80,93.60,29.20
+190,"Opoczno, ul. Piotrkowska 70",Opoczno,łódzkie,1. Punkt pobrań,51.38,20.27,konin,98.70,94.50,29.40
+191,"Opole, ul. Wodociągowa 4",Opole,opolskie,1. Punkt pobrań,50.68,17.94,opole,99.10,90.00,14.90
+192,"Opole, ul. Reymonta 8",Opole,opolskie,1. Punkt pobrań,50.67,17.93,opole,99.10,90.00,14.90
+193,"Ostrowiec Świętokrzyski, os. Słoneczne 11",Ostrowiec Świętokrzyski,świętokrzyskie,1. Punkt pobrań,50.95,21.39,kielce,97.70,90.90,17.30
+194,"Ostrowiec Świętokrzyski, ul. Kopernika 14",Ostrowiec Świętokrzyski,świętokrzyskie,1. Punkt pobrań,50.95,21.38,kielce,97.70,90.90,17.30
+195,"Ostrów Wielkopolski, ul. Wysocka 13",Ostrów Wielkopolski,wielkopolskie,1. Punkt pobrań,51.64,17.82,leszno,95.70,93.60,32.80
+196,"Oświęcim, ul. Garbarska 1",Oświęcim,małopolskie,1. Punkt pobrań,50.04,19.21,bielsko_biala,101.20,89.00,14.60
+197,"Pawłowice, ul. Górnicza 26a",Pawłowice,śląskie,1. Punkt pobrań,49.96,18.70,katowice,101.00,88.60,15.10
+198,"Piastów, ul. Dąbrowskiego 26",Piastów,mazowieckie,1. Punkt pobrań,52.19,20.83,warszawa,94.90,95.00,37.60
+199,"Piła, ul. Podchorążych 1",Piła,wielkopolskie,1. Punkt pobrań,53.16,16.76,leszno,95.70,93.60,32.80
+200,"Police, ul. Siedlecka 2a",Police,zachodniopomorskie,1. Punkt pobrań,53.55,14.56,koszalin,101.00,94.00,30.70
+202,"Poznań, al. Solidarności 36",Poznań,wielkopolskie,1. Punkt pobrań,52.43,16.93,leszno,95.70,93.60,32.80
+203,"Poznań, os. B. Chrobrego 118",Poznań,wielkopolskie,1. Punkt pobrań,52.45,16.92,leszno,95.70,93.60,32.80
+204,"Poznań, ul. Opolska 58",Poznań,wielkopolskie,1. Punkt pobrań,52.37,16.89,leszno,95.70,93.60,32.80
+206,"Poznań, ul. Promienista 89",Poznań,wielkopolskie,1. Punkt pobrań,52.39,16.88,leszno,95.70,93.60,32.80
+207,"Poznań, ul. Dąbrowskiego 77a",Poznań,wielkopolskie,1. Punkt pobrań,52.41,16.90,leszno,95.70,93.60,32.80
+208,"Poznań, ul. Katowicka 11/U6",Poznań,wielkopolskie,1. Punkt pobrań,52.40,16.96,leszno,95.70,93.60,32.80
+209,"Prabuty, ul. Daszyńskiego 2",Prabuty,pomorskie,1. Punkt pobrań,53.76,19.21,ilawa,93.70,92.70,24.70
+210,"Prudnik, ul. Damrota 2a",Prudnik,opolskie,1. Punkt pobrań,50.32,17.58,opole,99.10,90.00,14.90
+212,"Przeźmierowo, ul. Rynkowa 63",Przeźmierowo,wielkopolskie,1. Punkt pobrań,52.43,16.78,leszno,95.70,93.60,32.80
+213,"Puławy, ul. Wojska Polskiego 7a",Puławy,lubelskie,1. Punkt pobrań,51.42,21.98,biala_podlaska,96.10,88.90,12.00
+214,"Racibórz, ul. Wileńska 1",Racibórz,śląskie,1. Punkt pobrań,50.09,18.22,katowice,101.00,88.60,15.10
+215,"Radom, ul. Chrobrego 30c",Radom,mazowieckie,1. Punkt pobrań,51.41,21.16,ciechanow,94.90,94.10,32.40
+216,"Radom, ul. Mickiewicza 6",Radom,mazowieckie,1. Punkt pobrań,51.40,21.16,ciechanow,94.90,94.10,32.40
+217,"Radom, ul. Główna 11",Radom,mazowieckie,1. Punkt pobrań,51.40,21.13,ciechanow,94.90,94.10,32.40
+218,"Radomsko, pl. 3-Go Maja 15",Radomsko,łódzkie,1. Punkt pobrań,51.07,19.45,czestochowa,97.40,90.00,15.40
+219,"Radomsko, ul. Sierakowskiego 15-17",Radomsko,łódzkie,1. Punkt pobrań,51.07,19.44,czestochowa,97.40,90.00,15.40
+220,"Rawicz, ul. Gen. Grota Roweckiego 6",Rawicz,wielkopolskie,1. Punkt pobrań,51.61,16.84,jelenia_gora,100.50,92.40,25.70
+222,"Rybnik, ul. Kard. Bolesława Kominka 31",Rybnik,śląskie,1. Punkt pobrań,50.10,18.52,katowice,101.00,88.60,15.10
+223,"Ryki, ul. Żytnia 23",Ryki,lubelskie,1. Punkt pobrań,51.62,21.93,biala_podlaska,96.10,88.90,12.00
+224,"Rzeszów, ul. Krzyżanowskiego 6h",Rzeszów,podkarpackie,1. Punkt pobrań,50.03,22.02,rzeszow,98.20,88.60,15.40
+225,"Rzeszów, ul. Langiewicza 4",Rzeszów,podkarpackie,1. Punkt pobrań,50.03,21.99,rzeszow,98.20,88.60,15.40
+226,"Sędziszów, os. Na Skarpie 17",Sędziszów,świętokrzyskie,1. Punkt pobrań,50.56,20.05,kielce,97.70,90.90,17.30
+227,"Sędziszów, ul. Dworcowa 23",Sędziszów,świętokrzyskie,1. Punkt pobrań,50.56,20.05,kielce,97.70,90.90,17.30
+228,"Siemiatycze, ul. 11 Listopada 45",Siemiatycze,podlaskie,1. Punkt pobrań,52.42,22.87,ciechanow,94.90,94.10,32.40
+229,"Skarżysko-Kamienna, ul. Zielna 16",Skarżysko-Kamienna,świętokrzyskie,1. Punkt pobrań,51.12,20.88,kielce,97.70,90.90,17.30
+230,"Skarżysko-Kamienna, ul. 1 Maja 55",Skarżysko-Kamienna,świętokrzyskie,1. Punkt pobrań,51.11,20.85,kielce,97.70,90.90,17.30
+231,"Skarżysko-Kamienna, ul. Krasińskiego 20",Skarżysko-Kamienna,świętokrzyskie,1. Punkt pobrań,51.11,20.86,kielce,97.70,90.90,17.30
+232,"Skoczów, ul. Górecka 6a",Skoczów,śląskie,1. Punkt pobrań,49.80,18.79,bielsko_biala,101.20,89.00,14.60
+233,"Słubice, ul. Mickiewicza 6",Słubice,lubuskie,1. Punkt pobrań,52.35,14.56,gorzow_wielkopolski,100.50,91.80,25.90
+234,"Słupsk, ul. Jana Pawła II 1a",Słupsk,pomorskie,1. Punkt pobrań,54.46,17.03,slupsk,99.90,94.10,25.20
+237,"Słupsk, ul. Wileńska 30",Słupsk,pomorskie,1. Punkt pobrań,54.47,17.02,slupsk,99.90,94.10,25.20
+238,"Sompolno, ul. Spokojna 5",Sompolno,wielkopolskie,1. Punkt pobrań,52.39,18.50,konin,98.70,94.50,29.40
+239,"Sosnowiec, ul. Wawel 15",Sosnowiec,śląskie,1. Punkt pobrań,50.28,19.14,katowice,101.00,88.60,15.10
+241,"Stalowa Wola, ul. Komisji Edukacji Narodowej 12/11",Stalowa Wola,podkarpackie,1. Punkt pobrań,50.58,22.06,kielce,97.70,90.90,17.30
+242,"Starachowice, ul. Miodowa 10",Starachowice,świętokrzyskie,1. Punkt pobrań,51.03,21.07,kielce,97.70,90.90,17.30
+243,"Starachowice, ul. Murarska 14",Starachowice,świętokrzyskie,1. Punkt pobrań,51.05,21.09,kielce,97.70,90.90,17.30
+244,"Stargard, ul. Wojska Polskiego 27",Stargard,zachodniopomorskie,1. Punkt pobrań,53.34,15.04,koszalin,101.00,94.00,30.70
+245,"Stargard, ul. Wojska Polskiego 24",Stargard,zachodniopomorskie,1. Punkt pobrań,53.34,15.04,koszalin,101.00,94.00,30.70
+246,"Staszów, ul. Mickiewicza 36",Staszów,świętokrzyskie,1. Punkt pobrań,50.56,21.18,kielce,97.70,90.90,17.30
+247,"Strzegom, ul. Świdnicka 18",Strzegom,dolnośląskie,1. Punkt pobrań,50.96,16.35,jelenia_gora,100.50,92.40,25.70
+248,"Susz, ul. Józefa Wybickiego 9",Susz,warmińsko-mazurskie,1. Punkt pobrań,53.71,19.34,ilawa,93.70,92.70,24.70
+249,"Suwałki, ul. Utrata 4c",Suwałki,podlaskie,1. Punkt pobrań,54.10,22.94,bialystok,96.00,92.60,22.90
+250,"Swarzędz, ul. Piaski 8",Swarzędz,wielkopolskie,1. Punkt pobrań,52.41,17.08,leszno,95.70,93.60,32.80
+251,"Szczecin, ul. Unii Lubelskiej 1",Szczecin,zachodniopomorskie,1. Punkt pobrań,53.45,14.50,koszalin,101.00,94.00,30.70
+252,"Szczecin, al. Bohaterów Warszawy 17/2",Szczecin,zachodniopomorskie,1. Punkt pobrań,53.43,14.53,koszalin,101.00,94.00,30.70
+253,"Szczecin, ul. Batalionów Chłopskich 38",Szczecin,zachodniopomorskie,1. Punkt pobrań,53.38,14.63,koszalin,101.00,94.00,30.70
+254,"Szczecin, ul. Wincentego Kadłubka 10-11",Szczecin,zachodniopomorskie,1. Punkt pobrań,53.45,14.55,koszalin,101.00,94.00,30.70
+255,"Szczecin, ul. 3 Maja 25/27",Szczecin,zachodniopomorskie,1. Punkt pobrań,53.42,14.55,koszalin,101.00,94.00,30.70
+256,"Szczecin, ul. Łucznicza 64",Szczecin,zachodniopomorskie,1. Punkt pobrań,53.45,14.55,koszalin,101.00,94.00,30.70
+257,"Szczecin, ul. Ku Słońcu 23-24",Szczecin,zachodniopomorskie,1. Punkt pobrań,53.42,14.52,koszalin,101.00,94.00,30.70
+259,"Szczecin, ul. Teofila Starzyńskiego 2",Szczecin,zachodniopomorskie,1. Punkt pobrań,53.43,14.56,koszalin,101.00,94.00,30.70
+260,"Szczecin, al. Powstańców Wielkopolskich 66-68",Szczecin,zachodniopomorskie,1. Punkt pobrań,53.41,14.53,koszalin,101.00,94.00,30.70
+262,"Szczecin, ul. Brązowa 6",Szczecin,zachodniopomorskie,1. Punkt pobrań,53.37,14.66,koszalin,101.00,94.00,30.70
+265,"Szczecin, ul. Św. Wojciecha 7",Szczecin,zachodniopomorskie,1. Punkt pobrań,53.43,14.55,koszalin,101.00,94.00,30.70
+266,"Szczecin, ul. Mączna 4",Szczecin,zachodniopomorskie,1. Punkt pobrań,53.37,14.64,koszalin,101.00,94.00,30.70
+267,"Szczecinek, ul. Kościuszki 38b/2",Szczecinek,zachodniopomorskie,1. Punkt pobrań,53.71,16.68,szczecinek,100.70,91.50,22.60
+268,"Szczekociny, al. Jana Pawła II 6",Szczekociny,śląskie,1. Punkt pobrań,50.62,19.82,kielce,97.70,90.90,17.30
+269,"Szprotawa, ul. Henrykowska 1",Szprotawa,lubuskie,1. Punkt pobrań,51.57,15.55,gorzow_wielkopolski,100.50,91.80,25.90
+270,"Sztum, ul. Reja 12",Sztum,pomorskie,1. Punkt pobrań,53.92,19.03,sztum,99.90,93.20,24.80
+271,"Szubin, ul. Ogrodowa 9",Szubin,kujawsko-pomorskie,1. Punkt pobrań,53.01,17.73,bydgoszcz,96.60,93.60,26.00
+272,"Środa Wielkopolska, ul. Czerwonego Krzyża 2",Środa Wielkopolska,wielkopolskie,1. Punkt pobrań,52.23,17.28,leszno,95.70,93.60,32.80
+273,"Świdnica, ul. Sikorskiego 31",Świdnica,dolnośląskie,1. Punkt pobrań,50.85,16.47,jelenia_gora,100.50,92.40,25.70
+274,"Świdnica, ul. Dworcowa 5",Świdnica,dolnośląskie,1. Punkt pobrań,50.84,16.48,jelenia_gora,100.50,92.40,25.70
+276,"Świebodzin, ul. Młyńska 6",Świebodzin,lubuskie,1. Punkt pobrań,52.25,15.53,gorzow_wielkopolski,100.50,91.80,25.90
+277,"Świecie, ul. Wojska Polskiego 64a",Świecie,kujawsko-pomorskie,1. Punkt pobrań,53.41,18.46,bydgoszcz,96.60,93.60,26.00
+279,"Tarnowskie Góry, ul. Piłsudskiego 16",Tarnowskie Góry,śląskie,1. Punkt pobrań,50.45,18.86,katowice,101.00,88.60,15.10
+280,"Tomaszów Mazowiecki, pl. Kościuszki 9",Tomaszów Mazowiecki,łódzkie,1. Punkt pobrań,51.53,20.01,konin,98.70,94.50,29.40
+281,"Tomaszów Mazowiecki, ul. Jana Pawła II 6",Tomaszów Mazowiecki,łódzkie,1. Punkt pobrań,51.53,20.00,konin,98.70,94.50,29.40
+282,"Toruń, pl. 18 Stycznia 4",Toruń,kujawsko-pomorskie,1. Punkt pobrań,53.01,18.60,bydgoszcz,96.60,93.60,26.00
+283,"Trzebnica, ul. Św Jadwigi 1e",Trzebnica,dolnośląskie,1. Punkt pobrań,51.31,17.06,jelenia_gora,100.50,92.40,25.70
+284,"Trzemeszno, ul. Langiewicza 2",Trzemeszno,wielkopolskie,1. Punkt pobrań,52.56,17.82,leszno,95.70,93.60,32.80
+285,"Tychy, al. Bielska 130",Tychy,śląskie,1. Punkt pobrań,50.11,18.97,katowice,101.00,88.60,15.10
+286,"Tychy, ul. Wojska Polskiego 4",Tychy,śląskie,1. Punkt pobrań,50.13,18.97,katowice,101.00,88.60,15.10
+287,"Tychy, al. Niepodległości 98",Tychy,śląskie,1. Punkt pobrań,50.11,18.99,katowice,101.00,88.60,15.10
+288,"Tychy, ul. Sikorskiego 101",Tychy,śląskie,1. Punkt pobrań,50.09,18.99,katowice,101.00,88.60,15.10
+289,"Tychy, ul. Wyszyńskiego 3",Tychy,śląskie,1. Punkt pobrań,50.11,19.01,katowice,101.00,88.60,15.10
+290,"Tychy, ul. Biblioteczna 17",Tychy,śląskie,1. Punkt pobrań,50.13,18.98,katowice,101.00,88.60,15.10
+292,"Wałbrzych, ul. Matejki 5a",Wałbrzych,dolnośląskie,1. Punkt pobrań,50.76,16.28,jelenia_gora,100.50,92.40,25.70
+293,"Wałbrzych, ul. Grodzka 73",Wałbrzych,dolnośląskie,1. Punkt pobrań,50.82,16.28,jelenia_gora,100.50,92.40,25.70
+294,"Wałbrzych, ul. Piłsudskiego 70",Wałbrzych,dolnośląskie,1. Punkt pobrań,50.77,16.29,jelenia_gora,100.50,92.40,25.70
+295,"Warszawa, al. Dwudziestolatków 3",Warszawa,mazowieckie,1. Punkt pobrań,52.19,20.97,warszawa,94.90,95.00,37.60
+297,"Warszawa, al. Prymasa Tysiąclecia 79a",Warszawa,mazowieckie,1. Punkt pobrań,52.22,20.96,warszawa,94.90,95.00,37.60
+298,"Wąbrzeźno, ul. Wolności 27",Wąbrzeźno,kujawsko-pomorskie,1. Punkt pobrań,53.28,18.95,bydgoszcz,96.60,93.60,26.00
+299,"Wągrowiec, ul. Przemysłowa 40a",Wągrowiec,wielkopolskie,1. Punkt pobrań,52.81,17.21,leszno,95.70,93.60,32.80
+300,"Wejherowo, ul. I Brygady Pancernej Wojska Polskiego 36",Wejherowo,pomorskie,1. Punkt pobrań,54.61,18.24,gdansk,100.10,94.10,30.60
+301,"Wieliczka, ul. Sienkiewicza 33",Wieliczka,małopolskie,1. Punkt pobrań,49.99,20.07,krakow,97.60,93.30,24.30
+302,"Wieluń, ul. J. Żubr 18",Wieluń,łódzkie,1. Punkt pobrań,51.22,18.56,konin,98.70,94.50,29.40
+303,"Włoszczowa, ul. Mleczarska 11",Włoszczowa,świętokrzyskie,1. Punkt pobrań,50.85,19.97,kielce,97.70,90.90,17.30
+304,"Włoszczowa, ul. Żeromskiego 28",Włoszczowa,świętokrzyskie,1. Punkt pobrań,50.85,19.97,kielce,97.70,90.90,17.30
+305,"Wojkowice, ul. PCK 1",Wojkowice,śląskie,1. Punkt pobrań,50.36,19.04,katowice,101.00,88.60,15.10
+306,"Wolbrom, ul. Krakowska 28",Wolbrom,małopolskie,1. Punkt pobrań,50.38,19.76,katowice,101.00,88.60,15.10
+307,"Wrocław, ul. Młodych Techników 7",Wrocław,dolnośląskie,1. Punkt pobrań,51.11,17.01,jelenia_gora,100.50,92.40,25.70
+308,"Wrocław, ul. Weigla 12",Wrocław,dolnośląskie,1. Punkt pobrań,51.08,17.02,jelenia_gora,100.50,92.40,25.70
+310,"Wrocław, ul. Warszawska 2",Wrocław,dolnośląskie,1. Punkt pobrań,51.06,17.08,jelenia_gora,100.50,92.40,25.70
+311,"Wrocław, ul. Bonczyka 20",Wrocław,dolnośląskie,1. Punkt pobrań,51.14,17.04,jelenia_gora,100.50,92.40,25.70
+312,"Wrocław, ul. Mińska 5",Wrocław,dolnośląskie,1. Punkt pobrań,51.10,16.94,jelenia_gora,100.50,92.40,25.70
+313,"Wrocław, ul. Kiełczowska 70",Wrocław,dolnośląskie,1. Punkt pobrań,51.15,17.13,jelenia_gora,100.50,92.40,25.70
+314,"Wrocław, ul. Horbaczewskiego 35",Wrocław,dolnośląskie,1. Punkt pobrań,51.12,16.97,jelenia_gora,100.50,92.40,25.70
+315,"Wrocław, ul. Opolska 131",Wrocław,dolnośląskie,1. Punkt pobrań,51.07,17.09,jelenia_gora,100.50,92.40,25.70
+316,"Wrocław, ul. Traugutta 142/U",Wrocław,dolnośląskie,1. Punkt pobrań,51.10,17.06,jelenia_gora,100.50,92.40,25.70
+317,"Wrocław, ul. Żelazna 34",Wrocław,dolnośląskie,1. Punkt pobrań,51.10,17.01,jelenia_gora,100.50,92.40,25.70
+319,"Wrocław, ul. Krzycka 94",Wrocław,dolnośląskie,1. Punkt pobrań,51.07,16.99,jelenia_gora,100.50,92.40,25.70
+320,"Wschowa, ul. Ks. A. Kostki 33",Wschowa,lubuskie,1. Punkt pobrań,51.81,16.32,gorzow_wielkopolski,100.50,91.80,25.90
+321,"Wysokie Mazowieckie, ul. Szpitalna 2a/2",Wysokie Mazowieckie,podlaskie,1. Punkt pobrań,52.92,22.52,bialystok,96.00,92.60,22.90
+322,"Zabierzów, ul. Krakowska 232",Zabierzów,małopolskie,1. Punkt pobrań,50.11,19.81,krakow,97.60,93.30,24.30
+323,"Zambrów, ul. Magazynowa 9",Zambrów,podlaskie,1. Punkt pobrań,52.97,22.25,bialystok,96.00,92.60,22.90
+324,"Zamość, al. Jana Pawła II 19",Zamość,lubelskie,1. Punkt pobrań,50.71,23.29,biala_podlaska,96.10,88.90,12.00
+325,"Zawiercie, ul. Hoża 11",Zawiercie,śląskie,1. Punkt pobrań,50.49,19.42,katowice,101.00,88.60,15.10
+326,"Zielona Góra, ul. Kupiecka 22",Zielona Góra,lubuskie,1. Punkt pobrań,51.94,15.51,gorzow_wielkopolski,100.50,91.80,25.90
+327,"Zielona Góra, ul. Wyszyńskiego 99",Zielona Góra,lubuskie,1. Punkt pobrań,51.94,15.48,gorzow_wielkopolski,100.50,91.80,25.90
+328,"Zielona Góra, ul. Chopina 21",Zielona Góra,lubuskie,1. Punkt pobrań,51.94,15.51,gorzow_wielkopolski,100.50,91.80,25.90
+330,"Złotów, ul. Nieznanego Żołnierza 41",Złotów,wielkopolskie,1. Punkt pobrań,53.36,17.05,bydgoszcz,96.60,93.60,26.00
+331,"Żagań, ul. Długa 1,1a,1b/5u",Żagań,lubuskie,1. Punkt pobrań,51.62,15.32,gorzow_wielkopolski,100.50,91.80,25.90
+332,"Żary, ul. Moniuszki 2a",Żary,lubuskie,1. Punkt pobrań,51.64,15.13,gorzow_wielkopolski,100.50,91.80,25.90
+333,"Żnin, ul. Szpitalna 30",Żnin,kujawsko-pomorskie,1. Punkt pobrań,52.85,17.72,leszno,95.70,93.60,32.80
+334,"Żory, os. Powstańców Śląskich 22",Żory,śląskie,1. Punkt pobrań,50.04,18.68,katowice,101.00,88.60,15.10
+335,"Żory, ul. Dolne Przedmieście 7",Żory,śląskie,1. Punkt pobrań,50.05,18.70,katowice,101.00,88.60,15.10
+336,"Żukowo, ul. Sienkiewicza 14",Żukowo,pomorskie,1. Punkt pobrań,54.35,18.37,gdansk,100.10,94.10,30.60
+338,"Żyrardów, ul. Wyspiańskiego 6b",Żyrardów,mazowieckie,1. Punkt pobrań,52.05,20.44,warszawa,94.90,95.00,37.60
+340,"Żywiec, ul. Garbarska 10",Żywiec,śląskie,1. Punkt pobrań,49.68,19.19,bielsko_biala,101.20,89.00,14.60
+342,"Warszawa, ul. Kondratowicza 11",Warszawa,mazowieckie,1. Punkt pobrań,52.29,21.03,warszawa,94.90,95.00,37.60
+344,"Skierniewice, ul. Gałeckiego 1b",Skierniewice,łódzkie,1. Punkt pobrań,51.96,20.14,konin,98.70,94.50,29.40
+345,"Rawa Mazowiecka, ul. Warszawska 6",Rawa Mazowiecka,łódzkie,1. Punkt pobrań,51.77,20.26,konin,98.70,94.50,29.40
+346,"Kielce, ul. Ignacego Paderewskiego 4c",Kielce,świętokrzyskie,1. Punkt pobrań,50.87,20.62,kielce,97.70,90.90,17.30
+347,"Rzeszów, ul. Grunwaldzka 34/1",Rzeszów,podkarpackie,1. Punkt pobrań,50.04,22.00,rzeszow,98.20,88.60,15.40
+349,"Środa Wielkopolska, ul. Dąbrowskiego 20",Środa Wielkopolska,wielkopolskie,1. Punkt pobrań,52.23,17.28,leszno,95.70,93.60,32.80
+350,"Swarzędz, os. Dąbrowszczaków 8/19",Swarzędz,wielkopolskie,1. Punkt pobrań,52.41,17.08,leszno,95.70,93.60,32.80
+351,"Murowana Goślina, ul. Dworcowa 10",Murowana Goślina,wielkopolskie,1. Punkt pobrań,52.58,17.01,leszno,95.70,93.60,32.80
+352,"Września, ul. Legii Wrzesińskiej 23c",Września,wielkopolskie,1. Punkt pobrań,52.32,17.57,leszno,95.70,93.60,32.80
+353,"Bochnia, ul. Kazimierza Wielkiego 63",Bochnia,małopolskie,1. Punkt pobrań,49.97,20.42,krakow,97.60,93.30,24.30
+354,"Bielany Wrocławskie, ul. Wrocławska 24a",Bielany Wrocławskie,dolnośląskie,1. Punkt pobrań,51.04,16.97,jelenia_gora,100.50,92.40,25.70
+356,"Gdańsk, ul. Grunwaldzka 104/106",Gdańsk,pomorskie,1. Punkt pobrań,54.38,18.61,gdansk,100.10,94.10,30.60
+357,"Wejherowo, ul. I Brygady Pancernej Wojska Polskiego 10",Wejherowo,pomorskie,1. Punkt pobrań,54.60,18.26,gdansk,100.10,94.10,30.60
+358,"Golub-Dobrzyń, ul. Pod Arkadami 3",Golub-Dobrzyń,kujawsko-pomorskie,1. Punkt pobrań,53.10,19.06,bydgoszcz,96.60,93.60,26.00
+359,"Blachownia, ul. Sosnowa 16",Blachownia,śląskie,1. Punkt pobrań,50.77,18.97,czestochowa,97.40,90.00,15.40
+360,"Ełk, ul. Kajki 10a/U2",Ełk,warmińsko-mazurskie,1. Punkt pobrań,53.83,22.34,bialystok,96.00,92.60,22.90
+361,"Białystok, ul. Storczykowa 5/104",Białystok,podlaskie,1. Punkt pobrań,53.12,23.09,bialystok,96.00,92.60,22.90
+362,"Kraków, os. Na Skarpie 66",Kraków,małopolskie,1. Punkt pobrań,50.07,20.05,krakow,97.60,93.30,24.30
+363,"Rybnik, ul. Cegielniana 14",Rybnik,śląskie,1. Punkt pobrań,50.10,18.54,katowice,101.00,88.60,15.10
+364,"Wrocław, ul. Dokerska 2a",Wrocław,dolnośląskie,1. Punkt pobrań,51.14,16.97,jelenia_gora,100.50,92.40,25.70
+366,"Radzyń Podlaski, ul. Warszawska 17",Radzyń Podlaski,lubelskie,1. Punkt pobrań,51.78,22.62,biala_podlaska,96.10,88.90,12.00
+367,"Wyszków, ul. Pułtuska 27",Wyszków,mazowieckie,1. Punkt pobrań,52.60,21.45,warszawa,94.90,95.00,37.60
+369,"Zakrzew, ul. Zakrzew 41a",Zakrzew,mazowieckie,1. Punkt pobrań,51.93,17.54,ciechanow,94.90,94.10,32.40
+371,"Pińczów, ul. Klasztorna 35",Pińczów,świętokrzyskie,1. Punkt pobrań,50.52,20.53,kielce,97.70,90.90,17.30
+374,"Hrubieszów, ul. Plac Staszica 17",Hrubieszów,lubelskie,1. Punkt pobrań,50.81,23.89,biala_podlaska,96.10,88.90,12.00
+375,"Puławy, ul. Zielona 10a",Puławy,lubelskie,1. Punkt pobrań,51.42,21.97,biala_podlaska,96.10,88.90,12.00
+376,"Morąg, ul. Warmińska 23",Morąg,warmińsko-mazurskie,1. Punkt pobrań,53.92,19.93,morag,93.70,93.20,25.20
+377,"Ostróda, ul. Jana III Sobieskiego 3b/30",Ostróda,warmińsko-mazurskie,1. Punkt pobrań,53.70,19.96,morag,93.70,93.20,25.20
+378,"Szczytno, ul. 3 Maja 2a",Szczytno,warmińsko-mazurskie,1. Punkt pobrań,53.56,20.99,olsztyn,93.80,93.60,29.20
+379,"Pisz, ul. Sienkiewicza 4",Pisz,warmińsko-mazurskie,1. Punkt pobrań,53.63,21.80,bialystok,96.00,92.60,22.90
+380,"Wołomin, ul. Osiedle Słoneczna 4",Wołomin,mazowieckie,1. Punkt pobrań,52.34,21.23,warszawa,94.90,95.00,37.60
+381,"Konstancin-Jeziorna, ul. Wierzejewskiego 12",Konstancin-Jeziorna,mazowieckie,1. Punkt pobrań,52.08,21.11,warszawa,94.90,95.00,37.60
+382,"Kraków, ul. Lwowska 1/7",Kraków,małopolskie,1. Punkt pobrań,50.05,19.96,krakow,97.60,93.30,24.30
+383,"Gdańsk, ul. Platynowa 2",Gdańsk,pomorskie,1. Punkt pobrań,54.33,18.61,gdansk,100.10,94.10,30.60
+384,"Skwierzyna, ul. Szpitalna 5",Skwierzyna,lubuskie,1. Punkt pobrań,52.59,15.51,gorzow_wielkopolski,100.50,91.80,25.90
+385,"Zbąszynek, ul. Długa 1",Zbąszynek,lubuskie,1. Punkt pobrań,52.24,15.81,gorzow_wielkopolski,100.50,91.80,25.90
+386,"Łęknica, ul. Graniczna 7",Łęknica,lubuskie,1. Punkt pobrań,50.33,19.21,gorzow_wielkopolski,100.50,91.80,25.90
+387,"Mielec, ul. Biernackiego 4b",Mielec,podkarpackie,1. Punkt pobrań,50.30,21.44,kielce,97.70,90.90,17.30
+388,"Stalowa Wola, al. Jana Pawła II 2a",Stalowa Wola,podkarpackie,1. Punkt pobrań,50.57,22.07,kielce,97.70,90.90,17.30
+390,"Ustroń, ul. Pod Skarpą 6",Ustroń,śląskie,1. Punkt pobrań,49.72,18.81,bielsko_biala,101.20,89.00,14.60
+391,"Szczebrzeszyn, ul. Szkolna 7",Szczebrzeszyn,lubelskie,1. Punkt pobrań,50.70,22.98,biala_podlaska,96.10,88.90,12.00
+392,"Bydgoszcz, ul. Gajowa 17",Bydgoszcz,kujawsko-pomorskie,1. Punkt pobrań,53.12,18.04,bydgoszcz,96.60,93.60,26.00
+393,"Tarnowskie Góry, ul. Tylna 12",Tarnowskie Góry,śląskie,1. Punkt pobrań,50.44,18.86,katowice,101.00,88.60,15.10
+394,"Szczecin, ul. Polskich Marynarzy 51/1",Szczecin,zachodniopomorskie,1. Punkt pobrań,53.43,14.49,koszalin,101.00,94.00,30.70
+395,"Szczecinek, ul. Spółdzielcza 6",Szczecinek,zachodniopomorskie,1. Punkt pobrań,53.71,16.70,szczecinek,100.70,91.50,22.60
+396,"Tarnowskie Góry, ul. Szwedzka 2",Tarnowskie Góry,śląskie,1. Punkt pobrań,50.45,18.83,katowice,101.00,88.60,15.10
+397,"Bydgoszcz, ul. Baczyńskiego 17",Bydgoszcz,kujawsko-pomorskie,1. Punkt pobrań,53.11,18.06,bydgoszcz,96.60,93.60,26.00
+398,"Gołdap, ul. Paderewskiego 11/1a",Gołdap,warmińsko-mazurskie,1. Punkt pobrań,54.31,22.31,bialystok,96.00,92.60,22.90
+399,"Kwidzyn, ul. Kopernika 2/19",Kwidzyn,pomorskie,1. Punkt pobrań,53.73,18.93,ilawa,93.70,92.70,24.70
+401,"Jarocin, ul. Piaskowa 5",Jarocin,wielkopolskie,1. Punkt pobrań,51.94,17.57,leszno,95.70,93.60,32.80
+403,"Kartuzy, ul. Kościuszki 12",Kartuzy,pomorskie,1. Punkt pobrań,54.33,18.20,gdansk,100.10,94.10,30.60
+404,"Łódź, ul. Limanowskiego 104",Łódź,łódzkie,1. Punkt pobrań,51.79,19.44,konin,98.70,94.50,29.40
+405,"Warszawa, ul. Okrzei 18/U5",Warszawa,mazowieckie,1. Punkt pobrań,52.25,21.03,warszawa,94.90,95.00,37.60
+407,"Wrocław, ul. Gwarna 6a",Wrocław,dolnośląskie,1. Punkt pobrań,51.10,17.04,jelenia_gora,100.50,92.40,25.70
+408,"Mielec, ul. Wolności 23b",Mielec,podkarpackie,1. Punkt pobrań,50.29,21.44,kielce,97.70,90.90,17.30
+409,"Bydgoszcz, ul. Nakielska 327",Bydgoszcz,kujawsko-pomorskie,1. Punkt pobrań,53.13,17.91,bydgoszcz,96.60,93.60,26.00
+410,"Dębno, ul. Spacerowa 13",Dębno,zachodniopomorskie,1. Punkt pobrań,52.74,14.70,gorzow_wielkopolski,100.50,91.80,25.90
+412,"Dębica, ul. Rzemieślnicza 2",Dębica,podkarpackie,2. Diagnostyka Tarnów,50.05,21.42,krosno,100.90,68.40,4.70
+413,"Tuchów, ul. Adama Mickiewicza 48",Tuchów,małopolskie,2. Diagnostyka Tarnów,49.89,21.05,krosno,100.90,68.40,4.70
+414,"Tarnów, ul. Lwowska 197",Tarnów,małopolskie,2. Diagnostyka Tarnów,50.01,21.02,krosno,100.90,68.40,4.70
+415,"Jasło, ul. Wincentego Pola 3",Jasło,podkarpackie,2. Diagnostyka Tarnów,49.74,21.47,krosno,100.90,68.40,4.70
+416,"Tarnów, ul. Mostowa 4a",Tarnów,małopolskie,2. Diagnostyka Tarnów,50.01,21.00,krosno,100.90,68.40,4.70
+418,"Gdynia, ul. Wiczlińska 54",Gdynia,pomorskie,1. Punkt pobrań,54.49,18.43,gdansk,100.10,94.10,30.60
+419,"Opatów, pl. Obrońców Pokoju 32",Opatów,świętokrzyskie,1. Punkt pobrań,50.80,21.43,kielce,97.70,90.90,17.30
+420,"Zgierz, ul. Kuropatwińskiej 2",Zgierz,łódzkie,1. Punkt pobrań,51.85,19.42,konin,98.70,94.50,29.40
+423,"Tarnowo Podgórne, ul. Sportowa 1",Tarnowo Podgórne,wielkopolskie,1. Punkt pobrań,52.47,16.66,leszno,95.70,93.60,32.80
+424,"Rokietnica, ul. Koszycy 15",Rokietnica,wielkopolskie,1. Punkt pobrań,52.51,16.74,leszno,95.70,93.60,32.80
+425,"Szamotuły, ul. Dworcowa 39",Szamotuły,wielkopolskie,1. Punkt pobrań,52.61,16.58,leszno,95.70,93.60,32.80
+427,"Opatówek, ul. Kościelna 13",Opatówek,wielkopolskie,1. Punkt pobrań,51.74,18.21,jelenia_gora,100.50,92.40,25.70
+428,"Rzeszów, ul. Leska 1",Rzeszów,podkarpackie,1. Punkt pobrań,50.04,21.95,rzeszow,98.20,88.60,15.40
+430,"Warszawa, ul. Madalińskiego 25",Warszawa,mazowieckie,1. Punkt pobrań,52.20,21.02,warszawa,94.90,95.00,37.60
+431,"Oława, ul. Warszawska 30",Oława,dolnośląskie,1. Punkt pobrań,50.95,17.29,jelenia_gora,100.50,92.40,25.70
+432,"Łódź, ul. Puszkina 18",Łódź,łódzkie,1. Punkt pobrań,51.76,19.54,konin,98.70,94.50,29.40
+433,"Pruszcz Gdański, ul. Cicha 12",Pruszcz Gdański,pomorskie,1. Punkt pobrań,54.26,18.63,gdansk,100.10,94.10,30.60
+434,"Kościerzyna, ul. Stanisława Staszica 13",Kościerzyna,pomorskie,1. Punkt pobrań,54.12,17.97,gdansk,100.10,94.10,30.60
+435,"Jerzykowo, ul. Okrężna 26",Jerzykowo,wielkopolskie,1. Punkt pobrań,52.47,17.18,leszno,95.70,93.60,32.80
+436,"Szamotuły, ul. Dworcowa 18",Szamotuły,wielkopolskie,1. Punkt pobrań,52.61,16.58,leszno,95.70,93.60,32.80
+437,"Gdańsk, ul. Kartuska 214/218",Gdańsk,pomorskie,1. Punkt pobrań,54.35,18.60,gdansk,100.10,94.10,30.60
+438,"Kamień Pomorski, ul. Szpitalna 10",Kamień Pomorski,zachodniopomorskie,1. Punkt pobrań,53.97,14.78,koszalin,101.00,94.00,30.70
+439,"Poznań, os. Marysieńki 25",Poznań,wielkopolskie,1. Punkt pobrań,52.46,16.90,leszno,95.70,93.60,32.80
+440,"Jarocin, ul. Kasztanowa 16",Jarocin,wielkopolskie,1. Punkt pobrań,51.98,17.50,leszno,95.70,93.60,32.80
+442,"Gniezno, ul. Roosevelta 44",Gniezno,wielkopolskie,1. Punkt pobrań,52.54,17.61,leszno,95.70,93.60,32.80
+443,"Opole, ul. Tuwima 1",Opole,opolskie,1. Punkt pobrań,50.65,17.96,opole,99.10,90.00,14.90
+444,"Chełm, al. 3 Maja 22/3",Chełm,lubelskie,1. Punkt pobrań,51.12,23.48,biala_podlaska,96.10,88.90,12.00
+445,"Wisznice, ul. Wygoda 4",Wisznice,lubelskie,1. Punkt pobrań,51.79,23.21,biala_podlaska,96.10,88.90,12.00
+446,"Sandomierz, ul. Mickiewicza 15",Sandomierz,świętokrzyskie,1. Punkt pobrań,50.68,21.74,kielce,97.70,90.90,17.30
+447,"Nowy Targ, ul. Kolejowa 31",Nowy Targ,małopolskie,1. Punkt pobrań,49.48,20.03,krakow,97.60,93.30,24.30
+449,"Biłgoraj, ul. Kościuszki 138",Biłgoraj,lubelskie,1. Punkt pobrań,50.53,22.71,biala_podlaska,96.10,88.90,12.00
+451,"Starogard Gdański, ul. Wł. Jagiełły 27",Starogard Gdański,pomorskie,1. Punkt pobrań,53.97,18.52,gdansk,100.10,94.10,30.60
+452,"Gdańsk, ul. Maurycego Beniowskiego 9",Gdańsk,pomorskie,1. Punkt pobrań,54.41,18.58,gdansk_452,100.10,94.10,30.50
+453,"Gdynia, ul. Morska 164",Gdynia,pomorskie,1. Punkt pobrań,54.53,18.49,gdansk,100.10,94.10,30.60
+454,"Tczew, ul. Jarosława Dąbrowskiego 11",Tczew,pomorskie,1. Punkt pobrań,54.09,18.79,slupsk,99.90,94.10,25.20
+455,"Lipno, ul. 3 Maja 16",Lipno,kujawsko-pomorskie,1. Punkt pobrań,52.85,19.18,wloclawek,96.70,93.60,28.30
+456,"Toruń, ul. Władysława Broniewskiego 4",Toruń,kujawsko-pomorskie,1. Punkt pobrań,53.01,18.58,bydgoszcz,96.60,93.60,26.00
+457,"Kołobrzeg, ul. Łopuskiego 52",Kołobrzeg,zachodniopomorskie,1. Punkt pobrań,54.17,15.56,koszalin,101.00,94.00,30.70
+458,"Kołobrzeg, ul. Kolejowa 1",Kołobrzeg,zachodniopomorskie,1. Punkt pobrań,54.18,15.57,koszalin,101.00,94.00,30.70
+459,"Wrocław, pl. Św Macieja 8",Wrocław,dolnośląskie,1. Punkt pobrań,51.12,17.04,jelenia_gora,100.50,92.40,25.70
+460,"Wrocław, ul. Rajska 71",Wrocław,dolnośląskie,1. Punkt pobrań,51.14,16.90,jelenia_gora,100.50,92.40,25.70
+461,"Wrocław, ul. Canaletta 4",Wrocław,dolnośląskie,1. Punkt pobrań,51.10,17.12,jelenia_gora,100.50,92.40,25.70
+462,"Zgorzelec, ul. Ignacego Daszyńskiego 68",Zgorzelec,dolnośląskie,1. Punkt pobrań,51.15,15.01,jelenia_gora,100.50,92.40,25.70
+463,"Legnica, ul. Rycerska 15/1b",Legnica,dolnośląskie,1. Punkt pobrań,51.21,16.16,jelenia_gora,100.50,92.40,25.70
+464,"Kielce, ul. Tarnowska 4",Kielce,świętokrzyskie,1. Punkt pobrań,50.86,20.64,kielce,97.70,90.90,17.30
+465,"Kielce, os. Na Stoku 63a",Kielce,świętokrzyskie,1. Punkt pobrań,50.89,20.66,kielce,97.70,90.90,17.30
+467,"Częstochowa, ul. 1 Maja 27",Częstochowa,śląskie,1. Punkt pobrań,50.80,19.11,czestochowa,97.40,90.00,15.40
+468,"Kielce, ul. Gabrieli Zapolskiej 4/30",Kielce,świętokrzyskie,1. Punkt pobrań,50.89,20.65,kielce,97.70,90.90,17.30
+469,"Olesno, ul. Małe Przedmieście 14",Olesno,opolskie,1. Punkt pobrań,50.88,18.42,opole,99.10,90.00,14.90
+470,"Kluczbork, ul. Skłodowskiej-Curie 6",Kluczbork,opolskie,1. Punkt pobrań,50.97,18.22,opole,99.10,90.00,14.90
+471,"Świnoujście, ul. Dąbrowskiego 4/126",Świnoujście,zachodniopomorskie,1. Punkt pobrań,53.91,14.25,koszalin,101.00,94.00,30.70
+472,"Częstochowa, ul. Jagiellońska 1",Częstochowa,śląskie,1. Punkt pobrań,50.78,19.14,czestochowa,97.40,90.00,15.40
+474,"Skierniewice, ul. Narbutta-Łuczyńskiego 28",Skierniewice,łódzkie,1. Punkt pobrań,51.98,20.15,konin,98.70,94.50,29.40
+475,"Kielce, ul. Starowapiennikowa 42a/U3",Kielce,świętokrzyskie,1. Punkt pobrań,50.85,20.63,kielce,97.70,90.90,17.30
+476,"Wrocław, ul. Strachocińska 159",Wrocław,dolnośląskie,1. Punkt pobrań,51.10,17.16,jelenia_gora,100.50,92.40,25.70
+477,"Gdańsk, ul. Jabłoniowa 29b",Gdańsk,pomorskie,1. Punkt pobrań,54.33,18.56,gdansk,100.10,94.10,30.60
+478,"Grudziądz, ul. Chełmińska 80",Grudziądz,kujawsko-pomorskie,1. Punkt pobrań,53.48,18.75,bydgoszcz,96.60,93.60,26.00
+479,"Wałbrzych, ul. Długa 2",Wałbrzych,dolnośląskie,1. Punkt pobrań,50.81,16.29,jelenia_gora,100.50,92.40,25.70
+480,"Kudowa-Zdrój, ul. Norwida 1",Kudowa-Zdrój,dolnośląskie,1. Punkt pobrań,50.44,16.24,jelenia_gora,100.50,92.40,25.70
+482,"Swarzędz, ul. Kupiecka 29",Swarzędz,wielkopolskie,1. Punkt pobrań,52.40,17.07,leszno,95.70,93.60,32.80
+483,"Góra, ul. Armii Polskiej 8",Góra,dolnośląskie,1. Punkt pobrań,51.66,16.54,jelenia_gora,100.50,92.40,25.70
+485,"Łuków, ul. Pastewnik 2",Łuków,lubelskie,1. Punkt pobrań,51.93,22.38,biala_podlaska,96.10,88.90,12.00
+486,"Poznań, ul. Lemierzycka 1",Poznań,wielkopolskie,1. Punkt pobrań,52.43,16.83,leszno,95.70,93.60,32.80
+488,"Słupsk, ul. Juliana Tuwima 23",Słupsk,pomorskie,1. Punkt pobrań,54.46,17.02,slupsk,99.90,94.10,25.20
+489,"Sławno, ul. Koszalińska 4",Sławno,zachodniopomorskie,1. Punkt pobrań,54.36,16.68,slupsk,99.90,94.10,25.20
+490,"Bytów, ul. Gen. Władysława Sikorskiego 32/2",Bytów,pomorskie,1. Punkt pobrań,54.17,17.49,slupsk,99.90,94.10,25.20
+491,"Miastko, ul. Gen. Józefa Wybickiego 30",Miastko,pomorskie,1. Punkt pobrań,54.01,16.98,slupsk,99.90,94.10,25.20
+492,"Gubin, ul. Gdańska 17",Gubin,lubuskie,1. Punkt pobrań,51.96,14.73,gorzow_wielkopolski,100.50,91.80,25.90
+494,"Dąbrowa Tarnowska, ul. Sucharskiego 5",Dąbrowa Tarnowska,małopolskie,2. Diagnostyka Tarnów,50.18,20.98,krosno,100.90,68.40,4.70
+495,"Tarnobrzeg, ul. Wyspiańskiego 13",Tarnobrzeg,podkarpackie,1. Punkt pobrań,50.57,21.68,kielce,97.70,90.90,17.30
+496,"Jelenia Góra, ul. Ogińskiego 1a",Jelenia Góra,dolnośląskie,1. Punkt pobrań,50.91,15.75,jelenia_gora,100.50,92.40,25.70
+497,"Rozprza, ul. Rynek Piastowski 13a",Rozprza,łódzkie,1. Punkt pobrań,51.30,19.64,konin,98.70,94.50,29.40
+499,"Trzcianka, pl. Pocztowy 24b",Trzcianka,wielkopolskie,1. Punkt pobrań,53.04,16.46,leszno,95.70,93.60,32.80
+500,"Malbork, ul. Kopernika 1",Malbork,pomorskie,1. Punkt pobrań,54.03,19.03,elblag,93.80,93.60,29.70
+501,"Ruda Śląska, ul. Jankowskiego 6",Ruda Śląska,śląskie,1. Punkt pobrań,50.27,18.86,katowice,101.00,88.60,15.10
+502,"Przecław, ul. Przecław 27c",Przecław,zachodniopomorskie,1. Punkt pobrań,53.38,14.48,koszalin,101.00,94.00,30.70
+503,"Gniezno, ul. Podkomorska 4",Gniezno,wielkopolskie,1. Punkt pobrań,52.54,17.63,leszno,95.70,93.60,32.80
+504,"Jarocin, ul. Magnoliowa 1",Jarocin,wielkopolskie,1. Punkt pobrań,51.97,17.51,leszno,95.70,93.60,32.80
+505,"Osieczna, ul. Rynek 4",Osieczna,wielkopolskie,1. Punkt pobrań,51.90,16.68,leszno,95.70,93.60,32.80
+506,"Czarnków, ul. Kościuszki 77",Czarnków,wielkopolskie,1. Punkt pobrań,52.90,16.56,leszno,95.70,93.60,32.80
+507,"Poraj, ul. 3 Maja 25",Poraj,śląskie,1. Punkt pobrań,50.68,19.21,czestochowa,97.40,90.00,15.40
+508,"Wrocław, ul. Trawowa 73",Wrocław,dolnośląskie,1. Punkt pobrań,51.10,16.95,jelenia_gora,100.50,92.40,25.70
+509,"Miastko, os. Ceglane 1",Miastko,pomorskie,1. Punkt pobrań,54.01,16.98,slupsk,99.90,94.10,25.20
+510,"Kowalewo Pomorskie, ul. 1 Stycznia 16a",Kowalewo Pomorskie,kujawsko-pomorskie,1. Punkt pobrań,53.16,18.87,bydgoszcz,96.60,93.60,26.00
+511,"Gorzów Wielkopolski, ul. Starzyńskiego 1",Gorzów Wielkopolski,lubuskie,1. Punkt pobrań,52.76,15.27,gorzow_wielkopolski,100.50,91.80,25.90
+512,"Ełk, ul. Maksymiliana Marii Kolbe 8",Ełk,warmińsko-mazurskie,1. Punkt pobrań,53.80,22.35,bialystok,96.00,92.60,22.90
+513,"Szczecinek, ul. Warcisława IV 3",Szczecinek,zachodniopomorskie,1. Punkt pobrań,53.70,16.70,szczecinek,100.70,91.50,22.60
+514,"Szczecinek, ul. Piotra Skargi 5",Szczecinek,zachodniopomorskie,1. Punkt pobrań,53.71,16.69,szczecinek,100.70,91.50,22.60
+515,"Gryfice, ul. Niepodległości 82",Gryfice,zachodniopomorskie,1. Punkt pobrań,53.91,15.20,koszalin,101.00,94.00,30.70
+516,"Białogard, ul. Lindego 21a",Białogard,zachodniopomorskie,1. Punkt pobrań,54.01,15.99,koszalin,101.00,94.00,30.70
+518,"Nowogard, ul. Kościuszki 36",Nowogard,zachodniopomorskie,1. Punkt pobrań,53.67,15.12,koszalin,101.00,94.00,30.70
+519,"Kamień Pomorski, ul. Kopernika 26",Kamień Pomorski,zachodniopomorskie,1. Punkt pobrań,53.97,14.77,koszalin,101.00,94.00,30.70
+521,"Sławno, ul. Basztowa 23",Sławno,zachodniopomorskie,1. Punkt pobrań,54.36,16.68,koszalin,101.00,94.00,30.70
+522,"Police, ul. Piłsudskiego 6/3",Police,zachodniopomorskie,1. Punkt pobrań,53.54,14.56,koszalin,101.00,94.00,30.70
+523,"Koszalin, ul. Chopina 24",Koszalin,zachodniopomorskie,1. Punkt pobrań,54.19,16.21,koszalin,101.00,94.00,30.70
+524,"Zduńska Wola, ul. Getta Żydowskiego 19c",Zduńska Wola,łódzkie,1. Punkt pobrań,51.61,18.93,konin,98.70,94.50,29.40
+525,"Pleszew, ul. Prusa 2",Pleszew,wielkopolskie,1. Punkt pobrań,51.90,17.76,leszno,95.70,93.60,32.80
+526,"Czerwionka - Leszczyny, ul. 3 Maja 36c",Czerwionka - Leszczyny,śląskie,1. Punkt pobrań,50.15,18.67,katowice,101.00,88.60,15.10
+527,"Zamość, ul. Partyzantów 9",Zamość,lubelskie,1. Punkt pobrań,50.71,23.26,biala_podlaska,96.10,88.90,12.00
+528,"Poznań, os. B. Chrobrego 101",Poznań,wielkopolskie,1. Punkt pobrań,52.46,16.91,leszno,95.70,93.60,32.80
+529,"Poznań, ul. Piłsudskiego 102",Poznań,wielkopolskie,1. Punkt pobrań,52.39,16.96,leszno,95.70,93.60,32.80
+530,"Poznań, os. Rzeczypospolitej 6",Poznań,wielkopolskie,1. Punkt pobrań,52.39,16.95,leszno,95.70,93.60,32.80
+534,"Piła, ul. Lotnicza 3",Piła,wielkopolskie,1. Punkt pobrań,53.15,16.72,leszno,95.70,93.60,32.80
+535,"Piła, ul. Średnia 1",Piła,wielkopolskie,1. Punkt pobrań,53.17,16.75,leszno,95.70,93.60,32.80
+536,"Pruszków, ul. Gomulińskiego 1",Pruszków,mazowieckie,1. Punkt pobrań,52.16,20.79,warszawa,94.90,95.00,37.60
+537,"Poznań, ul. Naramowicka 203k/2",Poznań,wielkopolskie,1. Punkt pobrań,52.45,16.95,leszno,95.70,93.60,32.80
+539,"Łęczyca, ul. Kilińskiego 5",Łęczyca,łódzkie,1. Punkt pobrań,52.06,19.20,konin,98.70,94.50,29.40
+540,"Tarnobrzeg, ul. Kopernika 21/4",Tarnobrzeg,podkarpackie,1. Punkt pobrań,50.57,21.69,kielce,97.70,90.90,17.30
+541,"Kraków, ul. Zygmunta Glogera 53",Kraków,małopolskie,1. Punkt pobrań,50.10,19.93,krakow,97.60,93.30,24.30
+542,"Wolin, ul. Prosta 1",Wolin,zachodniopomorskie,1. Punkt pobrań,53.85,14.61,koszalin,101.00,94.00,30.70
+543,"Szczecin, ul. Wojska Polskiego 97",Szczecin,zachodniopomorskie,1. Punkt pobrań,53.44,14.54,koszalin,101.00,94.00,30.70
+545,"Radom, ul. Batorego 24",Radom,mazowieckie,1. Punkt pobrań,51.40,21.17,ciechanow,94.90,94.10,32.40
+546,"Kraków, ul. Lipska 6",Kraków,małopolskie,1. Punkt pobrań,50.04,19.99,krakow,97.60,93.30,24.30
+547,"Nidzica, ul. Sprzymierzonych 38",Nidzica,warmińsko-mazurskie,1. Punkt pobrań,53.37,20.43,olsztyn,93.80,93.60,29.20
+548,"Lubawa, ul. Grunwaldzka 10",Lubawa,warmińsko-mazurskie,1. Punkt pobrań,53.51,19.75,ilawa,93.70,92.70,24.70
+550,"Olsztyn, ul. Wańkowicza 5",Olsztyn,warmińsko-mazurskie,1. Punkt pobrań,53.75,20.49,olsztyn,93.80,93.60,29.20
+551,"Zgierz, ul. Hoża 4",Zgierz,łódzkie,1. Punkt pobrań,51.86,19.40,konin,98.70,94.50,29.40
+552,"Międzyzdroje, ul. Niepodległości 10a",Międzyzdroje,zachodniopomorskie,1. Punkt pobrań,53.93,14.45,koszalin,101.00,94.00,30.70
+553,"Gdańsk, ul. Staropolska 53",Gdańsk,pomorskie,1. Punkt pobrań,54.31,18.57,gdansk,100.10,94.10,30.60
+554,"Poznań, pl. Kolegiacki 12c",Poznań,wielkopolskie,1. Punkt pobrań,52.41,16.94,leszno,95.70,93.60,32.80
+555,"Poznań, os. Orła Białego 43",Poznań,wielkopolskie,1. Punkt pobrań,52.38,16.96,leszno,95.70,93.60,32.80
+556,"Nowy Tomyśl, os. Batorego 52",Nowy Tomyśl,wielkopolskie,1. Punkt pobrań,52.32,16.12,leszno,95.70,93.60,32.80
+558,"Gniezno, ul. 3 Maja 31",Gniezno,wielkopolskie,1. Punkt pobrań,52.54,17.60,leszno,95.70,93.60,32.80
+559,"Chrzanów, ul. Trzebińska 35",Chrzanów,małopolskie,1. Punkt pobrań,50.14,19.42,krakow,97.60,93.30,24.30
+560,"Miechów, ul. Szpitalna 3",Miechów,małopolskie,1. Punkt pobrań,50.35,20.03,krakow,97.60,93.30,24.30
+562,"Rzeszów, ul. Zenitowa 5",Rzeszów,podkarpackie,1. Punkt pobrań,50.04,22.04,rzeszow,98.20,88.60,15.40
+563,"Chojnice, ul. Bytowska 70",Chojnice,pomorskie,1. Punkt pobrań,53.71,17.55,slupsk,99.90,94.10,25.20
+564,"Stryków, ul. Targowa 16",Stryków,łódzkie,1. Punkt pobrań,51.90,19.60,konin,98.70,94.50,29.40
+565,"Wałcz, ul. Kościuszkowców 10",Wałcz,zachodniopomorskie,1. Punkt pobrań,53.27,16.47,koszalin,101.00,94.00,30.70
+566,"Szczecin, ul. Narutowicza 13",Szczecin,zachodniopomorskie,1. Punkt pobrań,53.42,14.54,koszalin,101.00,94.00,30.70
+567,"Zielona Góra, ul. Anieli Krzywoń 2",Zielona Góra,lubuskie,1. Punkt pobrań,51.93,15.49,gorzow_wielkopolski,100.50,91.80,25.90
+568,"Kalisz, ul. Górnośląska 3",Kalisz,wielkopolskie,1. Punkt pobrań,51.76,18.08,jelenia_gora,100.50,92.40,25.70
+569,"Kalisz, ul. Częstochowska 71-75",Kalisz,wielkopolskie,1. Punkt pobrań,51.75,18.10,jelenia_gora,100.50,92.40,25.70
+570,"Katowice, ul. Paderewskiego 32c",Katowice,śląskie,1. Punkt pobrań,50.25,19.04,katowice,101.00,88.60,15.10
+571,"Zielona Góra, ul. Konstytucji 3 Maja 13",Zielona Góra,lubuskie,1. Punkt pobrań,51.94,15.50,gorzow_wielkopolski,100.50,91.80,25.90
+572,"Kutno, ul. Teligi 4/1",Kutno,łódzkie,1. Punkt pobrań,52.24,19.36,konin,98.70,94.50,29.40
+573,"Wołów, ul. Trzebnicka 20/4",Wołów,dolnośląskie,1. Punkt pobrań,51.33,16.66,jelenia_gora,100.50,92.40,25.70
+574,"Mielec, ul. Botaniczna 1",Mielec,podkarpackie,1. Punkt pobrań,50.29,21.46,kielce,97.70,90.90,17.30
+575,"Jaworzno, al. Józefa Piłsudskiego 72",Jaworzno,śląskie,1. Punkt pobrań,50.21,19.25,katowice,101.00,88.60,15.10
+576,"Kraków, ul. Wielicka 72",Kraków,małopolskie,1. Punkt pobrań,50.03,19.97,krakow,97.60,93.30,24.30
+577,"Gołańcz, ul. Walki Młodych 20",Gołańcz,wielkopolskie,1. Punkt pobrań,52.94,17.30,leszno,95.70,93.60,32.80
+578,"Czarna Białostocka, ul. Torowa 1",Czarna Białostocka,podlaskie,1. Punkt pobrań,53.30,23.29,bialystok,96.00,92.60,22.90
+579,"Częstochowa, ul. Łódzka 52/65",Częstochowa,śląskie,1. Punkt pobrań,50.82,19.10,czestochowa,97.40,90.00,15.40
+580,"Sieradz, ul. Bohaterów Września 61",Sieradz,łódzkie,1. Punkt pobrań,51.59,18.71,konin,98.70,94.50,29.40
+581,"Kamienna Góra, ul. Mickiewicza 18",Kamienna Góra,dolnośląskie,1. Punkt pobrań,50.78,16.03,jelenia_gora,100.50,92.40,25.70
+582,"Mosina, ul. Wawrzyniaka 4",Mosina,wielkopolskie,1. Punkt pobrań,52.24,16.85,leszno,95.70,93.60,32.80
+583,"Toruń, ul. Storczykowa 8/10",Toruń,kujawsko-pomorskie,1. Punkt pobrań,53.04,18.58,bydgoszcz,96.60,93.60,26.00
+584,"Brodnica, ul. Leśna 1a",Brodnica,kujawsko-pomorskie,1. Punkt pobrań,53.26,19.41,bydgoszcz,96.60,93.60,26.00
+585,"Brodnica, ul. Sienkiewicza 25",Brodnica,kujawsko-pomorskie,1. Punkt pobrań,53.26,19.40,bydgoszcz,96.60,93.60,26.00
+586,"Lipno, ul. Dębowa 21",Lipno,kujawsko-pomorskie,1. Punkt pobrań,52.84,19.18,wloclawek,96.70,93.60,28.30
+587,"Zakopane, ul. Chyców Potok 26",Zakopane,małopolskie,1. Punkt pobrań,49.30,19.97,krakow,97.60,93.30,24.30
+588,"Łódź, ul. Hubala 1",Łódź,łódzkie,1. Punkt pobrań,51.75,19.40,konin,98.70,94.50,29.40
+590,"Kołobrzeg, ul. Zapleczna 3f/1",Kołobrzeg,zachodniopomorskie,1. Punkt pobrań,54.18,15.58,koszalin,101.00,94.00,30.70
+591,"Karlino, ul. Szczecińska 3",Karlino,zachodniopomorskie,1. Punkt pobrań,54.03,15.88,koszalin,101.00,94.00,30.70
+592,"Pyrzyce, ul. Jana Pawła II 2",Pyrzyce,zachodniopomorskie,1. Punkt pobrań,53.15,14.89,koszalin,101.00,94.00,30.70
+594,"Wrocław, ul. Olszewskiego 21",Wrocław,dolnośląskie,1. Punkt pobrań,51.10,17.10,jelenia_gora,100.50,92.40,25.70
+595,"Bytów, ul. 1 Maja 11",Bytów,pomorskie,1. Punkt pobrań,54.17,17.49,slupsk,99.90,94.10,25.20
+596,"Sandomierz, ul. Mickiewicza 51a/4",Sandomierz,świętokrzyskie,1. Punkt pobrań,50.69,21.73,kielce,97.70,90.90,17.30
+598,"Puck, pl. Obrońców Wybrzeża 6",Puck,pomorskie,1. Punkt pobrań,54.72,18.41,gdansk,100.10,94.10,30.60
+600,"Gdynia, ul. Wejherowska 59",Gdynia,pomorskie,1. Punkt pobrań,54.54,18.47,gdansk,100.10,94.10,30.60
+601,"Gdańsk, ul. Niepołomicka 32",Gdańsk,pomorskie,1. Punkt pobrań,54.31,18.60,gdansk,100.10,94.10,30.60
+602,"Kwidzyn, ul. Kopernika 25a",Kwidzyn,pomorskie,1. Punkt pobrań,53.73,18.93,ilawa,93.70,92.70,24.70
+603,"Dąbrówka, ul. Herbowa 2",Dąbrówka,wielkopolskie,1. Punkt pobrań,52.38,16.75,leszno,95.70,93.60,32.80
+604,"Zamość, ul. Peowiaków 1",Zamość,lubelskie,1. Punkt pobrań,50.72,23.25,biala_podlaska,96.10,88.90,12.00
+605,"Warszawa, ul. Brazylijska 13",Warszawa,mazowieckie,1. Punkt pobrań,52.23,21.07,warszawa,94.90,95.00,37.60
+607,"Nekla, ul. Chopina 64",Nekla,wielkopolskie,1. Punkt pobrań,52.36,17.41,leszno,95.70,93.60,32.80
+609,"Gdynia, ul. Władysława IV 61",Gdynia,pomorskie,1. Punkt pobrań,54.51,18.54,gdansk,100.10,94.10,30.60
+610,"Raszyn, ul. Słoneczna 7a",Raszyn,mazowieckie,1. Punkt pobrań,52.15,20.92,warszawa,94.90,95.00,37.60
+611,"Białystok, ul. 42 Pułku Piechoty 35/5",Białystok,podlaskie,1. Punkt pobrań,53.14,23.19,bialystok,96.00,92.60,22.90
+612,"Busko-Zdrój, ul. Sądowa 9",Busko-Zdrój,świętokrzyskie,1. Punkt pobrań,50.47,20.72,kielce,97.70,90.90,17.30
+613,"Wrocław, ul. Ostrowskiego 3",Wrocław,dolnośląskie,1. Punkt pobrań,51.09,16.98,jelenia_gora,100.50,92.40,25.70
+616,"Wrocław, ul. Sienkiewicza 110",Wrocław,dolnośląskie,1. Punkt pobrań,51.12,17.06,jelenia_gora,100.50,92.40,25.70
+617,"Bolesławiec, ul. Prusa 3",Bolesławiec,dolnośląskie,1. Punkt pobrań,51.26,15.56,jelenia_gora,100.50,92.40,25.70
+618,"Sokółka, ul. 1 Maja 24",Sokółka,podlaskie,1. Punkt pobrań,53.41,23.50,bialystok,96.00,92.60,22.90
+619,"Wrocław, ul. Bierutowska 17",Wrocław,dolnośląskie,1. Punkt pobrań,51.15,17.12,jelenia_gora,100.50,92.40,25.70
+620,"Pabianice, ul. Orla 45",Pabianice,łódzkie,1. Punkt pobrań,51.66,19.34,konin,98.70,94.50,29.40
+621,"Starachowice, ul. Marszałka Józefa Piłsudskiego 41",Starachowice,świętokrzyskie,1. Punkt pobrań,51.04,21.08,kielce,97.70,90.90,17.30
+622,"Warszawa, ul. Skoroszewska 11",Warszawa,mazowieckie,1. Punkt pobrań,52.19,20.90,warszawa,94.90,95.00,37.60
+623,"Łomża, al. Marszałka Józefa Piłsudskiego 6",Łomża,podlaskie,1. Punkt pobrań,53.16,22.09,bialystok,96.00,92.60,22.90
+624,"Stargard, al. Żołnierza 37",Stargard,zachodniopomorskie,1. Punkt pobrań,53.34,15.01,koszalin,101.00,94.00,30.70
+625,"Chojnice, ul. Adama Mickiewicza 39",Chojnice,pomorskie,1. Punkt pobrań,53.70,17.56,slupsk,99.90,94.10,25.20
+626,"Rumia, ul. Katowicka 16",Rumia,pomorskie,1. Punkt pobrań,54.57,18.41,gdansk,100.10,94.10,30.60
+627,"Kościerzyna, ul. Piechowskiego 55",Kościerzyna,pomorskie,1. Punkt pobrań,54.12,17.95,gdansk,100.10,94.10,30.60
+628,"Warszawa, al. Sikorskiego 9a",Warszawa,mazowieckie,1. Punkt pobrań,52.18,21.04,warszawa,94.90,95.00,37.60
+629,"Łódź, ul. Piotrkowska 5",Łódź,łódzkie,1. Punkt pobrań,51.78,19.45,konin,98.70,94.50,29.40
+631,"Wrocław, ul. Zwycięska 41",Wrocław,dolnośląskie,1. Punkt pobrań,51.06,17.01,jelenia_gora,100.50,92.40,25.70
+632,"Nysa, ul. Celna 28",Nysa,opolskie,1. Punkt pobrań,50.47,17.34,jelenia_gora,100.50,92.40,25.70
+634,"Kamieniec Ząbkowicki, ul. Nauczycielska 4a",Kamieniec Ząbkowicki,dolnośląskie,1. Punkt pobrań,50.52,16.88,jelenia_gora,100.50,92.40,25.70
+635,"Paczków, ul. Daszyńskiego 9",Paczków,opolskie,1. Punkt pobrań,50.46,17.00,jelenia_gora,100.50,92.40,25.70
+636,"Głuchołazy, ul. Rynek 12",Głuchołazy,opolskie,1. Punkt pobrań,50.32,17.38,jelenia_gora,100.50,92.40,25.70
+637,"Września, ul. Słowackiego 37a",Września,wielkopolskie,1. Punkt pobrań,52.32,17.59,leszno,95.70,93.60,32.80
+639,"Sierakowice, ul. Lęborska 27b",Sierakowice,pomorskie,1. Punkt pobrań,54.35,17.89,gdansk,100.10,94.10,30.60
+640,"Wadowice, ul. Lwowska 78a",Wadowice,małopolskie,1. Punkt pobrań,49.88,19.50,bielsko_biala,101.20,89.00,14.60
+642,"Rzgów, ul. Ogrodowa 11a",Rzgów,łódzkie,1. Punkt pobrań,51.66,19.49,konin,98.70,94.50,29.40
+644,"Gogolin, ul. Szkolna 2",Gogolin,opolskie,1. Punkt pobrań,50.49,18.02,opole,99.10,90.00,14.90
+645,"Krapkowice, ul. Basztowa 8",Krapkowice,opolskie,1. Punkt pobrań,50.47,17.97,opole,99.10,90.00,14.90
+646,"Lubliniec, ul. Mickiewicza 39/1",Lubliniec,śląskie,1. Punkt pobrań,50.67,18.68,opole,99.10,90.00,14.90
+647,"Namysłów, ul. Plac Wolności 5",Namysłów,opolskie,1. Punkt pobrań,51.07,17.72,opole,99.10,90.00,14.90
+648,"Ozimek, ul. Częstochowska 31",Ozimek,opolskie,1. Punkt pobrań,50.68,18.22,opole,99.10,90.00,14.90
+649,"Łódź, ul. Obywatelska 139",Łódź,łódzkie,1. Punkt pobrań,51.74,19.43,konin,98.70,94.50,29.40
+650,"Ostrów Wielkopolski, ul. Okólna 11",Ostrów Wielkopolski,wielkopolskie,1. Punkt pobrań,51.64,17.79,leszno,95.70,93.60,32.80
+651,"Wrocław, ul. Zakładowa 11h",Wrocław,dolnośląskie,1. Punkt pobrań,51.13,17.04,jelenia_gora,100.50,92.40,25.70
+652,"Gdynia, ul. Chwaszczyńska 2",Gdynia,pomorskie,1. Punkt pobrań,54.47,18.50,gdansk,100.10,94.10,30.60
+654,"Chorzów, ul. Świętego Pawła 11",Chorzów,śląskie,1. Punkt pobrań,50.31,18.95,katowice,101.00,88.60,15.10
+655,"Mszana Dolna, ul. Orkana 10",Mszana Dolna,małopolskie,1. Punkt pobrań,49.67,20.08,krakow,97.60,93.30,24.30
+656,"Tarnowskie Góry, ul. Zagórska 83",Tarnowskie Góry,śląskie,1. Punkt pobrań,50.48,18.80,katowice,101.00,88.60,15.10
+657,"Piaseczno, ul. Jana Pawła 45",Piaseczno,mazowieckie,1. Punkt pobrań,52.07,21.02,warszawa,94.90,95.00,37.60
+658,"Białystok, ul. Słonimska 15/1",Białystok,podlaskie,1. Punkt pobrań,53.14,23.18,bialystok,96.00,92.60,22.90
+659,"Brody, ul. Apteczna 2",Brody,świętokrzyskie,1. Punkt pobrań,51.02,21.20,kielce,97.70,90.90,17.30
+660,"Bielsko-Biała, ul. Bystrzańska 94b",Bielsko-Biała,śląskie,1. Punkt pobrań,49.78,19.07,bielsko_biala,101.20,89.00,14.60
+662,"Stryszawa, ul. Stryszawa 23",Stryszawa,małopolskie,1. Punkt pobrań,49.71,19.52,bielsko_biala,101.20,89.00,14.60
+666,"Wieprz, ul. Wadowicka 3",Wieprz,małopolskie,1. Punkt pobrań,49.90,19.40,bielsko_biala,101.20,89.00,14.60
+667,"Inowrocław, ul. 59 Pułku Piechoty 6",Inowrocław,kujawsko-pomorskie,1. Punkt pobrań,52.77,18.25,bydgoszcz,96.60,93.60,26.00
+668,"Grudziądz, ul. Waryńskiego 6",Grudziądz,kujawsko-pomorskie,1. Punkt pobrań,53.49,18.76,bydgoszcz,96.60,93.60,26.00
+670,"Bydgoszcz, ul. Koronowska 42",Bydgoszcz,kujawsko-pomorskie,1. Punkt pobrań,53.14,17.96,bydgoszcz,96.60,93.60,26.00
+672,"Złotów, ul. Spichrzowa 42",Złotów,wielkopolskie,1. Punkt pobrań,53.36,17.04,bydgoszcz,96.60,93.60,26.00
+673,"Kruszwica, ul. Zamkowa 4a",Kruszwica,kujawsko-pomorskie,1. Punkt pobrań,52.67,18.32,bydgoszcz,96.60,93.60,26.00
+674,"Brzoza, ul. Łabiszyńska 18d",Brzoza,kujawsko-pomorskie,1. Punkt pobrań,53.03,18.01,bydgoszcz,96.60,93.60,26.00
+675,"Tarnów, ul. Eugeniusza Kwiatkowskiego 15",Tarnów,małopolskie,2. Diagnostyka Tarnów,50.01,20.92,krosno,100.90,68.40,4.70
+676,"Białe Błota, ul. Szubińska 87b",Białe Błota,kujawsko-pomorskie,1. Punkt pobrań,53.10,17.90,bydgoszcz,96.60,93.60,26.00
+678,"Bydgoszcz, ul. M. Skłodowskiej- Curie 26",Bydgoszcz,kujawsko-pomorskie,1. Punkt pobrań,53.13,18.03,bydgoszcz,96.60,93.60,26.00
+679,"Bydgoszcz, ul. Szubińska 93-95",Bydgoszcz,kujawsko-pomorskie,1. Punkt pobrań,53.12,17.97,bydgoszcz,96.60,93.60,26.00
+680,"Inowrocław, ul. Staropoznańska 131-133",Inowrocław,kujawsko-pomorskie,1. Punkt pobrań,52.75,18.25,bydgoszcz,96.60,93.60,26.00
+681,"Inowrocław, ul. Cegielna 45a",Inowrocław,kujawsko-pomorskie,1. Punkt pobrań,52.79,18.27,bydgoszcz,96.60,93.60,26.00
+682,"Złotów, ul. Norwida 8",Złotów,wielkopolskie,1. Punkt pobrań,53.35,17.04,bydgoszcz,96.60,93.60,26.00
+683,"Bydgoszcz, ul. Kujawska 48",Bydgoszcz,kujawsko-pomorskie,1. Punkt pobrań,53.12,18.01,bydgoszcz,96.60,93.60,26.00
+684,"Bydgoszcz, ul. Czerkaska 22",Bydgoszcz,kujawsko-pomorskie,1. Punkt pobrań,53.14,18.03,bydgoszcz,96.60,93.60,26.00
+685,"Bydgoszcz, ul. Ogrody 21",Bydgoszcz,kujawsko-pomorskie,1. Punkt pobrań,53.11,18.04,bydgoszcz,96.60,93.60,26.00
+686,"Radziwiłłów, ul. Warszawska 15b",Radziwiłłów,mazowieckie,1. Punkt pobrań,52.00,20.29,warszawa,94.90,95.00,37.60
+691,"Toruń, ul. Dziewulskiego 12",Toruń,kujawsko-pomorskie,1. Punkt pobrań,53.03,18.67,bydgoszcz,96.60,93.60,26.00
+692,"Włocławek, ul. Al. Fryderyka Chopina 45/2",Włocławek,kujawsko-pomorskie,1. Punkt pobrań,52.65,19.07,wloclawek,96.70,93.60,28.30
+693,"Toruń, ul. Kościuszki 12a",Toruń,kujawsko-pomorskie,1. Punkt pobrań,53.02,18.61,bydgoszcz,96.60,93.60,26.00
+694,"Toruń, ul. Fałata 35",Toruń,kujawsko-pomorskie,1. Punkt pobrań,53.01,18.57,bydgoszcz,96.60,93.60,26.00
+695,"Wąbrzeźno, ul. Wolności 49",Wąbrzeźno,kujawsko-pomorskie,1. Punkt pobrań,53.27,18.95,bydgoszcz,96.60,93.60,26.00
+696,"Zbrosławice, ul. Piastowska 3",Zbrosławice,śląskie,1. Punkt pobrań,50.42,18.76,katowice,101.00,88.60,15.10
+697,"Bydgoszcz, ul. Nakielska 86",Bydgoszcz,kujawsko-pomorskie,1. Punkt pobrań,53.13,17.95,bydgoszcz,96.60,93.60,26.00
+701,"Inowrocław, ul. Niepodległości 20a",Inowrocław,kujawsko-pomorskie,1. Punkt pobrań,52.79,18.25,bydgoszcz,96.60,93.60,26.00
+702,"Bydgoszcz, ul. K. Libelta 2a",Bydgoszcz,kujawsko-pomorskie,1. Punkt pobrań,53.13,18.01,bydgoszcz,96.60,93.60,26.00
+704,"Bydgoszcz, ul. Pielęgniarska 13",Bydgoszcz,kujawsko-pomorskie,1. Punkt pobrań,53.15,18.18,bydgoszcz,96.60,93.60,26.00
+705,"Bydgoszcz, ul. Kossaka 13,",Bydgoszcz,kujawsko-pomorskie,1. Punkt pobrań,53.11,17.99,bydgoszcz,96.60,93.60,26.00
+707,"Sępólno Krajeńskie, ul. Szkolna 4",Sępólno Krajeńskie,kujawsko-pomorskie,1. Punkt pobrań,53.46,17.54,bydgoszcz,96.60,93.60,26.00
+708,"Koronowo, ul. Witosa 1k/2",Koronowo,kujawsko-pomorskie,1. Punkt pobrań,53.31,17.94,bydgoszcz,96.60,93.60,26.00
+709,"Więcbork, ul. Mickiewicza 17",Więcbork,kujawsko-pomorskie,1. Punkt pobrań,53.35,17.49,bydgoszcz,96.60,93.60,26.00
+710,"Złotów, ul. Wielatowska 10",Złotów,wielkopolskie,1. Punkt pobrań,53.37,17.02,bydgoszcz,96.60,93.60,26.00
+711,"Bydgoszcz, ul. Bydgoskiego Batalionu Obrony Narodowej 10a",Bydgoszcz,kujawsko-pomorskie,1. Punkt pobrań,53.10,18.05,bydgoszcz,96.60,93.60,26.00
+713,"Chełmno, ul. Powstańców Wielkopolskich 18",Chełmno,kujawsko-pomorskie,1. Punkt pobrań,53.35,18.43,bydgoszcz,96.60,93.60,26.00
+715,"Człuchów, ul. Jana III Sobieskiego 5",Człuchów,pomorskie,1. Punkt pobrań,53.66,17.35,slupsk,99.90,94.10,25.20
+718,"Ząbkowice ŚLĄSKIE, ul. 1-Go Maja 9",Ząbkowice Śląskie,dolnośląskie,1. Punkt pobrań,50.59,16.81,jelenia_gora,100.50,92.40,25.70
+719,"Dzierżoniów, ul. Parkowa 4c",Dzierżoniów,dolnośląskie,1. Punkt pobrań,50.73,16.65,jelenia_gora,100.50,92.40,25.70
+720,"Siedlce, ul. Kochanowskiego 8",Siedlce,mazowieckie,1. Punkt pobrań,52.17,22.28,ciechanow,94.90,94.10,32.40
+721,"Olecko, ul. 11-Listopada 23",Olecko,warmińsko-mazurskie,1. Punkt pobrań,54.04,22.50,bialystok,96.00,92.60,22.90
+722,"Gdynia, ul. Mylna 1/2",Gdynia,pomorskie,1. Punkt pobrań,54.54,18.45,gdansk,100.10,94.10,30.60
+723,"Świnoujście, ul. Grunwaldzka 59/U1",Świnoujście,zachodniopomorskie,1. Punkt pobrań,53.90,14.24,koszalin,101.00,94.00,30.70
+724,"Ostrołęka, ul. 11 Listopada 27",Ostrołęka,mazowieckie,1. Punkt pobrań,53.08,21.58,bialystok,96.00,92.60,22.90
+725,"Ostrowiec Świętokrzyski, ul. Siennieńska 12",Ostrowiec Świętokrzyski,świętokrzyskie,1. Punkt pobrań,50.94,21.39,kielce,97.70,90.90,17.30
+726,"Lublin, ul. Nałkowskich 108/37",Lublin,lubelskie,1. Punkt pobrań,51.21,22.54,biala_podlaska,96.10,88.90,12.00
+727,"Leszno, ul. Skarbowa 3",Leszno,wielkopolskie,1. Punkt pobrań,51.84,16.57,leszno,95.70,93.60,32.80
+728,"Niepołomice, ul. Kazimierza Wielkiego 11",Niepołomice,małopolskie,1. Punkt pobrań,50.04,20.22,krakow,97.60,93.30,24.30
+730,"Tarczyn, ul. Warszawska 22",Tarczyn,mazowieckie,1. Punkt pobrań,51.98,20.84,warszawa,94.90,95.00,37.60
+731,"Lublin, ul. Wallenroda 4c",Lublin,lubelskie,1. Punkt pobrań,51.24,22.53,biala_podlaska,96.10,88.90,12.00
+732,"Ostrów Wielkopolski, ul. Wrocławska 81",Ostrów Wielkopolski,wielkopolskie,1. Punkt pobrań,51.64,17.82,leszno,95.70,93.60,32.80
+734,"Warszawa, ul. Marszałkowska 68/70",Warszawa,mazowieckie,1. Punkt pobrań,52.23,21.01,warszawa,94.90,95.00,37.60
+735,"Białobrzegi, ul. Spacerowa 29",Białobrzegi,mazowieckie,1. Punkt pobrań,51.65,20.96,ciechanow,94.90,94.10,32.40
+736,"Warszawa, ul. Wąwozowa 4",Warszawa,mazowieckie,1. Punkt pobrań,52.13,21.07,warszawa,94.90,95.00,37.60
+737,"Zwoleń, ul. Wojska Polskiego 50a",Zwoleń,mazowieckie,1. Punkt pobrań,51.36,21.58,ciechanow,94.90,94.10,32.40
+738,"Lipsko, ul. Solecka 7",Lipsko,mazowieckie,1. Punkt pobrań,51.16,21.65,ciechanow,94.90,94.10,32.40
+739,"Szczecin, ul. Wojska Polskiego 15",Szczecin,zachodniopomorskie,1. Punkt pobrań,53.43,14.55,koszalin,101.00,94.00,30.70
+741,"Krapkowice, ul. Osiedle XXX-Lecia 17",Krapkowice,opolskie,1. Punkt pobrań,50.49,17.97,opole,99.10,90.00,14.90
+742,"Kędzierzyn-Koźle, ul. Łukasiewicza 23",Kędzierzyn-Koźle,opolskie,1. Punkt pobrań,50.34,18.14,opole,99.10,90.00,14.90
+743,"Ostrów Wielkopolski, ul. Strzelecka 57",Ostrów Wielkopolski,wielkopolskie,1. Punkt pobrań,51.64,17.84,leszno,95.70,93.60,32.80
+744,"Chojnów, ul. Tadeusza Rejtana 8/L1",Chojnów,dolnośląskie,1. Punkt pobrań,51.27,15.93,jelenia_gora,100.50,92.40,25.70
+745,"Rogoźno, ul. Wojska Polskiego 4a",Rogoźno,wielkopolskie,1. Punkt pobrań,52.75,16.99,leszno,95.70,93.60,32.80
+747,"Poznań, ul. Czarnieckiego 2",Poznań,wielkopolskie,1. Punkt pobrań,52.39,16.92,leszno,95.70,93.60,32.80
+748,"Kalisz, ul. Boczna 1",Kalisz,wielkopolskie,1. Punkt pobrań,51.76,18.08,jelenia_gora,100.50,92.40,25.70
+749,"Rawicz, ul. Podmiejska 8",Rawicz,wielkopolskie,1. Punkt pobrań,51.61,16.84,jelenia_gora,100.50,92.40,25.70
+750,"Zabrze, ul. Bohaterów Warszawskich 11",Zabrze,śląskie,1. Punkt pobrań,50.30,18.78,katowice,101.00,88.60,15.10
+751,"Gliwice, ul. Gorzołki 17a",Gliwice,śląskie,1. Punkt pobrań,50.29,18.68,katowice,101.00,88.60,15.10
+752,"Kraków, ul. Kopernika 8",Kraków,małopolskie,1. Punkt pobrań,50.06,19.95,krakow,97.60,93.30,24.30
+753,"Lublin, ul. Kawaleryjska 10/5",Lublin,lubelskie,1. Punkt pobrań,51.23,22.51,biala_podlaska,96.10,88.90,12.00
+756,"Puszcza Mariańska, ul. Króla Jana Sobieskiego 42",Puszcza Mariańska,mazowieckie,1. Punkt pobrań,51.98,20.36,warszawa,94.90,95.00,37.60
+757,"Chojnice, al. Bayeux 30",Chojnice,pomorskie,1. Punkt pobrań,53.70,17.58,slupsk,99.90,94.10,25.20
+758,"Łódź, ul. Jugosłowiańska 1a",Łódź,łódzkie,1. Punkt pobrań,51.79,19.59,konin,98.70,94.50,29.40
+759,"Wejherowo, ul. Rzeźnicka 1a",Wejherowo,pomorskie,1. Punkt pobrań,54.60,18.24,gdansk,100.10,94.10,30.60
+761,"Łódź, ul. Okólna 181",Łódź,łódzkie,9. Punkt Pobrań Fryda,51.85,19.48,pajeczno,106.60,,
+764,"Wrocław, pl. Grunwaldzki 18-20",Wrocław,dolnośląskie,1. Punkt pobrań,51.11,17.06,jelenia_gora,100.50,92.40,25.70
+765,"Pabianice, ul. Piotra Skargi 46/52",Pabianice,łódzkie,1. Punkt pobrań,51.66,19.37,konin,98.70,94.50,29.40
+766,"Pajęczno, ul. 1 Maja 13/15",Pajęczno,łódzkie,9. Punkt Pobrań Fryda,51.15,19.00,pajeczno,106.60,,
+768,"Mysłowice, ul. Wyspiańskiego 19",Mysłowice,śląskie,9. Punkt Pobrań Fryda,50.24,19.13,pajeczno,106.60,,
+769,"Wieluń, ul. Szpitalna 16",Wieluń,łódzkie,9. Punkt Pobrań Fryda,51.21,18.57,wielun,106.60,,
+770,"Wieluń, ul. Śląska 1",Wieluń,łódzkie,9. Punkt Pobrań Fryda,51.22,18.57,wielun,106.60,,
+771,"Zabrze, ul. M. Skłodowskiej-Curie 10",Zabrze,śląskie,9. Punkt Pobrań Fryda,50.31,18.78,pajeczno,106.60,,
+772,"Racibórz, ul. Pocztowa 10a",Racibórz,śląskie,1. Punkt pobrań,50.09,18.23,katowice,101.00,88.60,15.10
+773,"Torzym, ul. Wojska Polskiego 52/24",Torzym,lubuskie,1. Punkt pobrań,52.31,15.06,gorzow_wielkopolski,100.50,91.80,25.90
+774,"Kłobuck, ul. Rynek Jana Pawła II 9",Kłobuck,śląskie,9. Punkt Pobrań Fryda,50.90,18.94,klobuck,102.40,,
+775,"Krzepice, ul. Częstochowska 8",Krzepice,śląskie,9. Punkt Pobrań Fryda,50.97,18.73,klobuck,102.40,,
+776,"Klucze, ul. Zawierciańska 6a",Klucze,małopolskie,9. Punkt Pobrań Fryda,50.34,19.56,pajeczno,106.60,,
+777,"Pajęczno, ul. Kościuszki 43a",Pajęczno,łódzkie,9. Punkt Pobrań Fryda,51.15,19.00,pajeczno,106.60,,
+779,"Opole, ul. Krakowska 44",Opole,opolskie,9. Punkt Pobrań Fryda,50.66,17.93,opole_779,100.20,,
+782,"Ziębice, ul. Wąska 15/17",Ziębice,dolnośląskie,1. Punkt pobrań,50.60,17.04,jelenia_gora,100.50,92.40,25.70
+784,"Rumia, ul. Dąbrowskiego 6j",Rumia,pomorskie,1. Punkt pobrań,54.57,18.39,gdansk,100.10,94.10,30.60
+785,"Świdnik, ul. Racławicka 1",Świdnik,lubelskie,1. Punkt pobrań,51.21,22.71,biala_podlaska,96.10,88.90,12.00
+786,"Krotoszyn, ul. Kościuszki 8",Krotoszyn,wielkopolskie,1. Punkt pobrań,51.69,17.44,leszno,95.70,93.60,32.80
+787,"Ozorków, ul. Zgierska 98",Ozorków,łódzkie,1. Punkt pobrań,51.95,19.31,konin,98.70,94.50,29.40
+788,"Suwałki, ul. Papieża Jana Pawła II 16/U1",Suwałki,podlaskie,1. Punkt pobrań,54.11,22.94,bialystok,96.00,92.60,22.90
+789,"Zamość, ul. Błonie 1c",Zamość,lubelskie,1. Punkt pobrań,50.71,23.23,biala_podlaska,96.10,88.90,12.00
+790,"Drezdenko, ul. Kościuszki 4a",Drezdenko,lubuskie,1. Punkt pobrań,52.84,15.83,gorzow_wielkopolski,100.50,91.80,25.90
+791,"Oświęcim, ul. 3 Maja 10",Oświęcim,małopolskie,1. Punkt pobrań,50.04,19.23,bielsko_biala,101.20,89.00,14.60
+792,"Skoki, ul. Kościelna 9c",Skoki,wielkopolskie,1. Punkt pobrań,52.67,17.15,leszno,95.70,93.60,32.80
+795,"Namysłów, ul. Oleśnicka 4",Namysłów,opolskie,9. Punkt Pobrań Fryda,51.08,17.71,namyslow,102.70,,
+796,"Warszawa, ul. Chrzanowskiego 4",Warszawa,mazowieckie,1. Punkt pobrań,52.25,21.08,warszawa,94.90,95.00,37.60
+797,"Bielsko-Biała, ul. Cieszyńska 408",Bielsko-Biała,śląskie,1. Punkt pobrań,49.81,18.98,bielsko_biala,101.20,89.00,14.60
+798,"Warszawa, ul. Lazurowa 87",Warszawa,mazowieckie,1. Punkt pobrań,52.23,20.90,warszawa,94.90,95.00,37.60
+799,"Koszalin, ul. T. Chałubińskiego 7",Koszalin,zachodniopomorskie,1. Punkt pobrań,54.20,16.22,koszalin,101.00,94.00,30.70
+800,"Legionowo, ul. Piłsudskiego 30 Lok.U3",Legionowo,mazowieckie,1. Punkt pobrań,52.39,20.93,warszawa,94.90,95.00,37.60
+802,"Łódź, ul. Drewnowska 43a",Łódź,łódzkie,1. Punkt pobrań,51.78,19.45,konin,98.70,94.50,29.40
+803,"Poznań, ul. Hercena 4",Poznań,wielkopolskie,1. Punkt pobrań,52.43,16.93,leszno,95.70,93.60,32.80
+805,"Bielsk Podlaski, ul. Kazimierzowska 3",Bielsk Podlaski,podlaskie,1. Punkt pobrań,52.77,23.19,bialystok,96.00,92.60,22.90
+806,"Łódź, ul. 11 Listopada 26",Łódź,łódzkie,1. Punkt pobrań,51.82,19.42,konin,98.70,94.50,29.40
+807,"Warszawa, ul. Lanciego 13",Warszawa,mazowieckie,1. Punkt pobrań,52.15,21.06,warszawa,94.90,95.00,37.60
+808,"Łaziska Górne, ul. Wyrska 12b",Łaziska Górne,śląskie,1. Punkt pobrań,50.14,18.87,katowice,101.00,88.60,15.10
+809,"Olsztyn, al. Wojska Polskiego 62",Olsztyn,warmińsko-mazurskie,1. Punkt pobrań,53.79,20.48,olsztyn,93.80,93.60,29.20
+810,"Hajnówka, ul. Wierobieja 2",Hajnówka,podlaskie,1. Punkt pobrań,52.74,23.58,bialystok,96.00,92.60,22.90
+811,"Łódź, ul. Kolumny 155",Łódź,łódzkie,1. Punkt pobrań,51.71,19.51,konin,98.70,94.50,29.40
+812,"Ostrów Mazowiecka, ul. Wiejska 16",Ostrów Mazowiecka,mazowieckie,1. Punkt pobrań,52.80,21.90,bialystok,96.00,92.60,22.90
+813,"Wrocław, ul. Powstańców Śląskich 60",Wrocław,dolnośląskie,1. Punkt pobrań,51.10,17.02,jelenia_gora,100.50,92.40,25.70
+814,"Ząbki, ul. Targowa 13",Ząbki,mazowieckie,1. Punkt pobrań,52.29,21.11,warszawa,94.90,95.00,37.60
+817,"Dąbrowa Górnicza, ul. Wojska Polskiego 47/1",Dąbrowa Górnicza,śląskie,1. Punkt pobrań,50.32,19.20,katowice,101.00,88.60,15.10
+819,"Wrocław, ul. Swojczycka 69",Wrocław,dolnośląskie,1. Punkt pobrań,51.11,17.12,jelenia_gora,100.50,92.40,25.70
+820,"Poznań, ul. Słowackiego 8",Poznań,wielkopolskie,1. Punkt pobrań,52.41,16.91,leszno,95.70,93.60,32.80
+821,"Jastrzębie-Zdrój, ul. Wrocławska 12a",Jastrzębie-Zdrój,śląskie,1. Punkt pobrań,49.95,18.59,katowice,101.00,88.60,15.10
+822,"Kielce, ul. Zagnańska 94/U2",Kielce,świętokrzyskie,1. Punkt pobrań,50.89,20.63,kielce,97.70,90.90,17.30
+823,"Piekary ŚLĄSKIE, ul. Jana Pawła II 61",Piekary Śląskie,śląskie,1. Punkt pobrań,50.39,18.96,katowice,101.00,88.60,15.10
+824,"Leszczyny, ul. Sportowa 2a",Leszczyny,śląskie,1. Punkt pobrań,50.14,18.63,katowice,101.00,88.60,15.10
+825,"Bełchatów, ul. 1 Maja 4",Bełchatów,łódzkie,1. Punkt pobrań,51.36,19.37,konin,98.70,94.50,29.40
+826,"Tomaszów Mazowiecki, ul. Legionów 21/23/A4",Tomaszów Mazowiecki,łódzkie,1. Punkt pobrań,51.53,20.00,konin,98.70,94.50,29.40
+827,"Piła, ul. Roosevelta 25a",Piła,wielkopolskie,1. Punkt pobrań,53.15,16.75,leszno,95.70,93.60,32.80
+828,"Krzyż Wielkopolski, ul. Zachodnia 45",Krzyż Wielkopolski,wielkopolskie,1. Punkt pobrań,52.88,15.99,leszno,95.70,93.60,32.80
+829,"Gostyń, ul. Władysława Łokietka 1",Gostyń,wielkopolskie,1. Punkt pobrań,51.88,17.00,leszno,95.70,93.60,32.80
+830,"Śrem, ul. Chełmońskiego 1a",Śrem,wielkopolskie,1. Punkt pobrań,52.09,17.01,leszno,95.70,93.60,32.80
+832,"Zalewo, ul. 29 Stycznia 18",Zalewo,warmińsko-mazurskie,1. Punkt pobrań,53.85,19.60,ilawa,93.70,92.70,24.70
+833,"Mszczonów, ul. Maklakiewicza 3",Mszczonów,mazowieckie,1. Punkt pobrań,51.97,20.52,warszawa,94.90,95.00,37.60
+834,"Oborniki, ul. Piłsudskiego 62",Oborniki,wielkopolskie,1. Punkt pobrań,52.65,16.82,leszno,95.70,93.60,32.80
+835,"Chodzież, ul. Wiosny Ludów 3a",Chodzież,wielkopolskie,1. Punkt pobrań,53.00,16.92,leszno,95.70,93.60,32.80
+836,"Starogard Gdański, ul. Pomorska 11c",Starogard Gdański,pomorskie,1. Punkt pobrań,53.96,18.54,gdansk,100.10,94.10,30.60
+837,"Pszczyna, ul. Sokoła 3",Pszczyna,śląskie,1. Punkt pobrań,49.98,18.95,bielsko_biala,101.20,89.00,14.60
+838,"Kraków, ul. Księcia Józefa 20",Kraków,małopolskie,1. Punkt pobrań,50.05,19.90,krakow,97.60,93.30,24.30
+839,"Końskie, ul. Gimnazjalna 41",Końskie,świętokrzyskie,1. Punkt pobrań,51.19,20.39,kielce,97.70,90.90,17.30
+840,"Ostróda, ul. Jana III Sobieskiego 3/12",Ostróda,warmińsko-mazurskie,1. Punkt pobrań,53.70,19.96,morag,93.70,93.20,25.20
+841,"Kutno, ul. Podrzeczna 5/8",Kutno,łódzkie,1. Punkt pobrań,52.23,19.36,konin,98.70,94.50,29.40
+842,"Opole, ul. Szarych Szeregów 72",Opole,opolskie,1. Punkt pobrań,50.67,17.96,opole,99.10,90.00,14.90
+843,"Łowicz, ul. Krakowska 20",Łowicz,łódzkie,1. Punkt pobrań,52.10,19.94,konin,98.70,94.50,29.40
+844,"Warszawa, ul. Aluzyjna 33",Warszawa,mazowieckie,1. Punkt pobrań,52.35,20.94,warszawa,94.90,95.00,37.60
+845,"Leszno, ul. Dworcowa 6",Leszno,wielkopolskie,1. Punkt pobrań,51.84,16.57,leszno,95.70,93.60,32.80
+846,"Pleszew, ul. Kościuszki 2",Pleszew,wielkopolskie,1. Punkt pobrań,51.90,17.78,leszno,95.70,93.60,32.80
+847,"Wręczyca Wielka, ul. Czereśniowa 51",Wręczyca Wielka,śląskie,1. Punkt pobrań,50.84,18.91,czestochowa,97.40,90.00,15.40
+848,"Sosnowiec, ul. Generała Hallera 1",Sosnowiec,śląskie,1. Punkt pobrań,50.29,19.11,katowice,101.00,88.60,15.10
+849,"Wrocław, ul. Budziszyńska 62a",Wrocław,dolnośląskie,1. Punkt pobrań,51.11,16.96,jelenia_gora,100.50,92.40,25.70
+850,"Głowno, ul. Sosnowa 4",Głowno,łódzkie,1. Punkt pobrań,51.96,19.71,konin,98.70,94.50,29.40
+851,"Poznań, ul. Szyperska 13a",Poznań,wielkopolskie,1. Punkt pobrań,52.41,16.94,leszno,95.70,93.60,32.80
+852,"Częstochowa, ul. Brzeźnicka 59",Częstochowa,śląskie,1. Punkt pobrań,50.83,19.12,czestochowa,97.40,90.00,15.40
+853,"Lwówek Śląski, ul. Pl. Wolności 4-7",Lwówek Śląski,dolnośląskie,9. Punkt Pobrań Fryda,51.11,15.59,lwowek_slaski,99.50,,
+854,"Bełchatów, ul. Armii Krajowej 7",Bełchatów,łódzkie,1. Punkt pobrań,51.35,19.38,konin,98.70,94.50,29.40
+855,"Piotrków Trybunalski, ul. Armii Krajowej 15",Piotrków Trybunalski,łódzkie,1. Punkt pobrań,51.41,19.68,konin,98.70,94.50,29.40
+856,"Gdańsk, ul. Orfeusza 1",Gdańsk,pomorskie,1. Punkt pobrań,54.42,18.48,gdansk,100.10,94.10,30.60
+857,"Słupsk, ul. Szczecińska 59a",Słupsk,pomorskie,1. Punkt pobrań,54.46,16.99,slupsk,99.90,94.10,25.20
+858,"Swarzędz, ul. Tysiąclecia 9",Swarzędz,wielkopolskie,1. Punkt pobrań,52.40,17.07,leszno,95.70,93.60,32.80
+859,"Białystok, ul. Rzemieślnicza 40/U16",Białystok,podlaskie,1. Punkt pobrań,53.14,23.11,bialystok,96.00,92.60,22.90
+860,"Wadowice, ul. Konstytucji 3 Maja 4",Wadowice,małopolskie,1. Punkt pobrań,49.88,19.51,bielsko_biala,101.20,89.00,14.60
+861,"Międzyrzecz, ul. Konstytucji 3 Maja 46",Międzyrzecz,lubuskie,1. Punkt pobrań,52.44,15.58,gorzow_wielkopolski,100.50,91.80,25.90
+862,"Warszawa, ul. Czerniakowska 231",Warszawa,mazowieckie,1. Punkt pobrań,52.23,21.03,warszawa,94.90,95.00,37.60
+863,"Myszków, ul. Kwiatkowskiego 19",Myszków,śląskie,1. Punkt pobrań,50.58,19.33,katowice,101.00,88.60,15.10
+864,"Świebodzin, ul. Kilińskiego 9a",Świebodzin,lubuskie,1. Punkt pobrań,52.25,15.53,gorzow_wielkopolski,100.50,91.80,25.90
+865,"Piaseczno, ul. Kościuszki 17",Piaseczno,mazowieckie,1. Punkt pobrań,52.07,21.03,warszawa,94.90,95.00,37.60
+866,"Warszawa, ul. Jutrzenki 100",Warszawa,mazowieckie,1. Punkt pobrań,52.19,20.93,warszawa,94.90,95.00,37.60
+868,"Grudziądz, ul. Szewska 14",Grudziądz,kujawsko-pomorskie,1. Punkt pobrań,53.49,18.75,bydgoszcz,96.60,93.60,26.00
+870,"Biskupiec, ul. Wojska Polskiego 4a",Biskupiec,warmińsko-mazurskie,1. Punkt pobrań,53.86,20.95,olsztyn,93.80,93.60,29.20
+871,"Włocławek, ul. Matejki 7-9",Włocławek,kujawsko-pomorskie,1. Punkt pobrań,52.64,19.05,wloclawek,96.70,93.60,28.30
+872,"Włocławek, ul. Kilińskiego 7a/1a",Włocławek,kujawsko-pomorskie,1. Punkt pobrań,52.66,19.06,wloclawek,96.70,93.60,28.30
+875,"Mogilno, ul. Hallera 31",Mogilno,kujawsko-pomorskie,1. Punkt pobrań,52.66,17.95,bydgoszcz,96.60,93.60,26.00
+876,"Warszawa, ul. Barei 1",Warszawa,mazowieckie,1. Punkt pobrań,52.34,20.94,warszawa,94.90,95.00,37.60
+877,"Turek, ul. Kolska 28",Turek,wielkopolskie,1. Punkt pobrań,52.02,18.51,konin,98.70,94.50,29.40
+878,"Wrocław, ul. Piłsudskiego 4a",Wrocław,dolnośląskie,1. Punkt pobrań,51.11,17.02,jelenia_gora,100.50,92.40,25.70
+879,"Środa Śląska, ul. Daszyńskiego 16",Środa Śląska,dolnośląskie,1. Punkt pobrań,51.16,16.60,jelenia_gora,100.50,92.40,25.70
+880,"Szamocin, ul. Rynek 1",Szamocin,wielkopolskie,1. Punkt pobrań,53.03,17.12,leszno,95.70,93.60,32.80
+881,"Koziegłowy, ul. Piłsudskiego 25",Koziegłowy,wielkopolskie,1. Punkt pobrań,52.45,16.99,leszno,95.70,93.60,32.80
+882,"Nysa, ul. Rynek 40",Nysa,opolskie,1. Punkt pobrań,50.47,17.33,jelenia_gora,100.50,92.40,25.70
+883,"Myślibórz, ul. Łużycka 28a/6a",Myślibórz,zachodniopomorskie,1. Punkt pobrań,52.92,14.88,gorzow_wielkopolski,100.50,91.80,25.90
+884,"Bydgoszcz, ul. Aleje Prezydenta Lecha Kaczyńskiego 42",Bydgoszcz,kujawsko-pomorskie,1. Punkt pobrań,53.11,18.05,bydgoszcz,96.60,93.60,26.00
+886,"Śrem, ul. Powstańców Wielkopolskich 5",Śrem,wielkopolskie,1. Punkt pobrań,52.09,17.02,leszno,95.70,93.60,32.80
+887,"Słubice, ul. Transportowa 6",Słubice,lubuskie,1. Punkt pobrań,52.34,14.59,gorzow_wielkopolski,100.50,91.80,25.90
+888,"Bielsko-Biała, ul. Oświęcimska 39",Bielsko-Biała,śląskie,1. Punkt pobrań,49.81,19.03,bielsko_biala,101.20,89.00,14.60
+889,"Gdańsk, al. Zwycięstwa 31/32",Gdańsk,pomorskie,1. Punkt pobrań,54.37,18.63,gdansk_452,100.10,94.10,30.50
+890,"Gdańsk, ul. Jana Pawła II 50",Gdańsk,pomorskie,1. Punkt pobrań,54.40,18.61,gdansk_452,100.10,94.10,30.50
+891,"Gdańsk, ul. Wałowa 27 - II piętro przychodni",Gdańsk,pomorskie,1. Punkt pobrań,54.36,18.65,gdansk_452,100.10,94.10,30.50
+892,"Gdańsk, ul. Powstańców Warszawskich 1/2",Gdańsk,pomorskie,1. Punkt pobrań,54.35,18.64,gdansk_452,100.10,94.10,30.50
+894,"Strzelin, ul. Wolności 7",Strzelin,dolnośląskie,1. Punkt pobrań,50.78,17.06,jelenia_gora,100.50,92.40,25.70
+895,"Suchy Las, os. Szafirowe 2a",Suchy Las,wielkopolskie,1. Punkt pobrań,52.47,16.88,leszno,95.70,93.60,32.80
+896,"Środa Śląska, pl. Wolności 76",Środa Śląska,dolnośląskie,1. Punkt pobrań,51.16,16.60,jelenia_gora,100.50,92.40,25.70
+897,"Terespol, ul. Wojska Polskiego 127a Lok.5",Terespol,lubelskie,1. Punkt pobrań,52.07,23.61,biala_podlaska,96.10,88.90,12.00
+898,"Nakło Nad Notecią, ul. Dąbrowskiego 10",Nakło nad Notecią,kujawsko-pomorskie,1. Punkt pobrań,53.14,17.60,bydgoszcz,96.60,93.60,26.00
+899,"Przystajń, ul. Powstańców Śląskich 96",Przystajń,śląskie,1. Punkt pobrań,50.89,18.67,opole,99.10,90.00,14.90
+900,"Bezrzecze, ul. Górna 18b",Bezrzecze,zachodniopomorskie,1. Punkt pobrań,53.46,14.45,koszalin,101.00,94.00,30.70
+901,"Warszawa, ul. Puławska 186",Warszawa,mazowieckie,1. Punkt pobrań,52.18,21.02,warszawa,94.90,95.00,37.60
+902,"Konin, ul. Spółdzielców 6a",Konin,wielkopolskie,1. Punkt pobrań,52.23,18.24,konin,98.70,94.50,29.40
+903,"Gliwice, ul. Cichociemnych 14",Gliwice,śląskie,1. Punkt pobrań,50.28,18.67,katowice,101.00,88.60,15.10
+904,"Warszawa, ul. Śliska 10",Warszawa,mazowieckie,1. Punkt pobrań,52.23,21.00,warszawa,94.90,95.00,37.60
+905,"Grójec, ul. Kopernika 8a",Grójec,mazowieckie,1. Punkt pobrań,51.86,20.88,ciechanow,94.90,94.10,32.40
+906,"Gliwice, ul. Kosów 15",Gliwice,śląskie,1. Punkt pobrań,50.28,18.66,katowice,101.00,88.60,15.10
+907,"Katowice, ul. Jankego 14",Katowice,śląskie,1. Punkt pobrań,50.22,18.99,katowice,101.00,88.60,15.10
+908,"Poznań, ul. Graniczna 15",Poznań,wielkopolskie,1. Punkt pobrań,52.40,16.90,leszno,95.70,93.60,32.80
+909,"Łódź, ul. Strażacka 5",Łódź,łódzkie,1. Punkt pobrań,51.72,19.48,konin,98.70,94.50,29.40
+910,"Ruda Śląska, ul. Niedurnego 65 /1 A",Ruda Śląska,śląskie,1. Punkt pobrań,50.29,18.87,katowice,101.00,88.60,15.10
+911,"Koszalin, ul. Zwycięstwa 114",Koszalin,zachodniopomorskie,1. Punkt pobrań,54.19,16.19,koszalin,101.00,94.00,30.70
+912,"Oborniki, ul. Rynek 17",Oborniki,wielkopolskie,1. Punkt pobrań,52.64,16.81,leszno,95.70,93.60,32.80
+913,"Krosno Odrzańskie, ul. Srebrna Góra 2a",Krosno Odrzańskie,lubuskie,1. Punkt pobrań,52.05,15.10,gorzow_wielkopolski,100.50,91.80,25.90
+914,"Warszawa, ul. Rzeczypospolitej 20/U2",Warszawa,mazowieckie,1. Punkt pobrań,52.17,21.07,warszawa,94.90,95.00,37.60
+915,"Sulęcin, ul. Wojska Polskiego 16 Lok. 4",Sulęcin,lubuskie,1. Punkt pobrań,52.44,15.12,gorzow_wielkopolski,100.50,91.80,25.90
+916,"Łodygowice, ul. Królowej Jadwigi 5",Łodygowice,śląskie,1. Punkt pobrań,49.72,19.15,bielsko_biala,101.20,89.00,14.60
+918,"Morąg, ul. Warmińska 18/1",Morąg,warmińsko-mazurskie,1. Punkt pobrań,53.92,19.93,morag,93.70,93.20,25.20
+919,"Lidzbark Warmiński, ul. Legionów 2f",Lidzbark Warmiński,warmińsko-mazurskie,1. Punkt pobrań,54.13,20.57,morag,93.70,93.20,25.20
+920,"Górowo Iławeckie, ul. Kard. Stefana Wyszyńskiego 2",Górowo Iławeckie,warmińsko-mazurskie,1. Punkt pobrań,54.29,20.49,morag,93.70,93.20,25.20
+921,"Toruń, ul. Ugory 1",Toruń,kujawsko-pomorskie,1. Punkt pobrań,53.04,18.60,bydgoszcz,96.60,93.60,26.00
+922,"Ustka, ul. Kopernika 19",Ustka,pomorskie,1. Punkt pobrań,54.58,16.87,slupsk,99.90,94.10,25.20
+923,"Lubin, ul. Sportowa 11",Lubin,dolnośląskie,1. Punkt pobrań,51.39,16.21,jelenia_gora,100.50,92.40,25.70
+924,"Mikołów, ul. Żwirki i Wigury 5",Mikołów,śląskie,1. Punkt pobrań,50.17,18.90,katowice,101.00,88.60,15.10
+925,"Elbląg, ul. Nowowiejska 7",Elbląg,warmińsko-mazurskie,1. Punkt pobrań,54.17,19.41,elblag,93.80,93.60,29.70
+926,"Praszka, ul. Senatorska 31",Praszka,opolskie,1. Punkt pobrań,51.05,18.45,opole,99.10,90.00,14.90
+927,"Malbork, ul. Mickiewicza 37",Malbork,pomorskie,1. Punkt pobrań,54.03,19.03,elblag,93.80,93.60,29.70
+928,"Braniewo, ul. Armii Krajowej 52b",Braniewo,warmińsko-mazurskie,1. Punkt pobrań,54.39,19.84,elblag,93.80,93.60,29.70
+930,"Elbląg, al. Jana Pawła II 1/E",Elbląg,warmińsko-mazurskie,1. Punkt pobrań,54.19,19.40,elblag,93.80,93.60,29.70
+931,"Dzierzgoń, ul. Tadeusza Zawadzkiego 17",Dzierzgoń,pomorskie,1. Punkt pobrań,53.92,19.35,elblag,93.80,93.60,29.70
+932,"Braniewo, ul. Stefana Żeromskiego 14a",Braniewo,warmińsko-mazurskie,1. Punkt pobrań,54.38,19.82,elblag,93.80,93.60,29.70
+933,"Braniewo, ul. Tadeusza Kościuszki 79",Braniewo,warmińsko-mazurskie,1. Punkt pobrań,54.38,19.82,elblag,93.80,93.60,29.70
+934,"Braniewo, ul. Franciszka Stefczyka 11",Braniewo,warmińsko-mazurskie,1. Punkt pobrań,54.37,19.82,elblag,93.80,93.60,29.70
+935,"Elbląg, ul. 1 Maja 1",Elbląg,warmińsko-mazurskie,1. Punkt pobrań,54.16,19.40,elblag,93.80,93.60,29.70
+936,"Stegna, ul. Kościuszki 20",Stegna,pomorskie,1. Punkt pobrań,54.33,19.12,elblag,93.80,93.60,29.70
+937,"Kraków, ul. Leonida Teligi 24",Kraków,małopolskie,1. Punkt pobrań,50.02,20.01,krakow,97.60,93.30,24.30
+939,"Konstantynów Łódzki, ul. Łódzka 1",Konstantynów Łódzki,łódzkie,1. Punkt pobrań,51.75,19.33,konin,98.70,94.50,29.40
+940,"Poznań, ul. Swarzędzka 2",Poznań,wielkopolskie,1. Punkt pobrań,52.41,16.99,leszno,95.70,93.60,32.80
+942,"Warszawa, ul. Światowida 47",Warszawa,mazowieckie,1. Punkt pobrań,52.32,20.95,warszawa,94.90,95.00,37.60
+943,"Siedlce, ul. Sokołowska 50",Siedlce,mazowieckie,1. Punkt pobrań,52.18,22.27,ciechanow,94.90,94.10,32.40
+944,"Sopot, al. Niepodległości 792",Sopot,pomorskie,1. Punkt pobrań,54.44,18.56,gdansk,100.10,94.10,30.60
+945,"Katowice, ul. Chorzowska 11",Katowice,śląskie,1. Punkt pobrań,50.27,19.02,katowice,101.00,88.60,15.10
+946,"Nowy Dwór Gdański, ul. Ernesta Wejhera 1",Nowy Dwór Gdański,pomorskie,1. Punkt pobrań,54.21,19.12,elblag,93.80,93.60,29.70
+947,"Sopot, ul. Grunwaldzka 36a",Sopot,pomorskie,1. Punkt pobrań,54.44,18.57,gdansk,100.10,94.10,30.60
+948,"Reda, ul. Gdańska 12",Reda,pomorskie,1. Punkt pobrań,54.60,18.35,gdansk,100.10,94.10,30.60
+949,"Leszno, ul. Barbary Jeziorkowskiej 1/4",Leszno,wielkopolskie,1. Punkt pobrań,51.87,16.58,leszno,95.70,93.60,32.80
+950,"Kostrzyn, ul. Półwiejska 26c",Kostrzyn,wielkopolskie,1. Punkt pobrań,52.40,17.22,leszno,95.70,93.60,32.80
+951,"Szczecin, ul. Rydla 51",Szczecin,zachodniopomorskie,1. Punkt pobrań,53.38,14.65,koszalin,101.00,94.00,30.70
+952,"Pułtusk, ul. Plac Teatralny 1",Pułtusk,mazowieckie,1. Punkt pobrań,52.70,21.09,warszawa,94.90,95.00,37.60
+953,"Łęczna, ul. Jawoszka 3",Łęczna,lubelskie,1. Punkt pobrań,51.30,22.89,biala_podlaska,96.10,88.90,12.00
+954,"Kielce, ul. Grunwaldzka 26",Kielce,świętokrzyskie,1. Punkt pobrań,50.88,20.60,kielce,97.70,90.90,17.30
+955,"Radzyń Podlaski, ul. Konstytucji 3 Maja 20",Radzyń Podlaski,lubelskie,1. Punkt pobrań,51.78,22.61,biala_podlaska,96.10,88.90,12.00
+956,"Brzesko, ul. Solskiego 14a",Brzesko,małopolskie,1. Punkt pobrań,49.97,20.62,krakow,97.60,93.30,24.30
+957,"Warszawa, al. Jana Pawła II 50",Warszawa,mazowieckie,1. Punkt pobrań,52.24,20.99,warszawa,94.90,95.00,37.60
+958,"Ostrów Mazowiecka, ul. Zagłoby 12a",Ostrów Mazowiecka,mazowieckie,1. Punkt pobrań,52.80,21.90,bialystok,96.00,92.60,22.90
+959,"Elbląg, pl. Dworcowy 4",Elbląg,warmińsko-mazurskie,1. Punkt pobrań,54.15,19.42,elblag,93.80,93.60,29.70
+960,"Warszawa, ul. Kasprowicza 68",Warszawa,mazowieckie,1. Punkt pobrań,52.29,20.94,warszawa,94.90,95.00,37.60
+961,"Pionki, ul. Niepodległości 2k",Pionki,mazowieckie,1. Punkt pobrań,51.47,21.45,ciechanow,94.90,94.10,32.40
+962,"Kępno, ul. Młyńska 1d",Kępno,wielkopolskie,1. Punkt pobrań,51.28,17.99,jelenia_gora,100.50,92.40,25.70
+963,"Pruszcz Gdański, ul. Grunwaldzka 55",Pruszcz Gdański,pomorskie,1. Punkt pobrań,54.26,18.64,gdansk,100.10,94.10,30.60
+964,"Stawiski, ul. Polowa 26",Stawiski,podlaskie,1. Punkt pobrań,53.38,22.16,bialystok,96.00,92.60,22.90
+965,"Kartuzy, ul. Dr Aleksandra Majkowskiego 1a",Kartuzy,pomorskie,1. Punkt pobrań,54.34,18.20,gdansk,100.10,94.10,30.60
+966,"Łódź, ul. Nastrojowa 54",Łódź,łódzkie,1. Punkt pobrań,51.82,19.44,konin,98.70,94.50,29.40
+967,"Otwock, ul. Powstańców Warszawy 3",Otwock,mazowieckie,1. Punkt pobrań,52.11,21.26,warszawa,94.90,95.00,37.60
+968,"Łódź, ul. Wilcza 4",Łódź,łódzkie,1. Punkt pobrań,51.76,19.48,konin,98.70,94.50,29.40
+969,"Ząbkowice ŚLĄSKIE, ul. Wrocławska 23",Ząbkowice Śląskie,dolnośląskie,1. Punkt pobrań,50.60,16.82,jelenia_gora,100.50,92.40,25.70
+970,"Luboń, ul. Armii Poznań 33",Luboń,wielkopolskie,1. Punkt pobrań,52.35,16.90,leszno,95.70,93.60,32.80
+973,"Zamość, ul. Młodzieżowa 6",Zamość,lubelskie,1. Punkt pobrań,50.71,23.27,biala_podlaska,96.10,88.90,12.00
+975,"Sztum, ul. Chełmińska 8",Sztum,pomorskie,1. Punkt pobrań,53.92,19.03,sztum,99.90,93.20,24.80
+976,"Czechowice-Dziedzice, ul. Barlickiego 14",Czechowice-Dziedzice,śląskie,1. Punkt pobrań,49.91,19.01,bielsko_biala,101.20,89.00,14.60
+977,"Gliwice, ul. Dubois 16",Gliwice,śląskie,1. Punkt pobrań,50.30,18.67,katowice,101.00,88.60,15.10
+978,"Warszawa, ul. Wrocławska 21",Warszawa,mazowieckie,1. Punkt pobrań,52.26,20.92,warszawa,94.90,95.00,37.60
+979,"Kisielice, ul. Henryka Sienkiewicza 18",Kisielice,warmińsko-mazurskie,1. Punkt pobrań,53.61,19.26,ilawa,93.70,92.70,24.70
+980,"Głogów, ul. Jana Długosza 10a",Głogów,dolnośląskie,1. Punkt pobrań,51.66,16.08,jelenia_gora,100.50,92.40,25.70
+981,"Kozienice, ul. Kopernika 15/2",Kozienice,mazowieckie,1. Punkt pobrań,51.59,21.54,ciechanow,94.90,94.10,32.40
+982,"Grodzisk Mazowiecki, ul. Traugutta 19",Grodzisk Mazowiecki,mazowieckie,1. Punkt pobrań,52.11,20.62,warszawa,94.90,95.00,37.60
+983,"Gorzów Wielkopolski, ul. Targowa 7",Gorzów Wielkopolski,lubuskie,1. Punkt pobrań,52.73,15.24,gorzow_wielkopolski,100.50,91.80,25.90
+984,"Oława, ul. Miła 12/1",Oława,dolnośląskie,1. Punkt pobrań,50.95,17.29,jelenia_gora,100.50,92.40,25.70
+985,"Lublin, ul. Witolda Chodźki 10a",Lublin,lubelskie,1. Punkt pobrań,51.26,22.56,biala_podlaska,96.10,88.90,12.00
+986,"Wrocław, ul. Jaracza 75h",Wrocław,dolnośląskie,1. Punkt pobrań,51.13,17.06,jelenia_gora,100.50,92.40,25.70
+987,"Nowogrodziec, ul. Asnyka 55",Nowogrodziec,dolnośląskie,1. Punkt pobrań,51.19,15.40,jelenia_gora,100.50,92.40,25.70
+989,"Bytom, ul. Wrocławska 63",Bytom,śląskie,1. Punkt pobrań,50.35,18.89,katowice,101.00,88.60,15.10
+990,"Kup, ul. Rynek 1",Kup,opolskie,9. Punkt Pobrań Fryda,50.81,17.88,pajeczno,106.60,,
+991,"Andrychów, ul. Krakowska 136",Andrychów,małopolskie,1. Punkt pobrań,49.86,19.34,bielsko_biala,101.20,89.00,14.60
+992,"Rumia, ul. Kosynierów 128",Rumia,pomorskie,1. Punkt pobrań,54.59,18.37,gdansk,100.10,94.10,30.60
+994,"Kościan, os. Jagiellońskie 27-28",Kościan,wielkopolskie,1. Punkt pobrań,52.08,16.63,leszno,95.70,93.60,32.80
+996,"Brzeziny, ul. Sienkiewicza 18",Brzeziny,łódzkie,1. Punkt pobrań,51.80,19.76,konin,98.70,94.50,29.40
+997,"Częstochowa, ul. Krakowska 19/21",Częstochowa,śląskie,1. Punkt pobrań,50.81,19.13,czestochowa,97.40,90.00,15.40
+998,"Tczew, ul. Jaworowa 1c/18",Tczew,pomorskie,1. Punkt pobrań,54.10,18.77,slupsk,99.90,94.10,25.20
+999,"Barcin, ul. Doktora Stanisława Krzysia 5",Barcin,kujawsko-pomorskie,1. Punkt pobrań,52.85,17.95,bydgoszcz,96.60,93.60,26.00
+1000,"Sochaczew, ul. 1 Maja 18",Sochaczew,mazowieckie,1. Punkt pobrań,52.23,20.24,warszawa,94.90,95.00,37.60
+1001,"Stargard, ul. Wyszyńskiego 12/5",Stargard,zachodniopomorskie,1. Punkt pobrań,53.34,15.03,koszalin,101.00,94.00,30.70
+1002,"Knurów, ul. Niepodległości 19",Knurów,śląskie,1. Punkt pobrań,50.22,18.67,katowice,101.00,88.60,15.10
+1003,"Przystajń, ul. Targowa 18",Przystajń,śląskie,1. Punkt pobrań,50.89,18.69,czestochowa,97.40,90.00,15.40
+1004,"Gdańsk, ul. Morenowe Wzgórze 4/17",Gdańsk,pomorskie,1. Punkt pobrań,54.35,18.57,gdansk,100.10,94.10,30.60
+1005,"Murowana Goślina, ul. Nowy Rynek 18",Murowana Goślina,wielkopolskie,1. Punkt pobrań,52.57,16.99,leszno,95.70,93.60,32.80
+1007,"Barlinek, ul. Gorzowska 69",Barlinek,zachodniopomorskie,1. Punkt pobrań,52.99,15.21,gorzow_wielkopolski,100.50,91.80,25.90
+1008,"Konin, ul. 11 Listopada 27",Konin,wielkopolskie,1. Punkt pobrań,52.23,18.28,konin,98.70,94.50,29.40
+1009,"Ślesin, ul. Knieja 1",Ślesin,wielkopolskie,1. Punkt pobrań,52.37,18.31,konin,98.70,94.50,29.40
+1010,"Nowa Sól, ul. Wrocławska 3",Nowa Sól,lubuskie,1. Punkt pobrań,51.80,15.72,gorzow_wielkopolski,100.50,91.80,25.90
+1011,"Białystok, ul. Władysława Raginisa 74",Białystok,podlaskie,1. Punkt pobrań,53.16,23.20,bialystok,96.00,92.60,22.90
+1012,"Skawina, ul. Babetty 7",Skawina,małopolskie,1. Punkt pobrań,49.97,19.83,kalwaria_zebrzydowska,95.90,91.80,21.70
+1013,"Sucha Beskidzka, ul. Mickiewicza 32",Sucha Beskidzka,małopolskie,1. Punkt pobrań,49.74,19.59,krakow,97.60,93.30,24.30
+1014,"Nowe Skalmierzyce, ul. 3 Maja 20",Nowe Skalmierzyce,wielkopolskie,1. Punkt pobrań,51.71,17.99,jelenia_gora,100.50,92.40,25.70
+1015,"Świebodzice, ul. Kolejowa 19",Świebodzice,dolnośląskie,1. Punkt pobrań,50.86,16.33,jelenia_gora,100.50,92.40,25.70
+1036,"Elbląg, ul. Grobla Świętego Jerzego 5/U1",Elbląg,warmińsko-mazurskie,1. Punkt pobrań,54.16,19.41,elblag,93.80,93.60,29.70
+1037,"Banino, ul. Borowiecka 1/L04",Banino,pomorskie,1. Punkt pobrań,54.39,18.40,gdansk,100.10,94.10,30.60
+1038,"Gorlice, ul. Łukasiewicza 9",Gorlice,małopolskie,1. Punkt pobrań,49.66,21.16,nowy_sacz,97.40,90.00,18.90
+1039,"Grybów, ul. Grunwaldzka 36",Grybów,małopolskie,1. Punkt pobrań,49.63,20.95,nowy_sacz,97.40,90.00,18.90
+1040,"Wyrzysk, ul. Zduny 4",Wyrzysk,wielkopolskie,1. Punkt pobrań,53.15,17.27,leszno,95.70,93.60,32.80
+1041,"Rzeszów, pl. Wolności 17",Rzeszów,podkarpackie,1. Punkt pobrań,50.04,22.01,rzeszow,98.20,88.60,15.40
+1042,"Czeladź, ul. 21 Listopada 12",Czeladź,śląskie,1. Punkt pobrań,50.31,19.07,katowice,101.00,88.60,15.10
+1043,"Wrocław, ul. Powstańców Śląskich 168",Wrocław,dolnośląskie,1. Punkt pobrań,51.09,17.02,jelenia_gora,100.50,92.40,25.70
+1044,"Sosnowiec, ul. al. ks. Franciszka Blachnickiego 3",Sosnowiec,śląskie,1. Punkt pobrań,50.29,19.18,katowice,101.00,88.60,15.10
+1046,"Płock, ul. Armii Krajowej 3b",Płock,mazowieckie,1. Punkt pobrań,52.54,19.76,ciechanow,94.90,94.10,32.40
+1049,"Toruń, ul. Kard. Stefana Wyszyńskiego 6",Toruń,kujawsko-pomorskie,1. Punkt pobrań,53.02,18.68,bydgoszcz,96.60,93.60,26.00
+1052,"Lipno, ul. Tadeusza Kościuszki 5",Lipno,kujawsko-pomorskie,1. Punkt pobrań,52.84,19.18,wloclawek,96.70,93.60,28.30
+1053,"Rypin, ul. Nowy Rynek 34d",Rypin,kujawsko-pomorskie,1. Punkt pobrań,53.06,19.41,wloclawek,96.70,93.60,28.30
+1055,"Aleksandrów Kujawski, ul. Słowackiego 20",Aleksandrów Kujawski,kujawsko-pomorskie,1. Punkt pobrań,52.87,18.70,bydgoszcz,96.60,93.60,26.00
+1057,"Bydgoszcz, ul. Dworcowa 63",Bydgoszcz,kujawsko-pomorskie,1. Punkt pobrań,53.13,18.00,bydgoszcz,96.60,93.60,26.00
+1059,"Bydgoszcz, ul. Kijowska 39",Bydgoszcz,kujawsko-pomorskie,1. Punkt pobrań,53.13,18.06,bydgoszcz,96.60,93.60,26.00
+1060,"Bydgoszcz, ul. Konopnickiej 26",Bydgoszcz,kujawsko-pomorskie,1. Punkt pobrań,53.11,18.00,bydgoszcz,96.60,93.60,26.00
+1061,"Bydgoszcz, ul. Łomżyńska 51a",Bydgoszcz,kujawsko-pomorskie,1. Punkt pobrań,53.10,18.04,bydgoszcz,96.60,93.60,26.00
+1062,"Bydgoszcz, ul. Ogrody 14",Bydgoszcz,kujawsko-pomorskie,1. Punkt pobrań,53.11,18.03,bydgoszcz,96.60,93.60,26.00
+1063,"Bydgoszcz, ul. Szelburg-Zarembiny 19",Bydgoszcz,kujawsko-pomorskie,1. Punkt pobrań,53.15,18.15,bydgoszcz,96.60,93.60,26.00
+1065,"Grudziądz, ul. Konstytucji 3 Maja 3",Grudziądz,kujawsko-pomorskie,1. Punkt pobrań,53.46,18.73,bydgoszcz,96.60,93.60,26.00
+1066,"Janikowo, ul. Sportowa 9b",Janikowo,kujawsko-pomorskie,1. Punkt pobrań,52.75,18.10,bydgoszcz,96.60,93.60,26.00
+1067,"Jastrowie, ul. 1 Maja 11",Jastrowie,wielkopolskie,1. Punkt pobrań,53.42,16.82,leszno,95.70,93.60,32.80
+1068,"Pruszcz, ul. Łowińska 8e",Pruszcz,kujawsko-pomorskie,1. Punkt pobrań,53.33,18.19,bydgoszcz,96.60,93.60,26.00
+1069,"Toruń, ul. Bawarczyków 9/82",Toruń,kujawsko-pomorskie,1. Punkt pobrań,53.02,18.60,bydgoszcz,96.60,93.60,26.00
+1070,"Toruń, ul. Poznańska 74",Toruń,kujawsko-pomorskie,1. Punkt pobrań,52.99,18.59,bydgoszcz,96.60,93.60,26.00
+1071,"Chełmża, ul. Gen. W. Sikorskiego 50",Chełmża,kujawsko-pomorskie,1. Punkt pobrań,53.18,18.60,bydgoszcz,96.60,93.60,26.00
+1072,"Przysiek, ul. Wspólna 6",Przysiek,kujawsko-pomorskie,1. Punkt pobrań,53.03,18.50,bydgoszcz,96.60,93.60,26.00
+1073,"Sierpc, ul. Sienkiewicza 9",Sierpc,mazowieckie,1. Punkt pobrań,52.85,19.66,wloclawek,96.70,93.60,28.30
+1074,"Tuchola, ul. Nowodworskiego 3a",Tuchola,kujawsko-pomorskie,1. Punkt pobrań,53.59,17.86,bydgoszcz,96.60,93.60,26.00
+1075,"Unisław, ul. Parkowa 16",Unisław,kujawsko-pomorskie,1. Punkt pobrań,53.21,18.38,bydgoszcz,96.60,93.60,26.00
+1077,"Raciąż, ul. Błonie 22",Raciąż,mazowieckie,1. Punkt pobrań,52.78,20.12,ciechanow,94.90,94.10,32.40
+1079,"Pniewy, ul. Poznańska 48",Pniewy,wielkopolskie,1. Punkt pobrań,52.51,16.27,leszno,95.70,93.60,32.80
+1080,"Poznań, ul. Świt 34/36",Poznań,wielkopolskie,1. Punkt pobrań,52.41,16.88,leszno,95.70,93.60,32.80
+1084,"Świnoujście, ul. Józefa Piłsudskiego 23",Świnoujście,zachodniopomorskie,1. Punkt pobrań,53.91,14.25,koszalin,101.00,94.00,30.70
+1086,"Białystok, ul. Radzymińska 14",Białystok,podlaskie,1. Punkt pobrań,53.15,23.15,bialystok,96.00,92.60,22.90
+1090,"Nowe Miasto Lubawskie, ul. Jagiellońska 55",Nowe Miasto Lubawskie,warmińsko-mazurskie,1. Punkt pobrań,53.41,19.59,ilawa,93.70,92.70,24.70
+1091,"Płock, ul. Kolegialna 47",Płock,mazowieckie,1. Punkt pobrań,52.54,19.70,ciechanow,94.90,94.10,32.40
+1093,"Wrocław, ul. Pereca 20/1a",Wrocław,dolnośląskie,1. Punkt pobrań,51.10,17.01,jelenia_gora,100.50,92.40,25.70
+1097,"Łódź, ul. Marynarska 67",Łódź,łódzkie,1. Punkt pobrań,51.79,19.46,konin,98.70,94.50,29.40
+1100,"Góra, ul. Dąbrówki 11",Góra,dolnośląskie,1. Punkt pobrań,51.67,16.53,jelenia_gora,100.50,92.40,25.70
+1101,"Nowy Tomyśl, ul. F. Ślósarskiego 4a",Nowy Tomyśl,wielkopolskie,1. Punkt pobrań,52.32,16.12,leszno,95.70,93.60,32.80
+1103,"Pruszków, al. Armii Krajowej 46",Pruszków,mazowieckie,1. Punkt pobrań,52.16,20.81,warszawa,94.90,95.00,37.60
+1104,"Warszawa, ul. Powstańców Śląskich 45",Warszawa,mazowieckie,1. Punkt pobrań,52.23,20.91,warszawa,94.90,95.00,37.60
+1105,"Sokołów Podlaski, ul. Piłsudskiego 1",Sokołów Podlaski,mazowieckie,1. Punkt pobrań,52.41,22.24,ciechanow,94.90,94.10,32.40
+1108,"Żnin, ul. Podmurna 1",Żnin,kujawsko-pomorskie,1. Punkt pobrań,52.85,17.72,leszno,95.70,93.60,32.80
+1109,"Glinojeck, ul. Targowa 6",Glinojeck,mazowieckie,1. Punkt pobrań,52.82,20.29,ciechanow,94.90,94.10,32.40
+1110,"Warszawa, ul. Mickiewicza 27",Warszawa,mazowieckie,1. Punkt pobrań,52.27,20.98,warszawa,94.90,95.00,37.60
+1132,"Ostrowiec Świętokrzyski, os. Ogrody 29",Ostrowiec Świętokrzyski,świętokrzyskie,1. Punkt pobrań,50.94,21.40,kielce,97.70,90.90,17.30
+1133,"Władysławowo, ul. Gen. Józefa Hallera 19",Władysławowo,pomorskie,1. Punkt pobrań,54.79,18.41,gdansk,100.10,94.10,30.60
+1134,"Łódź, ul. Kilińskiego 193",Łódź,łódzkie,1. Punkt pobrań,51.75,19.47,konin,98.70,94.50,29.40
+1135,"Warszawa, ul. Puławska 27/35",Warszawa,mazowieckie,1. Punkt pobrań,52.21,21.02,warszawa,94.90,95.00,37.60
+1136,"Warszawa, ul. Posag 7 Panien 16/U2",Warszawa,mazowieckie,1. Punkt pobrań,52.20,20.88,warszawa,94.90,95.00,37.60
+1151,"Żychlin, ul. Narutowicza 27/29",Żychlin,łódzkie,1. Punkt pobrań,52.24,19.63,konin,98.70,94.50,29.40
+1153,"Działdowo, ul. Leśna 14",Działdowo,warmińsko-mazurskie,1. Punkt pobrań,53.24,20.20,olsztyn,93.80,93.60,29.20
+1155,"Łomża, al. Legionów 15a",Łomża,podlaskie,1. Punkt pobrań,53.17,22.07,bialystok,96.00,92.60,22.90
+1156,"Milicz, ul. Rynek 32",Milicz,dolnośląskie,1. Punkt pobrań,51.53,17.28,jelenia_gora,100.50,92.40,25.70
+1157,"Zielona Góra, ul. Sulechowska 28a",Zielona Góra,lubuskie,1. Punkt pobrań,51.96,15.52,gorzow_wielkopolski,100.50,91.80,25.90
+1158,"Grodków, ul. Powstańców Śl. 6-8a",Grodków,opolskie,1. Punkt pobrań,50.70,17.38,jelenia_gora,100.50,92.40,25.70
+1162,"Żywiec, ul. Sobieskiego 4a",Żywiec,śląskie,1. Punkt pobrań,49.69,19.20,bielsko_biala,101.20,89.00,14.60
+1163,"Gorzów Wielkopolski, ul. Londyńska 9/4",Gorzów Wielkopolski,lubuskie,1. Punkt pobrań,52.74,15.19,gorzow_wielkopolski,100.50,91.80,25.90
+1164,"Lubawa, ul. Rzepnikowskiego 20",Lubawa,warmińsko-mazurskie,1. Punkt pobrań,53.50,19.75,ilawa,93.70,92.70,24.70
+1165,"Sochaczew, ul. Prezydenta Ryszarda Kaczorowskiego 3a",Sochaczew,mazowieckie,1. Punkt pobrań,52.23,20.24,warszawa,94.90,95.00,37.60
+1166,"Staszów, ul. Jana Pawła II 10",Staszów,świętokrzyskie,1. Punkt pobrań,50.57,21.17,kielce,97.70,90.90,17.30
+1167,"Bydgoszcz, ul. Sułkowskiego 50",Bydgoszcz,kujawsko-pomorskie,1. Punkt pobrań,53.14,18.03,bydgoszcz,96.60,93.60,26.00
+1168,"Stęszew, ul. Piotra Skargi 22",Stęszew,wielkopolskie,1. Punkt pobrań,52.28,16.70,leszno,95.70,93.60,32.80
+1169,"Warszawa, ul. Ludwika Rydygiera 13 U2/U3",Warszawa,mazowieckie,1. Punkt pobrań,52.26,20.98,warszawa,94.90,95.00,37.60
+1173,"Polkowice, ul. Gdańska 11-13",Polkowice,dolnośląskie,1. Punkt pobrań,51.50,16.07,jelenia_gora,100.50,92.40,25.70
+1174,"Kutno, ul. Bolesława Chrobrego 12",Kutno,łódzkie,1. Punkt pobrań,52.23,19.38,konin,98.70,94.50,29.40
+1175,"Kraków, os. Na Skarpie 6",Kraków,małopolskie,1. Punkt pobrań,50.07,20.04,krakow,97.60,93.30,24.30
+1176,"Ciechanów, ul. Strażacka 7",Ciechanów,mazowieckie,1. Punkt pobrań,52.88,20.61,ciechanow,94.90,94.10,32.40
+1177,"Płońsk, ul. Młodzieżowa 13",Płońsk,mazowieckie,1. Punkt pobrań,53.11,20.38,ciechanow,94.90,94.10,32.40
+1178,"Brzeg, ul. Słowackiego 31",Brzeg,opolskie,1. Punkt pobrań,50.85,17.47,opole,99.10,90.00,14.90
+1180,"Mońki, ul. Tysiąclecia 21/6",Mońki,podlaskie,1. Punkt pobrań,53.40,22.81,bialystok,96.00,92.60,22.90
+1181,"Bielsko-Biała, ul. Jutrzenki 24",Bielsko-Biała,śląskie,1. Punkt pobrań,49.81,19.06,bielsko_biala,101.20,89.00,14.60
+1182,"Toruń, ul. Targowa 16b",Toruń,kujawsko-pomorskie,1. Punkt pobrań,53.02,18.64,bydgoszcz,96.60,93.60,26.00
+1183,"Prabuty, ul. Łąkowa 33",Prabuty,pomorskie,1. Punkt pobrań,53.76,19.20,ilawa,93.70,92.70,24.70
+1184,"Żyrardów, ul. Stefana Okrzei 54b",Żyrardów,mazowieckie,1. Punkt pobrań,52.05,20.44,warszawa,94.90,95.00,37.60
+1185,"Garwolin, ul. Kościuszki 25/50",Garwolin,mazowieckie,1. Punkt pobrań,51.90,21.61,ciechanow,94.90,94.10,32.40
+1186,"Krosno, ul. Grodzka 47",Krosno,podkarpackie,2. Diagnostyka Tarnów,49.68,21.77,krosno,100.90,68.40,4.70
+1187,"Grodzisk Mazowiecki, ul. 11 Listopada 40/58",Grodzisk Mazowiecki,mazowieckie,1. Punkt pobrań,52.11,20.62,warszawa,94.90,95.00,37.60
+1188,"Kostrzyn Nad Odrą, ul. Mikołaja Kopernika 19a",Kostrzyn nad Odrą,lubuskie,1. Punkt pobrań,52.59,14.66,gorzow_wielkopolski,100.50,91.80,25.90
+1189,"Tomaszów Mazowiecki, ul. Strzelecka 9",Tomaszów Mazowiecki,łódzkie,1. Punkt pobrań,51.52,20.02,konin,98.70,94.50,29.40
+1190,"Oleśnica, ul. Traugutta 5",Oleśnica,dolnośląskie,1. Punkt pobrań,51.21,17.38,jelenia_gora,100.50,92.40,25.70
+1191,"Wrocław, ul. Buforowa 75",Wrocław,dolnośląskie,1. Punkt pobrań,51.06,17.06,jelenia_gora,100.50,92.40,25.70
+1192,"Gdańsk, ul. Starowiejska 95/4",Gdańsk,pomorskie,1. Punkt pobrań,54.40,18.65,gdansk,100.10,94.10,30.60
+1194,"Wrocław, ul. Ibn Siny Awicenny 53",Wrocław,dolnośląskie,1. Punkt pobrań,51.08,16.95,jelenia_gora,100.50,92.40,25.70
+1197,"Nowy Sącz, ul. Paderewskiego 70c",Nowy Sącz,małopolskie,1. Punkt pobrań,49.63,20.71,nowy_sacz,97.40,90.00,18.90
+1201,"Darłowo, ul. Marii Curie Skłodowskiej 32",Darłowo,zachodniopomorskie,1. Punkt pobrań,54.42,16.41,koszalin,101.00,94.00,30.70
+1202,"Gorzów Wielkopolski, ul. Myśliborska 2-6",Gorzów Wielkopolski,lubuskie,1. Punkt pobrań,52.73,15.21,gorzow_wielkopolski,100.50,91.80,25.90
+1207,"Oleśnica, ul. Armii Krajowej 1",Oleśnica,dolnośląskie,1. Punkt pobrań,51.21,17.39,jelenia_gora,100.50,92.40,25.70
+1208,"Syców, ul. Oleśnicka 25",Syców,dolnośląskie,1. Punkt pobrań,51.30,17.71,jelenia_gora,100.50,92.40,25.70
+1209,"Warszawa, ul. Tadeusza Pełczyńskiego 16 Lok U3",Warszawa,mazowieckie,1. Punkt pobrań,52.24,20.91,warszawa,94.90,95.00,37.60
+1212,"Przemyśl, ul. Jagiellońska 15",Przemyśl,podkarpackie,1. Punkt pobrań,49.78,22.77,przemysl,98.20,88.80,13.30
+1213,"Wągrowiec, ul. Reja 32a/14",Wągrowiec,wielkopolskie,1. Punkt pobrań,52.82,17.21,leszno,95.70,93.60,32.80
+1214,"Goleniów, ul. Szczecińska 11a",Goleniów,zachodniopomorskie,1. Punkt pobrań,53.56,14.82,koszalin,101.00,94.00,30.70
+1215,"Skórzewo, ul. Kozierowskiego 2/7",Skórzewo,wielkopolskie,1. Punkt pobrań,52.39,16.78,leszno,95.70,93.60,32.80
+1216,"Niemodlin, ul. Opolska 30b",Niemodlin,opolskie,1. Punkt pobrań,50.64,17.63,opole,99.10,90.00,14.90
+1217,"Nowy Dwór Mazowiecki, ul. Paderewskiego 14b Lok. 2",Nowy Dwór Mazowiecki,mazowieckie,1. Punkt pobrań,52.43,20.72,warszawa,94.90,95.00,37.60
+1218,"Kraków, os. Złotej Jesieni 3",Kraków,małopolskie,1. Punkt pobrań,50.09,20.02,krakow,97.60,93.30,24.30
+1219,"Bolesławiec, ul. Dolne Młyny 21a",Bolesławiec,dolnośląskie,9. Punkt Pobrań Fryda,51.27,15.56,lwowek_slaski,99.50,,
+1221,"Pajęczno, ul. Wiśniowa 26",Pajęczno,łódzkie,9. Punkt Pobrań Fryda,51.15,19.00,pajeczno,106.60,,
+1222,"Sosnowiec, ul. Piłsudskiego 9",Sosnowiec,śląskie,9. Punkt Pobrań Fryda,50.28,19.12,pajeczno,106.60,,
+1223,"Namysłów, ul. Sikorskiego 6",Namysłów,opolskie,9. Punkt Pobrań Fryda,51.08,17.72,namyslow,102.70,,
+1224,"Wieluń, ul. Szpitalna 13",Wieluń,łódzkie,9. Punkt Pobrań Fryda,51.21,18.57,wielun,106.60,,
+1225,"Kup, ul. Miarki 14",Kup,opolskie,9. Punkt Pobrań Fryda,50.80,17.89,pajeczno,106.60,,
+1227,"Świętochłowice, ul. Chorzowska 38",Świętochłowice,śląskie,9. Punkt Pobrań Fryda,50.31,18.92,pajeczno,106.60,,
+1228,"Wodzisław Śląski, ul. 26 Marca 51",Wodzisław Śląski,śląskie,9. Punkt Pobrań Fryda,50.01,18.47,pajeczno,106.60,,
+1229,"Wodzisław Śląski, ul. 26 Marca 160",Wodzisław Śląski,śląskie,9. Punkt Pobrań Fryda,50.01,18.46,pajeczno,106.60,,
+1231,"Łochowo, ul. Szosa Nakielska 7",Łochowo,kujawsko-pomorskie,1. Punkt pobrań,53.12,17.84,bydgoszcz,96.60,93.60,26.00
+1232,"Łódź, ul. Wólczańska 188",Łódź,łódzkie,1. Punkt pobrań,51.75,19.46,konin,98.70,94.50,29.40
+1233,"Rydułtowy, ul. Plebiscytowa 47",Rydułtowy,śląskie,9. Punkt Pobrań Fryda,50.06,18.43,pajeczno,106.60,,
+1234,"Włocławek, ul. Barska 13",Włocławek,kujawsko-pomorskie,1. Punkt pobrań,52.65,19.09,wloclawek,96.70,93.60,28.30
+1240,"Kietrz, ul. Kościelna 1",Kietrz,opolskie,1. Punkt pobrań,50.08,18.00,opole,99.10,90.00,14.90
+1242,"Warszawa, ul. Żeromskiego 17 U7",Warszawa,mazowieckie,1. Punkt pobrań,52.28,20.95,warszawa,94.90,95.00,37.60
+1243,"Radlin, ul. Orkana 8",Radlin,śląskie,9. Punkt Pobrań Fryda,50.05,18.49,pajeczno,106.60,,
+1254,"Szczecin, ul. Duńska 58b",Szczecin,zachodniopomorskie,1. Punkt pobrań,53.46,14.54,koszalin,101.00,94.00,30.70
+1260,"Bydgoszcz, ul. Saperów 189",Bydgoszcz,kujawsko-pomorskie,1. Punkt pobrań,53.15,17.97,bydgoszcz,96.60,93.60,26.00
+1263,"Ciechocinek, ul. Bema 37a",Ciechocinek,kujawsko-pomorskie,1. Punkt pobrań,52.87,18.78,bydgoszcz,96.60,93.60,26.00
+1279,"Więcbork, ul. Powstańców Wielkopolskich 2a",Więcbork,kujawsko-pomorskie,1. Punkt pobrań,53.35,17.49,bydgoszcz,96.60,93.60,26.00
+1282,"Dywity, ul. Jeżynowa 1b",Dywity,warmińsko-mazurskie,1. Punkt pobrań,53.83,20.47,olsztyn,93.80,93.60,29.20
+1284,"Kraków, ul. Balicka 35",Kraków,małopolskie,1. Punkt pobrań,50.08,19.88,krakow,97.60,93.30,24.30
+1287,"Świecie, ul. Wojska Polskiego 126",Świecie,kujawsko-pomorskie,1. Punkt pobrań,53.41,18.47,bydgoszcz,96.60,93.60,26.00
+1288,"Włocławek, ul. Wyszyńskiego 21a",Włocławek,kujawsko-pomorskie,1. Punkt pobrań,52.66,19.06,wloclawek,96.70,93.60,28.30
+1289,"Rąbień, ul. Pańska 2",Rąbień,łódzkie,1. Punkt pobrań,51.79,19.32,konin,98.70,94.50,29.40
+1290,"Solec Kujawski, ul. A. Mickiewicza 8",Solec Kujawski,kujawsko-pomorskie,1. Punkt pobrań,53.08,18.22,bydgoszcz,96.60,93.60,26.00
+1291,"Wrocław, ul. Popowicka 67",Wrocław,dolnośląskie,1. Punkt pobrań,51.13,16.99,jelenia_gora,100.50,92.40,25.70
+1292,"Słupsk, ul. Hubalczyków 12a/U01",Słupsk,pomorskie,1. Punkt pobrań,54.45,17.06,slupsk,99.90,94.10,25.20
+1293,"Olkusz, ul. Wspólna 1",Olkusz,małopolskie,1. Punkt pobrań,50.29,19.54,katowice,101.00,88.60,15.10
+1294,"Lublin, ul. Al. Racławickie 8",Lublin,lubelskie,1. Punkt pobrań,51.25,22.55,biala_podlaska,96.10,88.90,12.00
+1295,"Lubartów, ul. Lubelska 5",Lubartów,lubelskie,1. Punkt pobrań,51.46,22.61,biala_podlaska,96.10,88.90,12.00
+1296,"Warszawa, al. Stanów Zjednoczonych 72/U15",Warszawa,mazowieckie,1. Punkt pobrań,52.24,21.09,warszawa,94.90,95.00,37.60
+1297,"Racibórz, ul. Częstochowska 8 Lokal A",Racibórz,śląskie,1. Punkt pobrań,50.08,18.20,katowice,101.00,88.60,15.10
+1298,"Pleszew, ul. Generała J. Hallera 56",Pleszew,wielkopolskie,1. Punkt pobrań,51.90,17.78,leszno,95.70,93.60,32.80
+1303,"Sanok, ul. Krakowska 190/1",Sanok,podkarpackie,1. Punkt pobrań,49.57,22.16,przemysl,98.20,88.80,13.30
+1304,"Poznań, ul. Mickiewicza 5/2",Poznań,wielkopolskie,1. Punkt pobrań,52.41,16.91,leszno,95.70,93.60,32.80
+1305,"Łódź, ul. Wileńska 60",Łódź,łódzkie,1. Punkt pobrań,51.76,19.41,konin,98.70,94.50,29.40
+1306,"Koluszki, ul. Brzezińska 54",Koluszki,łódzkie,1. Punkt pobrań,51.75,19.81,konin,98.70,94.50,29.40
+1307,"Kraków, ul. Czerwone Maki 33",Kraków,małopolskie,1. Punkt pobrań,50.01,19.89,krakow,97.60,93.30,24.30
+1308,"Łańcut, ul. Jana Cetnarskiego 30/36a",Łańcut,podkarpackie,1. Punkt pobrań,50.07,22.22,przemysl,98.20,88.80,13.30
+1309,"Węgierska Górka, ul. Kościuszki 12c/15",Węgierska Górka,śląskie,1. Punkt pobrań,49.61,19.12,bielsko_biala,101.20,89.00,14.60
+1311,"Władysławowo, ul. Hallera 1",Władysławowo,pomorskie,1. Punkt pobrań,54.79,18.40,gdansk,100.10,94.10,30.60
+1315,"Kielce, ul. 1 Maja 196",Kielce,świętokrzyskie,1. Punkt pobrań,50.89,20.61,kielce,97.70,90.90,17.30
+1317,"Strzelce Opolskie, ul. Mickiewicza 6a",Strzelce Opolskie,opolskie,1. Punkt pobrań,50.51,18.29,opole,99.10,90.00,14.90
+1318,"Wrocław, ul. P. Eluarda 7",Wrocław,dolnośląskie,1. Punkt pobrań,51.15,16.87,jelenia_gora,100.50,92.40,25.70
+1320,"Rzeszów, ul. Bp Józefa Pelczara 6/A1",Rzeszów,podkarpackie,1. Punkt pobrań,50.02,22.01,rzeszow,98.20,88.60,15.40
+1321,"Mykanów, ul. Cicha 74",Mykanów,śląskie,1. Punkt pobrań,50.92,19.20,czestochowa,97.40,90.00,15.40
+1322,"Łódź, ul. Pienista 52",Łódź,łódzkie,1. Punkt pobrań,51.74,19.41,konin,98.70,94.50,29.40
+1323,"Bydgoszcz, ul. Komuny Paryskiej 6a",Bydgoszcz,kujawsko-pomorskie,1. Punkt pobrań,53.11,18.03,bydgoszcz,96.60,93.60,26.00
+1324,"Barczewo, ul. Wojska Polskiego 26b",Barczewo,warmińsko-mazurskie,1. Punkt pobrań,53.83,20.69,olsztyn,93.80,93.60,29.20
+1325,"Oświęcim, ul. Królowej Jadwigi 40",Oświęcim,małopolskie,1. Punkt pobrań,50.03,19.22,bielsko_biala,101.20,89.00,14.60
+1326,"Przeźmierowo, ul. Rynkowa 116",Przeźmierowo,wielkopolskie,1. Punkt pobrań,52.42,16.79,leszno,95.70,93.60,32.80
+1328,"Knurów, ul. Wincentego Witosa 6",Knurów,śląskie,1. Punkt pobrań,50.24,18.66,katowice,101.00,88.60,15.10
+1329,"Szczecin, ul. Batalionów Chłopskich 86",Szczecin,zachodniopomorskie,1. Punkt pobrań,53.38,14.63,koszalin,101.00,94.00,30.70
+1330,"Tychy, ul. Żwakowska 15",Tychy,śląskie,1. Punkt pobrań,50.12,18.98,katowice,101.00,88.60,15.10
+1332,"Szczecin, ul. Wiślana 14",Szczecin,zachodniopomorskie,1. Punkt pobrań,53.39,14.77,koszalin,101.00,94.00,30.70
+1333,"Warszawa, ul. Jana Kazimierza 43/U2",Warszawa,mazowieckie,1. Punkt pobrań,52.22,20.94,warszawa,94.90,95.00,37.60
+1334,"Szczecin, ul. Kostki Napierskiego 6c",Szczecin,zachodniopomorskie,1. Punkt pobrań,53.38,14.66,koszalin,101.00,94.00,30.70
+1335,"Szczecin, ul. Swojska 6",Szczecin,zachodniopomorskie,1. Punkt pobrań,53.37,14.66,koszalin,101.00,94.00,30.70
+1336,"Jarosław, ul. Poniatowskiego 45d",Jarosław,podkarpackie,1. Punkt pobrań,50.01,22.68,przemysl,98.20,88.80,13.30
+1337,"Warszawa, ul. Podskarbińska 32/U5",Warszawa,mazowieckie,1. Punkt pobrań,52.25,21.07,warszawa,94.90,95.00,37.60
+1339,"Mińsk Mazowiecki, ul. 1 Pułku Lotnictwa Myśliwskiego ""Warszawa"" 5",Mińsk Mazowiecki,mazowieckie,1. Punkt pobrań,52.17,21.58,warszawa,94.90,95.00,37.60
+1340,"Nowe Miasto Lubawskie, ul. Grunwaldzka 3a",Nowe Miasto Lubawskie,warmińsko-mazurskie,1. Punkt pobrań,53.43,19.59,ilawa,93.70,92.70,24.70
+1341,"Nowa Sarzyna, ul. 1-Go Maja 7/3",Nowa Sarzyna,podkarpackie,1. Punkt pobrań,50.32,22.34,przemysl,98.20,88.80,13.30
+1342,"Łomża, ul. Zawadzka 63/F",Łomża,podlaskie,1. Punkt pobrań,53.16,22.07,bialystok,96.00,92.60,22.90
+1343,"Malbork, ul. Koszykowa 2",Malbork,pomorskie,1. Punkt pobrań,54.04,19.06,elblag,93.80,93.60,29.70
+1344,"Bolszewo, ul. Zamostna 59",Bolszewo,pomorskie,1. Punkt pobrań,54.62,18.17,gdansk,100.10,94.10,30.60
+1345,"Międzychód, ul. Piłsudskiego 55",Międzychód,wielkopolskie,1. Punkt pobrań,52.60,15.89,gorzow_wielkopolski,100.50,91.80,25.90
+1346,"Gdynia, ul. Węglowa 22/1",Gdynia,pomorskie,1. Punkt pobrań,54.53,18.54,gdansk,100.10,94.10,30.60
+1347,"Lubaczów, ul. Kościuszki 9",Lubaczów,podkarpackie,1. Punkt pobrań,50.16,23.12,przemysl,98.20,88.80,13.30
+1348,"Warszawa, ul. Jana Pawła II 23 (Stara Miłosna)",Warszawa,mazowieckie,1. Punkt pobrań,52.22,21.24,warszawa,94.90,95.00,37.60
+1349,"Gdańsk, ul. Jana Pawła II 20/U4",Gdańsk,pomorskie,1. Punkt pobrań,54.40,18.61,gdansk_452,100.10,94.10,30.50
+1350,"Wrocław, ul. Chorwacka 41c",Wrocław,dolnośląskie,1. Punkt pobrań,51.14,17.03,jelenia_gora,100.50,92.40,25.70
+1351,"Kielce, ul. Daleka 5",Kielce,świętokrzyskie,1. Punkt pobrań,50.87,20.65,kielce,97.70,90.90,17.30
+1352,"Katowice, ul. Bytkowska 107/Lu 2",Katowice,śląskie,1. Punkt pobrań,50.29,19.01,katowice,101.00,88.60,15.10
+1353,"Jaworzno, ul. Olszewskiego 2a",Jaworzno,śląskie,1. Punkt pobrań,50.20,19.28,katowice,101.00,88.60,15.10
+1354,"Piekary ŚLĄSKIE, ul. Bytomska 88",Piekary Śląskie,śląskie,1. Punkt pobrań,50.38,18.94,katowice,101.00,88.60,15.10
+1355,"Poznań, ul. Bodawska 8/3",Poznań,wielkopolskie,1. Punkt pobrań,52.37,16.99,leszno,95.70,93.60,32.80
+1356,"Białystok, ul. Grochowa 2/27-28",Białystok,podlaskie,1. Punkt pobrań,53.13,23.15,bialystok,96.00,92.60,22.90
+1357,"Lubicz Górny, ul. Paderewskiego 10",Lubicz Górny,kujawsko-pomorskie,1. Punkt pobrań,53.02,18.77,bydgoszcz,96.60,93.60,26.00
+1358,"Łódź, ul. Niciarniana 47",Łódź,łódzkie,1. Punkt pobrań,51.76,19.51,konin,98.70,94.50,29.40
+1359,"Łódź, ul. Rudzka 67",Łódź,łódzkie,1. Punkt pobrań,51.70,19.44,konin,98.70,94.50,29.40
+1360,"Łódź, ul. Unii Lubelskiej 2",Łódź,łódzkie,1. Punkt pobrań,51.76,19.43,konin,98.70,94.50,29.40
+1361,"Ropczyce, ul. Kazimierza Wielkiego 15",Ropczyce,podkarpackie,1. Punkt pobrań,50.05,21.61,przemysl,98.20,88.80,13.30
+1362,"Wrocław, ul. Dobrzyńska 21/23",Wrocław,dolnośląskie,1. Punkt pobrań,51.11,17.05,jelenia_gora,100.50,92.40,25.70
+1363,"Kołobrzeg, ul. Ppor. Edmunda Łopuskiego 29c",Kołobrzeg,zachodniopomorskie,1. Punkt pobrań,54.17,15.57,koszalin,101.00,94.00,30.70
+1364,"Stargard, al. Aleja Żołnierza 12",Stargard,zachodniopomorskie,1. Punkt pobrań,53.34,15.02,koszalin,101.00,94.00,30.70
+1365,"Stargard, ul. Adama Mickiewicza 18",Stargard,zachodniopomorskie,1. Punkt pobrań,53.97,18.53,koszalin,101.00,94.00,30.70
+1366,"Szczecin, ul. Bolesława Śmiałego 33",Szczecin,zachodniopomorskie,1. Punkt pobrań,53.43,14.54,koszalin,101.00,94.00,30.70
+1367,"Szczecin, ul. Mikołaja Kopernika 18",Szczecin,zachodniopomorskie,1. Punkt pobrań,53.42,14.54,koszalin,101.00,94.00,30.70
+1368,"Blachownia, ul. Parkowa 17",Blachownia,śląskie,1. Punkt pobrań,50.78,18.97,czestochowa,97.40,90.00,15.40
+1369,"Biała Podlaska, ul. Narutowicza 1",Biała Podlaska,lubelskie,1. Punkt pobrań,52.03,23.12,biala_podlaska,96.10,88.90,12.00
+1370,"Szczecin, ul. Przyjaciół Żołnierza 2/49",Szczecin,zachodniopomorskie,1. Punkt pobrań,53.45,14.56,koszalin,101.00,94.00,30.70
+1371,"Zabrze, pl. Teatralny 10",Zabrze,śląskie,1. Punkt pobrań,50.31,18.79,katowice,101.00,88.60,15.10
+1372,"Kraków, ul. Królowej Jadwigi 242",Kraków,małopolskie,1. Punkt pobrań,50.07,19.88,krakow,97.60,93.30,24.30
+1373,"Łódź, ul. Nawrot 84/86",Łódź,łódzkie,1. Punkt pobrań,51.76,19.48,konin,98.70,94.50,29.40
+1374,"Bychawa, ul. M. J. Piłsudskiego 28",Bychawa,lubelskie,1. Punkt pobrań,51.01,22.54,biala_podlaska,96.10,88.90,12.00
+1375,"Andrespol, ul. Rokicińska 125e-8",Andrespol,łódzkie,1. Punkt pobrań,51.73,19.64,konin,98.70,94.50,29.40
+1376,"Warszawa, ul. Rembielińska 8",Warszawa,mazowieckie,1. Punkt pobrań,52.29,21.03,warszawa,94.90,95.00,37.60
+1377,"Kołobrzeg, ul. Jedności Narodowej 86/88",Kołobrzeg,zachodniopomorskie,1. Punkt pobrań,54.17,15.55,koszalin,101.00,94.00,30.70
+1378,"Rokietnica, ul. Kasztanowa 7/12",Rokietnica,wielkopolskie,1. Punkt pobrań,52.50,16.75,leszno,95.70,93.60,32.80
+1379,"Leżajsk, ul. Hugo Kołłątaja 1b",Leżajsk,podkarpackie,1. Punkt pobrań,50.26,22.42,przemysl,98.20,88.80,13.30
+1380,"Nowy Targ, ul. Sikorskiego 53",Nowy Targ,małopolskie,1. Punkt pobrań,49.48,20.04,krakow,97.60,93.30,24.30
+1381,"Szczecin, ul. Jodłowa 23g",Szczecin,zachodniopomorskie,1. Punkt pobrań,53.43,14.51,koszalin,101.00,94.00,30.70
+1382,"Zielona, ul. Piwna 1",Zielona,mazowieckie,1. Punkt pobrań,53.09,19.97,ciechanow,94.90,94.10,32.40
+1383,"Bielsko-Biała, ul. Leszczyńska 20 Lok.1.42a",Bielsko-Biała,śląskie,1. Punkt pobrań,49.80,19.05,bielsko_biala,101.20,89.00,14.60
+1385,"Piastów, ul. Tadeusza Kościuszki 2e/U3",Piastów,mazowieckie,1. Punkt pobrań,52.18,20.84,warszawa,94.90,95.00,37.60
+1386,"Szprotawa, ul. Bema 1",Szprotawa,lubuskie,1. Punkt pobrań,51.57,15.54,gorzow_wielkopolski,100.50,91.80,25.90
+1387,"Bielsko-Biała, ul. Warszawska 180 Lok.15",Bielsko-Biała,śląskie,1. Punkt pobrań,49.85,19.04,bielsko_biala,101.20,89.00,14.60
+1388,"Rzeszów, al. Gen. Leopolda Okulickiego 12",Rzeszów,podkarpackie,1. Punkt pobrań,50.05,21.99,rzeszow,98.20,88.60,15.40
+1389,"Andrychów, ul. Krakowska 140a",Andrychów,małopolskie,1. Punkt pobrań,49.86,19.33,bielsko_biala,101.20,89.00,14.60
+1390,"Andrychów, ul. Rynek 21",Andrychów,małopolskie,1. Punkt pobrań,49.85,19.34,bielsko_biala,101.20,89.00,14.60
+1391,"Warszawa, ul. Chełmżyńska 198",Warszawa,mazowieckie,1. Punkt pobrań,52.28,21.12,warszawa,94.90,95.00,37.60
+1392,"Warszawa, ul. Leszczyńska 4/129",Warszawa,mazowieckie,1. Punkt pobrań,52.24,21.03,warszawa,94.90,95.00,37.60
+1395,"Brzozów, ul. Słowackiego 4",Brzozów,podkarpackie,1. Punkt pobrań,49.70,22.02,przemysl,98.20,88.80,13.30
+1396,"Warszawa, ul. Gen. Augusta Emila Fieldorfa „Nila” 10/101",Warszawa,mazowieckie,1. Punkt pobrań,52.22,21.09,warszawa,94.90,95.00,37.60
+1399,"Poznań, ul. Moniki Gruchmanowej 1/55",Poznań,wielkopolskie,1. Punkt pobrań,52.44,16.87,leszno,95.70,93.60,32.80
+1400,"Kwidzyn, ul. Magazynowa 3",Kwidzyn,pomorskie,1. Punkt pobrań,53.73,18.92,ilawa,93.70,92.70,24.70
+1402,"Szczecin, ul. Józefa Romana 11",Szczecin,zachodniopomorskie,1. Punkt pobrań,53.49,14.59,koszalin,101.00,94.00,30.70
+1403,"Szczecin, ul. Przepiórki 1/Lu 1-2",Szczecin,zachodniopomorskie,1. Punkt pobrań,53.47,14.56,koszalin,101.00,94.00,30.70
+1404,"Świecie, ul. Wojska Polskiego 80",Świecie,kujawsko-pomorskie,1. Punkt pobrań,53.41,18.44,bydgoszcz,96.60,93.60,26.00
+1405,"Jawor, ul. Dmowskiego 9",Jawor,dolnośląskie,1. Punkt pobrań,51.06,16.18,jelenia_gora,100.50,92.40,25.70
+1406,"Dębica, ul. Paderewskiego 2",Dębica,podkarpackie,2. Diagnostyka Tarnów,50.06,21.40,krosno,100.90,68.40,4.70
+1407,"Tarnów, ul. Gabriela Narutowicza 15/2",Tarnów,małopolskie,2. Diagnostyka Tarnów,50.01,20.98,krosno,100.90,68.40,4.70
+1408,"Warszawa, ul. Wolska 58",Warszawa,mazowieckie,1. Punkt pobrań,52.23,20.97,warszawa,94.90,95.00,37.60
+1409,"Chojna, ul. Władysława Jagiełły 14",Chojna,zachodniopomorskie,1. Punkt pobrań,52.96,14.43,gorzow_wielkopolski,100.50,91.80,25.90
+1410,"Nowy Targ, ul. Ogrodowa 85b",Nowy Targ,małopolskie,1. Punkt pobrań,49.48,20.04,krakow,97.60,93.30,24.30
+1411,"Poznań, ul. Grochowska 50",Poznań,wielkopolskie,1. Punkt pobrań,52.40,16.88,leszno,95.70,93.60,32.80
+1412,"Poznań, os. Piastowskie 75",Poznań,wielkopolskie,1. Punkt pobrań,52.39,16.95,leszno,95.70,93.60,32.80
+1416,"Szczecin, ul. Szafera 3/5/7 (Wejście C3)",Szczecin,zachodniopomorskie,1. Punkt pobrań,53.46,14.50,koszalin,101.00,94.00,30.70
+1417,"Mława, ul. Warszawska 40a",Mława,mazowieckie,1. Punkt pobrań,53.11,20.38,ciechanow,94.90,94.10,32.40
+1419,"Tykocin, ul. Zagumienna 20",Tykocin,podlaskie,1. Punkt pobrań,53.21,22.78,bialystok,96.00,92.60,22.90
+1420,"Gryfino, ul. Kościelna 41/2",Gryfino,zachodniopomorskie,1. Punkt pobrań,53.25,14.49,koszalin,101.00,94.00,30.70
+1421,"Świebodzin, ul. Łąki Zamkowe 12/2",Świebodzin,lubuskie,1. Punkt pobrań,52.25,15.54,gorzow_wielkopolski,100.50,91.80,25.90
+1422,"Szubin, ul. H. Sienkiewicza 41",Szubin,kujawsko-pomorskie,1. Punkt pobrań,53.02,17.75,bydgoszcz,96.60,93.60,26.00
+1423,"Stara Iwiczna, ul. Tukanów 12/U2 (Piaseczno)",Stara Iwiczna,mazowieckie,1. Punkt pobrań,52.08,21.01,warszawa,94.90,95.00,37.60
+1427,"Warszawa, ul. Stawki 4b",Warszawa,mazowieckie,1. Punkt pobrań,52.25,20.99,warszawa,94.90,95.00,37.60
+1428,"Ostrołęka, ul. Goworowska 37a/U1-2",Ostrołęka,mazowieckie,1. Punkt pobrań,53.08,21.58,bialystok,96.00,92.60,22.90
+1429,"Marynin, ul. Mazowiecka 59",Marynin,mazowieckie,1. Punkt pobrań,52.07,20.70,warszawa,94.90,95.00,37.60
+1430,"Warszawa, ul. Włodarzewska 60",Warszawa,mazowieckie,1. Punkt pobrań,52.20,20.95,warszawa,94.90,95.00,37.60
+1431,"Szydłowiec, ul. Wschodnia 66",Szydłowiec,mazowieckie,1. Punkt pobrań,51.23,20.86,ciechanow,94.90,94.10,32.40
+1433,"Miechów, ul. Daneckiej 4",Miechów,małopolskie,1. Punkt pobrań,50.36,20.02,krakow,97.60,93.30,24.30
+1434,"Limanowa, ul. Tarnowska 40",Limanowa,małopolskie,1. Punkt pobrań,49.74,20.40,limanowa,96.00,89.10,15.50
+1435,"Ryki, ul. Wyczółkowskiego 6",Ryki,lubelskie,1. Punkt pobrań,51.63,21.93,biala_podlaska,96.10,88.90,12.00
+1436,"Łódź, ul. Kaczeńcowa 5",Łódź,łódzkie,1. Punkt pobrań,51.80,19.39,konin,98.70,94.50,29.40
+1437,"Toruń, ul. Gen. W. Andersa 72",Toruń,kujawsko-pomorskie,1. Punkt pobrań,52.99,18.61,bydgoszcz,96.60,93.60,26.00
+1439,"Czarnków, ul. Sikorskiego 27/A",Czarnków,wielkopolskie,1. Punkt pobrań,52.90,16.57,leszno,95.70,93.60,32.80
+1440,"Liszki, ul. Św. Jana Kantego 13",Liszki,małopolskie,1. Punkt pobrań,50.04,19.76,krakow,97.60,93.30,24.30
+1441,"Lublin, ul. Jana Pawła II 51",Lublin,lubelskie,1. Punkt pobrań,51.23,22.48,biala_podlaska,96.10,88.90,12.00
+1442,"Poznań, ul. Morasko 24",Poznań,wielkopolskie,1. Punkt pobrań,52.47,16.90,leszno,95.70,93.60,32.80
+1443,"Zgorzelec, ul. Staszica 8",Zgorzelec,dolnośląskie,1. Punkt pobrań,51.15,15.01,jelenia_gora,100.50,92.40,25.70
+1445,"Świdnik, ul. Aleja Armii Krajowej 22/24",Świdnik,lubelskie,1. Punkt pobrań,51.22,22.72,biala_podlaska,96.10,88.90,12.00
+1446,"Inowrocław, ul. Biskupa Antoniego Laubitza 3",Inowrocław,kujawsko-pomorskie,1. Punkt pobrań,52.80,18.26,bydgoszcz,96.60,93.60,26.00
+1448,"Czersk, ul. Jana Pawła II 1a/1",Czersk,pomorskie,1. Punkt pobrań,53.80,17.97,slupsk,99.90,94.10,25.20
+1449,"Słupsk, ul. Józefa Piłsudskiego 2",Słupsk,pomorskie,1. Punkt pobrań,54.46,17.01,slupsk,99.90,94.10,25.20
+1450,"Przeworsk, pl. Mickiewicza 7",Przeworsk,podkarpackie,1. Punkt pobrań,50.06,22.50,przemysl,98.20,88.80,13.30
+1451,"Szamotuły, ul. Wroniecka 26",Szamotuły,wielkopolskie,1. Punkt pobrań,52.61,16.58,leszno,95.70,93.60,32.80
+1453,"Kędzierzyn-Koźle, ul. Kozielska 51a",Kędzierzyn-Koźle,opolskie,1. Punkt pobrań,50.34,18.20,opole,99.10,90.00,14.90
+1454,"Wrocław, ul. Kasprowicza 9a",Wrocław,dolnośląskie,1. Punkt pobrań,51.14,17.04,jelenia_gora,100.50,92.40,25.70
+1455,"Kaźmierz, ul. Orzeszkowej 6",Kaźmierz,wielkopolskie,1. Punkt pobrań,52.51,16.59,leszno,95.70,93.60,32.80
+1456,"Strzelce Krajeńskie, ul. Bolesława Chrobrego 14/14e-2",Strzelce Krajeńskie,lubuskie,1. Punkt pobrań,52.88,15.54,gorzow_wielkopolski,100.50,91.80,25.90
+1457,"Pniewy, ul. Targowa 14",Pniewy,wielkopolskie,1. Punkt pobrań,52.51,16.26,leszno,95.70,93.60,32.80
+1458,"Siemianowice Śląskie, ul. Michałkowicka 7",Siemianowice Śląskie,śląskie,1. Punkt pobrań,50.31,19.02,katowice,101.00,88.60,15.10
+1459,"Choszczno, ul. Wolności 38",Choszczno,zachodniopomorskie,1. Punkt pobrań,53.17,15.41,koszalin,101.00,94.00,30.70
+1460,"Białystok, ul. Warszawska 52/2",Białystok,podlaskie,1. Punkt pobrań,53.13,23.18,bialystok,96.00,92.60,22.90
+1461,"Konin, ul. Aleje 1 Maja 18a",Konin,wielkopolskie,1. Punkt pobrań,52.23,18.25,konin,98.70,94.50,29.40
+1462,"Kolbuszowa, ul. Obrońców Pokoju 7a",Kolbuszowa,podkarpackie,1. Punkt pobrań,50.24,21.77,przemysl,98.20,88.80,13.30
+1464,"Bydgoszcz, ul. Maksymiliana Kolbego 43",Bydgoszcz,kujawsko-pomorskie,1. Punkt pobrań,53.15,17.92,bydgoszcz,96.60,93.60,26.00
+1465,"Tarnogród, ul. Rynek 2",Tarnogród,lubelskie,1. Punkt pobrań,50.36,22.74,biala_podlaska,96.10,88.90,12.00
+1474,"Grudziądz, ul. Mieszka I 5",Grudziądz,kujawsko-pomorskie,1. Punkt pobrań,53.50,18.77,bydgoszcz,96.60,93.60,26.00
+1475,"Radom, ul. J. Słowackiego 126/6",Radom,mazowieckie,1. Punkt pobrań,51.39,21.18,ciechanow,94.90,94.10,32.40
+1476,"Bydgoszcz, ul. Gen. Józefa Hallera 1",Bydgoszcz,kujawsko-pomorskie,1. Punkt pobrań,53.16,18.17,bydgoszcz,96.60,93.60,26.00
+1477,"Chodzież, ul. Rynek 7/4-5",Chodzież,wielkopolskie,1. Punkt pobrań,52.99,16.92,leszno,95.70,93.60,32.80
+1478,"Poznań, ul. Książęca 17/5",Poznań,wielkopolskie,1. Punkt pobrań,52.37,16.93,leszno,95.70,93.60,32.80
+1479,"Głogówek, ul. Skargi 15a",Głogówek,opolskie,1. Punkt pobrań,50.35,17.86,opole,99.10,90.00,14.90
+1480,"Środa Wielkopolska, ul. Strzelecka 33",Środa Wielkopolska,wielkopolskie,1. Punkt pobrań,52.24,17.28,leszno,95.70,93.60,32.80
+1481,"Lębork, ul. Wojska Polskiego 11a",Lębork,pomorskie,1. Punkt pobrań,54.53,17.74,slupsk,99.90,94.10,25.20
+1483,"Elbląg, ul. Leona Wyczółkowskiego 5",Elbląg,warmińsko-mazurskie,1. Punkt pobrań,54.15,19.43,elblag,93.80,93.60,29.70
+1491,"Konin, ul. Kolejowa 11",Konin,wielkopolskie,1. Punkt pobrań,52.23,18.26,konin,98.70,94.50,29.40
+1497,"Poddębice, ul. Radosna 41b",Poddębice,łódzkie,1. Punkt pobrań,51.90,18.97,konin,98.70,94.50,29.40
+1498,"Gorzów Śląski, ul. Wojska Polskiego 6",Gorzów Śląski,opolskie,1. Punkt pobrań,51.03,18.42,opole,99.10,90.00,14.90
+1499,"Opole, ul. Cygana 6a",Opole,opolskie,1. Punkt pobrań,50.69,17.92,opole,99.10,90.00,14.90
+1500,"Orzesze, ul. Rynek 7",Orzesze,śląskie,1. Punkt pobrań,50.14,18.77,katowice,101.00,88.60,15.10
+1501,"Czeladź, ul. Gdańska 13",Czeladź,śląskie,1. Punkt pobrań,50.32,19.09,katowice,101.00,88.60,15.10
+1502,"Warszawa, ul. Kuflewska 6",Warszawa,mazowieckie,1. Punkt pobrań,52.27,21.06,warszawa,94.90,95.00,37.60
+1503,"Biedrusko, ul. Jesionowa 3/3",Biedrusko,wielkopolskie,1. Punkt pobrań,52.54,16.94,leszno,95.70,93.60,32.80
+1504,"Warszawa, ul. Romana Abrahama 16",Warszawa,mazowieckie,1. Punkt pobrań,52.23,21.09,warszawa,94.90,95.00,37.60
+1505,"Jastrzębie-Zdrój, ul. Mazowiecka 8",Jastrzębie-Zdrój,śląskie,1. Punkt pobrań,49.95,18.60,katowice,101.00,88.60,15.10
+1506,"Warszawa, ul. Marcina Kasprzaka 17",Warszawa,mazowieckie,1. Punkt pobrań,52.23,20.97,warszawa,94.90,95.00,37.60
+1507,"Odolanów, ul. Kaliska 66",Odolanów,wielkopolskie,1. Punkt pobrań,51.57,17.69,leszno,95.70,93.60,32.80
+1621,"Trzebnica, ul. Obornicka 41d",Trzebnica,dolnośląskie,1. Punkt pobrań,51.31,17.05,jelenia_gora,100.50,92.40,25.70
+1623,"Puławy, ul. Gościńczyk 5",Puławy,lubelskie,1. Punkt pobrań,51.41,21.98,biala_podlaska,96.10,88.90,12.00
+1624,"Stargard, ul. Osiedle Zachód A17",Stargard,zachodniopomorskie,1. Punkt pobrań,53.34,15.01,koszalin,101.00,94.00,30.70
+1625,"Warszawa, ul. Powązkowska 40/U3",Warszawa,mazowieckie,1. Punkt pobrań,52.26,20.97,warszawa,94.90,95.00,37.60
+1626,"Augustów, rynek Zygmunta Augusta 33",Augustów,podlaskie,1. Punkt pobrań,53.84,22.98,bialystok,96.00,92.60,22.90
+1627,"Września, ul. Wojska Polskiego 13",Września,wielkopolskie,1. Punkt pobrań,52.33,17.57,leszno,95.70,93.60,32.80
+1628,"Kielce, ul. Prosta 42",Kielce,świętokrzyskie,1. Punkt pobrań,50.86,20.64,kielce,97.70,90.90,17.30
+1629,"Gostyń, ul. Ks. Franciszka Olejniczaka 2",Gostyń,wielkopolskie,1. Punkt pobrań,51.88,17.02,leszno,95.70,93.60,32.80
+1630,"Leszno, ul. Ks. Teodora Korcza 5a",Leszno,wielkopolskie,1. Punkt pobrań,51.84,16.58,leszno,95.70,93.60,32.80
+1631,"Siedlce, ul. Starowiejska 66",Siedlce,mazowieckie,1. Punkt pobrań,52.17,22.29,ciechanow,94.90,94.10,32.40
+1632,"Niemcz, ul. Kolonijna 25-29",Niemcz,kujawsko-pomorskie,1. Punkt pobrań,53.19,18.04,bydgoszcz,96.60,93.60,26.00
+1633,"Osielsko, ul. Kolonijna 2",Osielsko,kujawsko-pomorskie,1. Punkt pobrań,53.19,18.07,bydgoszcz,96.60,93.60,26.00
+1634,"Pobiedziska, ul. Tysiąclecia 12/4-5",Pobiedziska,wielkopolskie,1. Punkt pobrań,52.48,17.28,leszno,95.70,93.60,32.80
+1637,"Wrocław, pl. Hirszfelda 16/17",Wrocław,dolnośląskie,1. Punkt pobrań,51.09,17.01,jelenia_gora,100.50,92.40,25.70
+1638,"Legnica, ul. Asnyka 8",Legnica,dolnośląskie,1. Punkt pobrań,51.20,16.14,jelenia_gora,100.50,92.40,25.70
+1640,"Proszowice, ul. 3 Maja 33",Proszowice,małopolskie,1. Punkt pobrań,50.19,20.29,krakow,97.60,93.30,24.30
+1641,"Biłgoraj, ul. Gen. Henryka Dąbrowskiego 29/Ii",Biłgoraj,lubelskie,1. Punkt pobrań,50.53,22.72,biala_podlaska,96.10,88.90,12.00
+1642,"Pasłęk, ul. Władysława Jagiełły 26",Pasłęk,warmińsko-mazurskie,1. Punkt pobrań,54.06,19.66,elblag,93.80,93.60,29.70
+1643,"Olsztyn, ul. Romualda Mielczarskiego 8",Olsztyn,warmińsko-mazurskie,1. Punkt pobrań,53.77,20.49,olsztyn,93.80,93.60,29.20
+1644,"Świdwin, ul. Wojska Polskiego 22c",Świdwin,zachodniopomorskie,1. Punkt pobrań,53.77,15.78,koszalin,101.00,94.00,30.70
+1645,"Katowice, ul. Ściegiennego 49c",Katowice,śląskie,1. Punkt pobrań,50.28,19.01,katowice,101.00,88.60,15.10
+1646,"Straszyn, ul. Starogardzka 45",Straszyn,pomorskie,1. Punkt pobrań,54.27,18.58,gdansk,100.10,94.10,30.60
+1647,"Witnica, ul. Piaskowa 4",Witnica,lubuskie,1. Punkt pobrań,52.67,14.89,gorzow_wielkopolski,100.50,91.80,25.90
+1648,"Jabłonna, ul. Akademijna 6",Jabłonna,mazowieckie,1. Punkt pobrań,52.38,20.94,warszawa,94.90,95.00,37.60
+1650,"Boguszów-Gorce, ul. Henryka Sienkiewicza 4",Boguszów-Gorce,dolnośląskie,1. Punkt pobrań,50.76,16.20,jelenia_gora,100.50,92.40,25.70
+1651,"Mirków, ul. Makowa 7",Mirków,dolnośląskie,1. Punkt pobrań,51.16,17.17,jelenia_gora,100.50,92.40,25.70
+1652,"Strzyżów, ul. Łukasiewicza 11",Strzyżów,podkarpackie,1. Punkt pobrań,49.87,21.78,przemysl,98.20,88.80,13.30
+1653,"Ostrzeszów, pl. Borek 10",Ostrzeszów,wielkopolskie,1. Punkt pobrań,51.42,17.93,jelenia_gora,100.50,92.40,25.70
+1654,"Kąty Wrocławskie, ul. Hugona Kołłątaja 13/U3",Kąty Wrocławskie,dolnośląskie,1. Punkt pobrań,51.03,16.76,jelenia_gora,100.50,92.40,25.70
+1655,"Lublin, ul. Władysława Jagiełły 24",Lublin,lubelskie,1. Punkt pobrań,51.22,22.64,biala_podlaska,96.10,88.90,12.00
+1656,"Łódź, ul. Zgierska 149",Łódź,łódzkie,1. Punkt pobrań,51.81,19.44,konin,98.70,94.50,29.40
+1657,"Warszawa, al. Aleja Krakowska 279",Warszawa,mazowieckie,1. Punkt pobrań,52.20,20.96,warszawa,94.90,95.00,37.60
+1658,"Namysłów, ul. Oleśnicka 21",Namysłów,opolskie,1. Punkt pobrań,51.09,17.70,opole,99.10,90.00,14.90
+1659,"Bydgoszcz, ul. Adama Naruszewicza 4",Bydgoszcz,kujawsko-pomorskie,1. Punkt pobrań,53.13,17.99,bydgoszcz,96.60,93.60,26.00
+1660,"Witkowo, ul. Żwirki i Wigury 1",Witkowo,wielkopolskie,1. Punkt pobrań,52.44,17.77,leszno,95.70,93.60,32.80
+1661,"Ornontowice, ul. Klasztorna 1",Ornontowice,śląskie,1. Punkt pobrań,50.18,18.76,katowice,101.00,88.60,15.10
+1662,"Jabłonowo Pomorskie, ul. Główna 19",Jabłonowo Pomorskie,kujawsko-pomorskie,1. Punkt pobrań,53.39,19.15,bydgoszcz,96.60,93.60,26.00
+1663,"Lwówek Śląski, ul. Morcinka 7",Lwówek Śląski,dolnośląskie,9. Punkt Pobrań Fryda,51.11,15.59,lwowek_slaski,99.50,,
+1664,"Tuszyn, ul. Szpitalna 5",Tuszyn,łódzkie,9. Punkt Pobrań Fryda,,,,,,
+1665,"Biecz, ul. Przedmieście Dolne 167",Biecz,małopolskie,2. Diagnostyka Tarnów,49.74,21.27,krosno,100.90,68.40,4.70
+1667,"Katowice, ul. Panewnicka 65",Katowice,śląskie,9. Punkt Pobrań Fryda,50.23,18.96,pajeczno,106.60,,
+1668,"Sosnowiec, ul. Zapolskiej 3",Sosnowiec,śląskie,9. Punkt Pobrań Fryda,50.27,19.20,,,,
+1669,"Opole, ul. Walerego Wróblewskiego 46",Opole,opolskie,1. Punkt pobrań,50.66,17.90,opole,99.10,90.00,14.90
+1670,"Lewin Brzeski, ul. Wojska Polskiego 21",Lewin Brzeski,opolskie,4. Punkt Kontrahenta,50.75,17.61,opole,99.10,90.00,14.90
+1671,"Rzeszów, ul. Wiktora Zbyszewskiego 15",Rzeszów,podkarpackie,1. Punkt pobrań,50.04,21.97,rzeszow,98.20,88.60,15.40
+1672,"Inowrocław, ul. Dmowskiego 10",Inowrocław,kujawsko-pomorskie,1. Punkt pobrań,52.77,18.25,bydgoszcz,96.60,93.60,26.00
+1673,"Brzeszcze, ul. Dworcowa 1a",Brzeszcze,małopolskie,1. Punkt pobrań,49.97,19.14,brzeszcze,107.40,89.10,14.60
+1674,"Szczecin, ul. Lekarska 12/1",Szczecin,zachodniopomorskie,1. Punkt pobrań,53.40,14.66,koszalin,101.00,94.00,30.70
+1675,"Białystok, ul. Fabryczna 8/10 U",Białystok,podlaskie,1. Punkt pobrań,53.14,23.17,bialystok,96.00,92.60,22.90
+1676,"Biała, ul. Rynek 2",Biała,opolskie,1. Punkt pobrań,50.38,17.66,biala,104.30,85.70,13.20
+1677,"Oława, ul. Chrobrego 20g",Oława,dolnośląskie,1. Punkt pobrań,50.94,17.30,jelenia_gora,100.50,92.40,25.70
+1678,"Raczki, ul. Nowe Osiedle 4",Raczki,podlaskie,1. Punkt pobrań,53.99,22.78,bialystok,96.00,92.60,22.90
+1679,"Gowino, ul. Wejherowska 84",Gowino,pomorskie,1. Punkt pobrań,54.57,18.20,gdansk,100.10,94.10,30.60
+1680,"Suwałki, ul. Emila Młynarskiego 9",Suwałki,podlaskie,1. Punkt pobrań,54.12,22.95,bialystok,96.00,92.60,22.90
+1681,"Suwałki, ul. Ludwika Waryńskiego 27/45",Suwałki,podlaskie,1. Punkt pobrań,54.10,22.94,bialystok,96.00,92.60,22.90
+1683,"Sejny, ul. Dr Edwarda Rittlera 2",Sejny,podlaskie,1. Punkt pobrań,54.11,23.35,bialystok,96.00,92.60,22.90
+1684,"Augustów, ul. Szpitalna 12",Augustów,podlaskie,1. Punkt pobrań,53.85,22.99,bialystok,96.00,92.60,22.90
+1685,"Augustów, ul. Joachima Chreptowicza 1",Augustów,podlaskie,1. Punkt pobrań,53.84,22.97,bialystok,96.00,92.60,22.90
+1686,"Koszalin, ul. Aleja Monte Cassino 13",Koszalin,zachodniopomorskie,1. Punkt pobrań,54.20,16.19,koszalin,101.00,94.00,30.70
+1687,"Gdańsk, ul. Piekarnicza 1",Gdańsk,pomorskie,1. Punkt pobrań,54.35,18.59,gdansk,100.10,94.10,30.60
+1688,"Plewiska, ul. Kminkowa 200/1-2",Plewiska,wielkopolskie,1. Punkt pobrań,52.38,16.82,plewiska,102.00,94.10,32.90
+1689,"Gdynia, ul. Abrahama 45",Gdynia,pomorskie,1. Punkt pobrań,54.52,18.54,gdansk,100.10,94.10,30.60
+1690,"Tarnowskie Góry, ul. Nakielska 54",Tarnowskie Góry,śląskie,1. Punkt pobrań,50.44,18.88,tarnowskie_gory,107.20,89.10,15.30
+1691,"Olsztyn, ul. Maurycego Mochnackiego 13",Olsztyn,warmińsko-mazurskie,1. Punkt pobrań,53.77,20.47,olsztyn,93.80,93.60,29.20
+1692,"Krzywda, ul. Żelechowska 11",Krzywda,lubelskie,1. Punkt pobrań,51.80,22.19,biala_podlaska,96.10,88.90,12.00
+1693,"Szczecin, ul. Aleja Powstańców Wielkopolskich 26/LU6",Szczecin,zachodniopomorskie,1. Punkt pobrań,53.41,14.53,koszalin,101.00,94.00,30.70
+1694,"Warszawa, ul. Człuchowska 51/CU5",Warszawa,mazowieckie,1. Punkt pobrań,52.23,20.89,warszawa,94.90,95.00,37.60
+1695,"Wrocław, ul. Widna 2A",Wrocław,dolnośląskie,1. Punkt pobrań,51.09,17.05,jelenia_gora,100.50,92.40,25.70
+1696,"Wolbrom, ul. Skalska 22",Wolbrom,małopolskie,1. Punkt pobrań,50.38,19.76,tarnowskie_gory,107.20,89.10,15.30
+1697,"Buczkowice, ul. Wyzwolenia 491/4",Buczkowice,śląskie,1. Punkt pobrań,49.73,19.07,bielsko_biala,101.20,89.00,14.60
+1698,"Warszawa, ul. Wołoska 3/LU9",Warszawa,mazowieckie,1. Punkt pobrań,52.18,21.00,warszawa,94.90,95.00,37.60
+1699,"Chorzów, ul. Jubileuszowa 42",Chorzów,śląskie,1. Punkt pobrań,50.27,18.93,tarnowskie_gory,107.20,89.10,15.30
+1700,"Rzeszów, ul. Ignacego Łukasiewicza 78",Rzeszów,podkarpackie,1. Punkt pobrań,50.00,22.03,rzeszow,98.20,88.60,15.40
+1701,"Skoczów, ul. Gustawa Morcinka 18 a",Skoczów,śląskie,1. Punkt pobrań,49.79,18.78,brzeszcze,107.40,89.10,14.60
+1702,"Kraków, ul. Agatowa 31",Kraków,małopolskie,1. Punkt pobrań,50.02,20.05,krakow_1702,98.00,92.30,21.60
+1703,"Łódź, ul. Juliana Tuwima 15/U4",Łódź,łódzkie,1. Punkt pobrań,51.77,19.46,lodz_1703,102.70,93.90,27.50
+1704,"Gdańsk, ul. Przytulna 5",Gdańsk,pomorskie,1. Punkt pobrań,54.35,18.54,gdansk,100.10,94.10,30.60
+1705,"Lubsko, ul. Krakowskie Przedmieście 10",Lubsko,lubuskie,1. Punkt pobrań,51.79,14.97,lubsko,106.70,92.30,25.80
+1706,"Wrocław, ul. Legnicka 52a",Wrocław,dolnośląskie,1. Punkt pobrań,51.12,16.99,wroclaw_1706,103.70,92.00,22.10
+1707,"Rzeszów, al. Niepodległości 1/9",Rzeszów,podkarpackie,1. Punkt pobrań,50.03,22.02,rzeszow,98.20,88.60,15.40
+1708,"Mława, al. Świętego Wojciecha 13",Mława,mazowieckie,1. Punkt pobrań,53.11,20.36,mlawa,101.10,94.10,31.50
+1709,"Pogórze, ul. Ignacego Jana Paderewskiego 2/U4",Pogórze,pomorskie,1. Punkt pobrań,54.57,18.49,gdansk,100.10,94.10,30.60
+1710,"Zalasewo, ul. Ukośna 12/4",Zalasewo,wielkopolskie,1. Punkt pobrań,52.38,17.07,leszno,95.70,93.60,32.80
+1711,"Bezrzecze, ul. Górna 20/A",Bezrzecze,zachodniopomorskie,1. Punkt pobrań,53.46,14.45,koszalin,101.00,94.00,30.70
+1712,"Łobez, ul. Kwiatowa 13",Łobez,zachodniopomorskie,1. Punkt pobrań,53.64,15.62,koszalin,101.00,94.00,30.70
+1713,"Orzesze, ul. Mikołowska 210",Orzesze,śląskie,4. Punkt Kontrahenta,50.12,18.81,tarnowskie_gory,107.20,89.10,15.30
+1714,"Kościelna Wieś, ul. Spacerowa 2/8",Kościelna Wieś,wielkopolskie,1. Punkt pobrań,51.77,18.04,wroclaw_1706,103.70,92.00,22.10
+1715,"Olsztyn, ul. Żytnia 70G",Olsztyn,warmińsko-mazurskie,1. Punkt pobrań,53.77,20.43,olsztyn,93.80,93.60,29.20
+1716,"Ożarów Mazowiecki, ul. Poznańska 224A",Ożarów Mazowiecki,mazowieckie,1. Punkt pobrań,52.21,20.81,ozarow_mazowiecki,101.10,95.00,37.30
+1717,"Rzeszów, ul. Lubelska 13",Rzeszów,podkarpackie,1. Punkt pobrań,50.05,22.00,rzeszow_1717,103.10,88.20,10.90
+1719,"Wrocław, ul. Marca Polo 33a",Wrocław,dolnośląskie,1. Punkt pobrań,51.11,17.12,wroclaw_1706,103.70,92.00,22.10
+1720,"Krzepice, ul. Ks. Stanisława Muznerowskiego 2",Krzepice,śląskie,1. Punkt pobrań,50.97,18.73,krzepice,102.20,84.10,12.00

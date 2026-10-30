@@ -141,6 +141,13 @@ Większość pakietów kosztuje tyle samo w całym kraju, a pojedyncze badania n
 </picture>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/punkty-dark.svg">
+  <img src="docs/punkty-light.svg" alt="Dwie mapy Polski z siatki heksów: po lewej liczba punktów pobrań Diagnostyki w każdym heksie, po prawej mediana oszczędności na pakietach w cennikach tych punktów." width="100%">
+</picture>
+
+Każdy punkt pobrań korzysta z jednego z regionalnych cenników. `wszystkie_punkty.py` sprawdza cennik każdego z około 1 250 punktów, więc mapa pokazuje cały kraj, a nie tylko 49 miast.
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/oszczednosci-dark.svg">
   <img src="docs/oszczednosci-light.svg" alt="Wykres kropkowy: każdy pakiet to kropka, w czterech wierszach według typu pakietu. Oś pozioma to mediana oszczędności z miast: na prawo od zera pakiet jest tańszy, na lewo droższy." width="100%">
 </picture>
@@ -167,6 +174,8 @@ Dane z ostatniego uruchomienia leżą w katalogu [`wyniki/`](wyniki). GitHub pok
 | [`wyniki/pakiety.csv`](wyniki/pakiety.csv) | Każdy pakiet w skali kraju: cena, wartości z miasta środkowego, w ilu miastach się opłaca, najmniejsza i największa oszczędność. |
 | [`wyniki/oszczednosci_w_miastach.csv`](wyniki/oszczednosci_w_miastach.csv) | Oszczędność w procentach dla każdego pakietu w każdym mieście. Znajdź swój pakiet i swoje miasto. |
 | [`wyniki/porownanie.json`](wyniki/porownanie.json) | To samo w JSON, z którego `wykresy.py` rysuje wykresy. |
+| [`wyniki/punkty.csv`](wyniki/punkty.csv) | Każdy punkt pobrań: miasto, województwo, współrzędne, jego cennik, poziom cen badań i mediana oszczędności. |
+| [`wyniki/cenniki.csv`](wyniki/cenniki.csv) | Każdy regionalny cennik: ile punktów i miast go używa, główne miasta, poziom cen i oszczędność. |
 | [`wyniki/cenniki/`](wyniki/cenniki) | Pełny cennik punktu pobrań w każdym mieście: około 3 200 badań i pakietów z ceną online i w punkcie. |
 | [`wyniki/analizy/`](wyniki/analizy) | Analiza każdego pakietu w każdym mieście: skład, suma osobno, oszczędność i werdykt. |
 
@@ -177,10 +186,11 @@ git clone https://github.com/olekkut/czy-pakiet-sie-oplaca.git
 cd czy-pakiet-sie-oplaca
 pip install -r requirements.txt
 python porownanie_miast.py
+python wszystkie_punkty.py
 python wykresy.py
 ```
 
-`porownanie_miast.py` pobiera cennik i pakiety po kolei dla 49 miast (około 1000 zapytań z przerwami, około 25 minut) i zapisuje wszystko w `wyniki/`: cenniki, analizy miast i zestawienia. Jeśli przerwiesz, kolejne uruchomienie tego samego dnia pominie miasta, które już są. `wykresy.py` rysuje wykresy do `docs/` i aktualizuje sekcję „Wyniki” w tym pliku.
+`porownanie_miast.py` pobiera cennik i pakiety po kolei dla 49 miast (około 1000 zapytań z przerwami, około 25 minut) i zapisuje wszystko w `wyniki/`: cenniki, analizy miast i zestawienia. Jeśli przerwiesz, kolejne uruchomienie tego samego dnia pominie miasta, które już są. `wszystkie_punkty.py` pobiera adres i pierwszą stronę cennika każdego punktu (około 2 500 zapytań, około godziny) i dociąga w całości tylko cenniki, których jeszcze nie ma. `wykresy.py` rysuje wykresy do `docs/` i aktualizuje sekcję „Wyniki” w tym pliku.
 
 Tylko wybrane miasta albo jeden konkretny punkt pobrań:
 
@@ -215,7 +225,8 @@ flowchart LR
 5. **Werdykt.** Oszczędność to suma cen badań minus cena pakietu. Różnica poniżej 1 zł to zaokrąglenia, więc oznacza „bez różnicy”.
 6. **Brak danych zamiast zgadywania.** Pakiet bez składu w API, bez ceny w danym punkcie albo z badaniem bez ceny dostaje „BRAK DANYCH”. Cena 0 w API nie oznacza darmowego pakietu: wyszukiwarka pakietów zwraca 0 dla części z nich, choć cennik ma prawdziwą cenę, więc skrypt bierze ją z cennika.
 7. **Poziom cen badań.** Dla każdego miasta skrypt sumuje ceny osobno badań ze wszystkich pakietów, które da się porównać w każdym mieście, i dzieli przez tę sumę w mieście środkowym (100 = mediana miast).
-8. **Skala kraju.** Dla każdego pakietu wykresy pokazują miasto środkowe, czyli medianę oszczędności z miast, w których dało się go porównać. Cena, suma i werdykt pochodzą z tego samego miasta, więc się ze sobą zgadzają.
+8. **Wszystkie punkty.** Pierwsza strona cennika (200 pozycji) działa jak odcisk palca: punkt należy do cennika, jeśli co najmniej 80 wspólnych cen zgadza się co do grosza (badania bez ceny w danym regionie się nie liczą). Pełny cennik i analiza pakietów są pobierane raz na cennik.
+9. **Skala kraju.** Dla każdego pakietu wykresy pokazują miasto środkowe, czyli medianę oszczędności z miast, w których dało się go porównać. Cena, suma i werdykt pochodzą z tego samego miasta, więc się ze sobą zgadzają.
 
 ## Opcje
 
@@ -225,6 +236,13 @@ flowchart LR
 | :--- | :--- |
 | `-m`, `--miasta` | Tylko wybrane miasta z listy 49, np. `--miasta Kraków "Zielona Góra"`. |
 | `--odswiez` | Pobierz od nowa, nawet jeśli dzisiejszy wynik miasta już jest w `wyniki/`. |
+| `-d`, `--delay` | Przerwa między zapytaniami w sekundach (domyślnie 0,5). |
+
+`wszystkie_punkty.py`:
+
+| Opcja | Opis |
+| :--- | :--- |
+| `--odswiez` | Pobierz odciski punktów od nowa, nawet jeśli już są w `dane/punkty/`. |
 | `-d`, `--delay` | Przerwa między zapytaniami w sekundach (domyślnie 0,5). |
 
 `analiza_pakietow.py`:
@@ -306,6 +324,7 @@ Zestawienia w `wyniki/` to zwykłe pliki CSV (przecinek, kropka dziesiętna), ż
 
 ```
 porownanie_miast.py  porównanie pakietów w 49 miastach, zestawienia do wyniki/
+wszystkie_punkty.py  cennik i oszczędność dla każdego punktu pobrań w kraju
 analiza_pakietow.py  porównanie pakietów z badaniami kupionymi osobno dla jednego punktu
 scraper.py           pobranie samego cennika badań dla punktu pobrań
 wykresy.py           mapa i wykresy do docs/ oraz sekcja „Wyniki” w README

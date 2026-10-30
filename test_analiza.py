@@ -215,5 +215,27 @@ class PaginationTest(unittest.TestCase):
         self.assertEqual(sorted(item["id"] for item in items), [1, 2, 3])
 
 
+
+class PriceListMatchTest(unittest.TestCase):
+    def setUp(self):
+        self.lists = {"krakow": {str(i): 100.0 + i for i in range(300)}}
+
+    def test_same_prices_match(self):
+        from wszystkie_punkty import matching_list
+        prices = {str(i): 100.0 + i for i in range(200)}
+        self.assertEqual(matching_list(prices, self.lists), "krakow")
+
+    def test_one_different_price_is_another_list(self):
+        from wszystkie_punkty import matching_list
+        prices = {str(i): 100.0 + i for i in range(200)}
+        prices["7"] = 1.0
+        self.assertIsNone(matching_list(prices, self.lists))
+
+    def test_too_few_common_prices(self):
+        from wszystkie_punkty import matching_list
+        prices = {str(i): 100.0 + i for i in range(50)}
+        self.assertIsNone(matching_list(prices, self.lists))
+
+
 if __name__ == "__main__":
     unittest.main()

@@ -4,6 +4,7 @@ Rysuje wykresy do README i wpisuje aktualne liczby do README.md (między znaczni
 z porownanie_miast.py, ale umie też narysować wynik jednego punktu z analiza_pakietow.py.
 
 docs/hero.png                  baner 1280×640, nadaje się też na podgląd repozytorium
+docs/punkty-<motyw>.svg        wszystkie punkty pobrań na siatce heksów (z wszystkie_punkty.py)
 docs/mapa-<motyw>.svg          mapa miast: gdzie pakiety opłacają się najbardziej
 docs/miasta-<motyw>.svg        poziom cen badań i oszczędność w każdym mieście
 docs/oszczednosci-<motyw>.svg  każdy pakiet jako kropka, według typu pakietu
@@ -24,7 +25,9 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt  # noqa: E402
 from matplotlib.figure import Figure  # noqa: E402
-from matplotlib.patches import Circle, PathPatch  # noqa: E402
+import numpy as np  # noqa: E402
+from matplotlib.colors import BoundaryNorm, ListedColormap  # noqa: E402
+from matplotlib.patches import Circle, PathPatch, RegularPolygon  # noqa: E402
 from matplotlib.path import Path as MplPath  # noqa: E402
 from matplotlib.transforms import Bbox  # noqa: E402
 
@@ -38,6 +41,7 @@ Theme = Dict[str, Any]
 DOCS_DIR = Path("docs")
 README_PATH = Path("README.md")
 DEFAULT_REPORT = RESULTS_DIR / "porownanie.json"
+POINTS_REPORT = RESULTS_DIR / "punkty.json"
 README_MARKERS = ("<!-- wyniki:start -->", "<!-- wyniki:end -->")
 
 # Paleta: niebieski i czerwony to bieguny skali "taniej/drożej", szary to środek, a "ramp"
@@ -62,6 +66,9 @@ GROUPS = ["Zwykłe, 2+ badania", "Z konsultacją", "Wysyłkowe", "Jedno badanie"
 # Mapa: granice klas mediany oszczędności (%) i rzut, w którym Polska ma właściwe proporcje.
 SAVINGS_CLASSES = [10, 20, 30, 40]
 MAP_X_SCALE = math.cos(math.radians(52))
+# Mapa heksów: granice klas liczby punktów w heksie i liczba heksów w poprzek kraju.
+POINT_CLASSES = [2, 4, 10, 20]
+HEX_GRID = 30
 
 
 def setup_matplotlib() -> None:
@@ -527,6 +534,62 @@ def figure_cities(report: Dict[str, Any], theme: Theme) -> Figure:
     return fig
 
 
+def hex_legend(fig: Figure, x: float, y: float, theme: Theme, labels: List[str], size: float = 9.5) -> None:
+    """Legenda klas mapy heksów, od najwyższej klasy w dół."""
+    for index in reversed(range(len(labels))):
+        fig.add_artist(RegularPolygon((x + 0.08, y), 6, radius=0.09, transform=fig.dpi_scale_trans,
+                                      color=theme["ramp"][index]))
+        text(fig, x + 0.25, y, labels[index], size, theme["ink2"], va="center")
+        y -= 0.27
+
+
+def figure_hexmap(points_report: Dict[str, Any], theme: Theme) -> Figure:
+    """
+    Wszystkie punkty pobrań na siatce heksów: po lewej ile ich jest, po prawej mediana
+    oszczędności na pakietach w cennikach tych punktów. Obie mapy mają tę samą siatkę.
+    """
+    points = [point for point in points_report["punkty"] if point["szerokosc_geogr"] is not None]
+    xs = np.array([point["dlugosc_geogr"] * MAP_X_SCALE for point in points])
+    ys = np.array([point["szerokosc_geogr"] for point in points])
+    priced = [index for index, point in enumerate(points) if point["mediana_oszczednosci_2plus_proc"] is not None]
+    savings = np.array([points[index]["mediana_oszczednosci_2plus_proc"] for index in priced])
+    extent = (xs.min() - 0.15, xs.max() + 0.15, ys.min() - 0.15, ys.max() + 0.15)
+    hex_km = (extent[1] - extent[0]) / HEX_GRID * 111
+
+    width, panel_w, legend_w, gap = 10.0, 3.55, 1.05, 0.35
+    panel_h = panel_w * (extent[3] - extent[2]) / (extent[1] - extent[0])
+    top, bottom = 1.55, 0.25
+    height = top + panel_h + bottom
+    fig = plt.figure(figsize=(width, height), facecolor=theme["surface"])
+    text(fig, 0.3, height - 0.42, "Wszystkie punkty pobrań", 15, theme["ink"], "bold")
+    text(fig, 0.3, height - 0.7,
+         f"{len(points):,}".replace(",", " ") + f" punktów · heks ma około {hex_km:.0f} km szerokości · ceny z "
+         f"{polish_date(points_report['data_pobrania'])}",
+         10.5, theme["ink2"])
+
+    cmap = ListedColormap(theme["ramp"])
+    count_labels = ["1 punkt", "2–3", "4–9", "10–19", "20 i więcej"]
+    panels = (
+        ("Ile jest punktów", xs, ys, None, BoundaryNorm([0.5, 1.5, 3.5, 9.5, 19.5, 1e6], cmap.N), count_labels),
+        ("Mediana oszczędności na pakiecie", xs[priced], ys[priced], savings,
+         BoundaryNorm([-1e3, *SAVINGS_CLASSES, 1e3], cmap.N), class_labels()),
+    )
+    fig_w, fig_h = fig.get_size_inches()
+    x = 0.3
+    for title, px, py, values, norm, labels in panels:
+        text(fig, x, height - 1.12, title, 11, theme["ink"], "bold")
+        ax = fig.add_axes((x / fig_w, bottom / fig_h, panel_w / fig_w, panel_h / fig_h))
+        ax.set_xlim(extent[0], extent[1])
+        ax.set_ylim(extent[2], extent[3])
+        ax.set_aspect("equal")
+        ax.axis("off")
+        ax.hexbin(px, py, C=values, reduce_C_function=np.median, gridsize=HEX_GRID, extent=extent,
+                  mincnt=1, cmap=cmap, norm=norm, linewidths=0.6, edgecolors=theme["surface"])
+        hex_legend(fig, x + panel_w + 0.1, height - 1.55, theme, labels)
+        x += panel_w + legend_w + gap
+    return fig
+
+
 def figure_hero(report: Dict[str, Any]) -> Figure:
     """Baner 1280×640 na górę README i podgląd repozytorium w social media."""
     theme = THEMES["dark"]
@@ -730,7 +793,10 @@ def main():
     docs = Path(args.docs)
     docs.mkdir(parents=True, exist_ok=True)
     save(figure_hero(report), docs / "hero.png")
+    points_report = json.loads(POINTS_REPORT.read_text(encoding="utf-8")) if POINTS_REPORT.exists() else None
     for mode, theme in THEMES.items():
+        if points_report:
+            save(figure_hexmap(points_report, theme), docs / f"punkty-{mode}.svg")
         if compared_cities(report):
             save(figure_map(report, theme), docs / f"mapa-{mode}.svg")
             save(figure_cities(report, theme), docs / f"miasta-{mode}.svg")
