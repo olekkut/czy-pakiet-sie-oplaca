@@ -1,0 +1,50 @@
+miasto,punkt,id_punktu,pakiety_2plus,tansze_2plus,tansze_2plus_proc,mediana_oszczednosci_2plus_proc,szerokosc_geogr,dlugosc_geogr,indeks_cen_badan
+Warszawa,"Warszawa, al. Dwudziestolatków 3",295,238,226,95.00,37.60,52.23,21.01,106.40
+Piła,"Piła, ul. Podchorążych 1",199,221,207,93.70,32.90,53.15,16.74,103.80
+Poznań,"Poznań, al. Solidarności 36",202,221,207,93.70,32.90,52.41,16.94,103.80
+Leszno,"Leszno, al. 21 Października 23",143,220,206,93.60,32.80,51.84,16.58,103.80
+Płock,"Płock, ul. Armii Krajowej 3b",1046,220,207,94.10,32.50,52.55,19.69,102.70
+Radom,"Radom, ul. Chrobrego 30c",215,238,225,94.50,32.50,51.40,21.16,102.70
+Siedlce,"Siedlce, ul. Kochanowskiego 8",720,220,207,94.10,32.50,52.16,22.29,102.70
+Ciechanów,"Ciechanów, ul. Strażacka 7",1176,219,206,94.10,32.40,52.88,20.61,102.70
+Szczecin,"Szczecin, ul. Unii Lubelskiej 1",251,237,224,94.50,30.90,53.42,14.55,102.30
+Koszalin,"Koszalin, ul. Jana Pawła II 7",120,218,205,94.00,30.70,54.19,16.18,102.30
+Gdańsk,"Gdańsk, ul. Kołobrzeska 63f",54,221,208,94.10,30.60,54.35,18.65,101.70
+Elbląg,"Elbląg, ul. Gdyńska 51",52,219,205,93.60,29.70,54.16,19.41,99.00
+Konin,"Konin, ul. Wojska Polskiego 33b",117,238,225,94.50,29.40,52.23,18.25,100.80
+Łódź,"Łódź, ul. Pługowa 51/53",156,220,207,94.10,29.40,51.76,19.46,100.80
+Sieradz,"Sieradz, ul. Bohaterów Września 61",580,221,208,94.10,29.30,51.60,18.73,100.80
+Skierniewice,"Skierniewice, ul. Gałeckiego 1b",344,221,208,94.10,29.30,51.96,20.15,100.80
+Olsztyn,"Olsztyn, ul. Kopernika 30",185,219,205,93.60,29.20,53.78,20.49,99.00
+Piotrków Trybunalski,"Piotrków Trybunalski, ul. Armii Krajowej 15",855,220,207,94.10,29.20,51.41,19.69,100.80
+Włocławek,"Włocławek, ul. Al. Fryderyka Chopina 45/2",692,220,206,93.60,28.30,52.66,19.07,102.00
+Toruń,"Toruń, pl. 18 Stycznia 4",282,238,224,94.10,26.20,53.02,18.62,100.50
+Bydgoszcz,"Bydgoszcz, ul. Gen. A. E. Fieldorfa Nila 4a",26,220,206,93.60,26.00,53.12,18.00,100.50
+Zielona Góra,"Zielona Góra, ul. Kupiecka 22",326,220,202,91.80,26.00,51.94,15.50,100.00
+Gorzów Wielkopolski,"Gorzów Wielkopolski, ul. Warszawska 6/208",66,220,202,91.80,25.90,52.73,15.24,100.00
+Wałbrzych,"Wałbrzych, ul. Matejki 5a",292,220,202,91.80,25.90,50.77,16.27,100.00
+Wrocław,"Wrocław, ul. Młodych Techników 7",307,220,202,91.80,25.90,51.11,17.04,100.00
+Jelenia Góra,"Jelenia Góra, ul. Bankowa 5/7",91,238,220,92.40,25.70,50.90,15.73,100.00
+Kalisz,"Kalisz, ul. Polna 29",94,244,226,92.60,25.70,51.76,18.09,100.00
+Legnica,"Legnica, ul. Biegunowa 2",141,238,220,92.40,25.70,51.21,16.16,100.00
+Słupsk,"Słupsk, ul. Jana Pawła II 1a",234,239,225,94.10,25.20,54.47,17.03,98.60
+Kraków,"Kraków, ul. Olszańska 5",123,225,210,93.30,24.30,50.06,19.94,98.50
+Białystok,"Białystok, ul. Antoniukowska 11",9,243,225,92.60,22.90,53.13,23.17,96.70
+Łomża,"Łomża, al. Marszałka Józefa Piłsudskiego 6",623,219,203,92.70,22.90,53.17,22.07,96.70
+Suwałki,"Suwałki, ul. Utrata 4c",249,241,223,92.50,22.90,54.10,22.93,96.70
+Ostrołęka,"Ostrołęka, ul. 11 Listopada 27",724,225,208,92.40,22.80,53.08,21.57,96.70
+Nowy Sącz,"Nowy Sącz, ul. Żółkiewskiego 11",177,220,198,90.00,18.90,49.62,20.70,95.80
+Tarnobrzeg,"Tarnobrzeg, ul. Wyspiańskiego 13",495,238,217,91.20,17.60,50.57,21.68,95.30
+Kielce,"Kielce, ul. Warszawska 151",103,219,199,90.90,17.30,50.87,20.63,95.30
+Częstochowa,"Częstochowa, al. Wolności 46",37,219,197,90.00,15.40,50.81,19.13,93.80
+Rzeszów,"Rzeszów, ul. Krzyżanowskiego 6h",224,220,195,88.60,15.40,50.04,22.00,94.30
+Katowice,"Katowice, ul. Tysiąclecia 90",98,220,195,88.60,15.10,50.26,19.02,94.80
+Opole,"Opole, ul. Tuwima 1",443,239,215,90.00,14.90,50.67,17.93,94.30
+Bielsko-Biała,"Bielsko-Biała, ul. Żywiecka 71",16,237,211,89.00,14.60,49.82,19.05,95.10
+Przemyśl,"Przemyśl, ul. Jagiellońska 15",1212,242,215,88.80,13.30,49.78,22.77,93.40
+Biała Podlaska,"Biała Podlaska, ul. Janowska 76",6,234,208,88.90,12.00,52.03,23.12,92.30
+Lublin,"Lublin, ul. Topolowa 7",148,221,196,88.70,12.00,51.25,22.57,92.30
+Chełm,"Chełm, al. 3 Maja 22/3",444,215,190,88.40,11.80,51.13,23.47,92.30
+Zamość,"Zamość, al. Jana Pawła II 19",324,215,190,88.40,11.80,50.72,23.25,92.30
+Krosno,"Krosno, ul. Grodzka 47",1186,193,132,68.40,4.70,49.69,21.77,91.00
+Tarnów,"Tarnów, ul. Lwowska 197",414,193,132,68.40,4.70,50.01,20.99,91.00

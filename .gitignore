@@ -1,0 +1,12 @@
+# Lokalne próby jednego punktu (analiza_pakietow.py, scraper.py). Publikowane dane są w wyniki/.
+dane/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS / edytory
+.DS_Store
+Thumbs.db
+desktop.ini
